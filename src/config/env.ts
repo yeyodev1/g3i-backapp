@@ -42,4 +42,13 @@ export const env = {
   CLOUDINARY_API_KEY: optional("CLOUDINARY_API_KEY", ""),
   CLOUDINARY_API_SECRET: optional("CLOUDINARY_API_SECRET", ""),
   CRON_SECRET: optional("CRON_SECRET", ""),
+  SITE_URL: optional("SITE_URL", "https://g3i.ec"),
+  // A quién se avisa por correo cuando entra un formulario.
+  NOTIFY_EMAIL: optional("NOTIFY_EMAIL", ""),
+  // CRM: "kommo" usa la API v4; si hay CRM_WEBHOOK_URL se hace POST del lead.
+  CRM_PROVIDER: optional("CRM_PROVIDER", ""),
+  KOMMO_SUBDOMAIN: optional("KOMMO_SUBDOMAIN", ""),
+  KOMMO_ACCESS_TOKEN: optional("KOMMO_ACCESS_TOKEN", ""),
+  KOMMO_PIPELINE_ID: optional("KOMMO_PIPELINE_ID", ""),
+  CRM_WEBHOOK_URL: optional("CRM_WEBHOOK_URL", ""),
 } as const;
