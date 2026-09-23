@@ -24,6 +24,10 @@ export interface IProperty {
   sector: string;
   city: string;
   address: string;
+  // Subzona visible en tarjetas: barrio, urbanización o proyecto ("Kentia", "Proyecto Taya").
+  locality: string;
+  // Etiqueta corta sobre la foto ("Destacada", "Oportunidad", "Comercial").
+  badge: string;
   location: Location;
   price: number;
   hoa: { enabled: boolean; amount: number };
@@ -72,6 +76,8 @@ const propertySchema = new Schema<IProperty>(
     sector: { type: String, default: "", index: true },
     city: { type: String, default: DEFAULT_CITY },
     address: { type: String, default: "" },
+    locality: { type: String, default: "", trim: true, maxlength: 60 },
+    badge: { type: String, default: "", trim: true, maxlength: 24 },
     location: { type: locationSchema, default: () => ({}) },
     price: { type: Number, default: 0, min: 0 },
     hoa: {
