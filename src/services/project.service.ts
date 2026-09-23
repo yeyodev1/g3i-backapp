@@ -228,7 +228,8 @@ export async function getPublicUnit(slug: string, unitId: string) {
   }).lean();
   if (!unit) throw new CustomError("Unidad no encontrada", 404);
   const [card] = await toProjectCards([project]);
-  return { project: card, unit };
+  // Los renders del proyecto sirven de galería cuando la unidad aún no tiene fotos propias.
+  return { project: { ...card, images: (project as any).images || [] }, unit };
 }
 
 // ─── Admin: proyectos ─────────────────────────────────────────────────
