@@ -35,7 +35,7 @@ const MAX_IMAGES = 25;
 const CODE_REGEX = /^[A-Za-z0-9_-]{1,30}$/;
 
 export const PROPERTY_CARD_FIELDS =
-  "code title slug summary type condition sector price images bedrooms bathrooms parking builtM2 totalM2 frontMeters isFeatured";
+  "code title slug summary type condition sector locality badge price images bedrooms bathrooms parking builtM2 totalM2 frontMeters isFeatured";
 
 export function toPropertyCard(p: any) {
   return {
@@ -47,6 +47,8 @@ export function toPropertyCard(p: any) {
     type: p.type,
     condition: p.condition || "",
     sector: p.sector || "",
+    locality: p.locality || "",
+    badge: p.badge || "",
     price: p.price ?? 0,
     cover: p.images?.[0]?.url || "",
     imagesCount: p.images?.length || 0,
@@ -86,6 +88,8 @@ function buildData(body: Record<string, any>): Record<string, unknown> {
   if (has(body, "summary")) data.summary = str(body.summary, 220);
   if (has(body, "description")) data.description = str(body.description, 50000);
   if (has(body, "address")) data.address = str(body.address, 300);
+  if (has(body, "locality")) data.locality = str(body.locality, 60);
+  if (has(body, "badge")) data.badge = str(body.badge, 24);
   if (has(body, "city")) data.city = str(body.city, 80) || "Quito";
   if (has(body, "type")) data.type = oneOf(body.type, PROPERTY_TYPE_KEYS, "tipo");
   if (has(body, "condition")) {
