@@ -23,6 +23,7 @@ export interface IProject {
   sector: string;
   city: string;
   address: string;
+  locality: string;
   location: Location;
   priceFrom: number | null;
   deliveryDate: string;
@@ -63,6 +64,7 @@ const projectSchema = new Schema<IProject>(
     sector: { type: String, default: "", index: true },
     city: { type: String, default: DEFAULT_CITY },
     address: { type: String, default: "" },
+    locality: { type: String, default: "", trim: true, maxlength: 60 },
     location: { type: locationSchema, default: () => ({}) },
     priceFrom: { type: Number, default: null },
     deliveryDate: { type: String, default: "" },
