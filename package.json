@@ -13,11 +13,16 @@
     "compile": "tsc --watch",
     "start": "node dist/index.js",
     "seed:admin": "ts-node-dev --transpile-only src/scripts/seed-admin.ts",
-    "format": "prettier --write 'src/**/*.{ts,json,md}' 'api/**/*.ts'"
+    "format": "prettier --write 'src/**/*.{ts,json,md}' 'api/**/*.ts'",
+    "migrate:wp": "ts-node-dev --transpile-only src/scripts/wp/import.ts",
+    "scrape:wp": "ts-node-dev --transpile-only src/scripts/wp/scrape.ts",
+    "seed:content": "ts-node-dev --transpile-only src/scripts/seed-content.ts",
+    "migrate:images": "ts-node-dev --transpile-only src/scripts/wp/rehost-images.ts"
   },
   "dependencies": {
     "axios": "^1.7.9",
     "bcryptjs": "^3.0.3",
+    "cheerio": "^1.2.0",
     "cloudinary": "^2.10.0",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
