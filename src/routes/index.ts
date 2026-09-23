@@ -11,6 +11,7 @@ import postRoutes from "./post.routes";
 import faqRoutes from "./faq.routes";
 import leadRoutes from "./lead.routes";
 import adminRoutes from "./admin.routes";
+import sitemapRoutes from "./sitemap.routes";
 
 function routerApi(app: Application) {
   const router = express.Router();
@@ -29,6 +30,7 @@ function routerApi(app: Application) {
   router.use("/posts", postRoutes);
   router.use("/faqs", faqRoutes);
   router.use("/leads", leadRoutes);
+  router.use("/sitemap.xml", sitemapRoutes);
 
   // Portal de administración (auth + admin dentro del router)
   router.use("/admin", adminRoutes);
