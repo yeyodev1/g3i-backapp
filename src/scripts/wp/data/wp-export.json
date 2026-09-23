@@ -1,0 +1,3815 @@
+{
+  "scrapedAt": "2026-09-23T04:31:37.718Z",
+  "source": "https://g3i.ec",
+  "counts": {
+    "properties": 27,
+    "projects": 11,
+    "units": 2,
+    "testimonials": 4,
+    "advisors": 1,
+    "posts": 1,
+    "withCoordinates": 30,
+    "type:casa": 7,
+    "type:departamento": 7,
+    "type:suite": 3,
+    "type:terreno": 10
+  },
+  "properties": [
+    {
+      "wpUrl": "https://g3i.ec/casas/vendo-casa-de-dos-dormitorios-en-pakakuna-gardens-checa/",
+      "wpId": 1591,
+      "publishedAt": null,
+      "modifiedAt": "2022-04-01T17:20:41+00:00",
+      "images": [],
+      "videos": [],
+      "type": "casa",
+      "title": "Vendo casa de dos dormitorios en Pakakuna Gardens, Checa",
+      "originalTitle": "Vendo casa de dos dormitorios en Pakakuna Gardens, Checa",
+      "price": 278000,
+      "sector": null,
+      "sectorRaw": "Checa",
+      "condition": "",
+      "totalM2": null,
+      "builtM2": 128,
+      "gardenM2": null,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "halfBathrooms": null,
+      "parking": 1,
+      "frontMeters": null,
+      "description": "Villa sin adosamiento de 127,6 m2 área útil más 23,04 área de galería\n\n2 dormitorios\n2 baños completos\nCocina americana\n1 parqueadero\n\nUSD 278,000\n\nEspectaculares áreas comunales:\n\nPiscina exterior\nSPA y Piscina cubierta\nPaisajismo y diseño de jardines\nSenderos naturales\nAmplias áreas verdes tipo bosque\nLagunas y reservorio\nRestaurante exclusivo para la urbanización\nCafetería\nEspectacular mirador\nSalones comunales\nCancha de tenis\nCancha de volley\n\n¿Buscas calidad de vida? Pakakuna Gardens es tu mejor elección",
+      "features": [
+        "Luz",
+        "Agua",
+        "Teléfono",
+        "Electricidad",
+        "Parqueadero de visitas",
+        "Bodega",
+        "Chimenea",
+        "Jardín",
+        "BBQ",
+        "Piscina",
+        "Seguridad Privada",
+        "Vista",
+        "Casa Comunal",
+        "Áreas Infantiles",
+        "Conjunto Privado",
+        "Gimnasio",
+        "Sauna",
+        "Hidromasaje"
+      ],
+      "amenities": [
+        "urbanizacion-privada",
+        "area-deportiva",
+        "sala-comunal",
+        "sauna",
+        "piscina",
+        "areas-verdes",
+        "guardiania",
+        "parqueadero-visitas",
+        "gimnasio",
+        "areas-infantiles",
+        "area-bbq",
+        "jacuzzi",
+        "jardin",
+        "vista",
+        "bodega"
+      ],
+      "unmatchedFeatures": [
+        "Luz",
+        "Agua",
+        "Teléfono",
+        "Electricidad",
+        "Chimenea"
+      ],
+      "location": {
+        "lat": -0.119237,
+        "lng": -78.334382
+      },
+      "address": "",
+      "warnings": [
+        "sector sin equivalencia en el catálogo: \"Checa\"",
+        "sin imágenes"
+      ],
+      "raw": {
+        "sitemapType": "casa",
+        "title": "Vendo casa de dos dormitorios en Pakakuna Gardens, Checa",
+        "price": "$ 278.000",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Checa"
+        ],
+        "fields": {
+          "ruler-combined": "128 m²",
+          "tree": "m²",
+          "bed": "2 Hab.",
+          "bath": "2",
+          "car": "1 Parq."
+        },
+        "descriptionText": "Vendo casa de dos dormitorios en Pakakuna Gardens, Checa\n\nVilla sin adosamiento de 127,6 m2 área útil más 23,04 área de galería\n\n2 dormitorios\n2 baños completos\nCocina americana\n1 parqueadero\n\nUSD 278,000\n\nEspectaculares áreas comunales:\n\nPiscina exterior\nSPA y Piscina cubierta\nPaisajismo y diseño de jardines\nSenderos naturales\nAmplias áreas verdes tipo bosque\nLagunas y reservorio\nRestaurante exclusivo para la urbanización\nCafetería\nEspectacular mirador\nSalones comunales\nCancha de tenis\nCancha de volley\n\n¿Buscas calidad de vida? Pakakuna Gardens es tu mejor elección",
+        "features": [
+          "Luz",
+          "Agua",
+          "Teléfono",
+          "Electricidad",
+          "Parqueadero de visitas",
+          "Bodega",
+          "Chimenea",
+          "Jardín",
+          "BBQ",
+          "Piscina",
+          "Seguridad Privada",
+          "Vista",
+          "Casa Comunal",
+          "Áreas Infantiles",
+          "Conjunto Privado",
+          "Gimnasio",
+          "Sauna",
+          "Hidromasaje"
+        ],
+        "mapQuery": "-0.119237, -78.334382"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/casas/casa-en-venta-dentro-de-urb-en-el-corazon-de-cumbaya-255-874/",
+      "wpId": 7580,
+      "publishedAt": null,
+      "modifiedAt": "2026-08-31T14:53:43+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2026/05/Livadi-17.png",
+        "https://g3i.ec/wp-content/uploads/2026/05/Urb.-La-Catolica-casa-5-19.png",
+        "https://g3i.ec/wp-content/uploads/2026/05/Urb.-La-Catolica-casa-5-18.png",
+        "https://g3i.ec/wp-content/uploads/2026/05/Urb.-La-Catolica-casa-5-20.png",
+        "https://g3i.ec/wp-content/uploads/2026/05/Urb.-La-Catolica-casa-5-21.png",
+        "https://g3i.ec/wp-content/uploads/2026/05/Urb.-La-Catolica-casa-5-2.png",
+        "https://g3i.ec/wp-content/uploads/2026/05/Urb.-La-Catolica-casa-5-4.png",
+        "https://g3i.ec/wp-content/uploads/2026/05/Urb.-La-Catolica-casa-5-7.png",
+        "https://g3i.ec/wp-content/uploads/2026/05/Urb.-La-Catolica-casa-5-8.png",
+        "https://g3i.ec/wp-content/uploads/2026/05/Urb.-La-Catolica-casa-5-9.png",
+        "https://g3i.ec/wp-content/uploads/2026/05/Urb.-La-Catolica-casa-5-11.png",
+        "https://g3i.ec/wp-content/uploads/2026/05/Urb.-La-Catolica-casa-5-12.png",
+        "https://g3i.ec/wp-content/uploads/2026/05/Urb.-La-Catolica-casa-5-16.png",
+        "https://g3i.ec/wp-content/uploads/2026/05/Urb.-La-Catolica-casa-5.png",
+        "https://g3i.ec/wp-content/uploads/2026/05/Urb.-La-Catolica-casa-5-3.png"
+      ],
+      "videos": [],
+      "type": "casa",
+      "title": "Casa en venta, dentro de urb. en el corazón de Cumbayá",
+      "originalTitle": "Casa en Venta, Dentro de Urb. en El Corazón de Cumbayá $255.874",
+      "price": 255874,
+      "sector": "cumbaya",
+      "sectorRaw": "Cumbayá",
+      "condition": "",
+      "totalM2": null,
+      "builtM2": 245,
+      "gardenM2": 53.08,
+      "bedrooms": 3,
+      "bathrooms": 4,
+      "halfBathrooms": 1,
+      "parking": 3,
+      "frontMeters": null,
+      "description": "Descubre esta amplia y elegante casa ubicada en una de las zonas más exclusivas y seguras de Cumbayá. Diseñada para brindar comodidad, privacidad y funcionalidad, esta propiedad es ideal para familias que buscan vivir cerca de todo, en un entorno residencial tranquilo y de alta plusvalía.\n\nLa casa cuenta con 3 amplios dormitorios, 4,5 baños, jardín privado, terraza y un acogedor porche perfecto para disfrutar en familia o con amigos. Además, dispone de bodega y 3 estacionamientos, ofreciendo practicidad y espacio para el día a día.\n\nUbicada dentro de una urbanización con guardianía, brinda seguridad y tranquilidad las 24 horas. Su excelente ubicación en Cumbayá permite fácil acceso a centros comerciales, colegios, restaurantes y vías principales.",
+      "features": [
+        "Electricidad",
+        "Bodega",
+        "Jardín",
+        "Terraza"
+      ],
+      "amenities": [
+        "guardiania",
+        "jardin",
+        "terraza",
+        "bodega"
+      ],
+      "unmatchedFeatures": [
+        "Electricidad"
+      ],
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "address": "",
+      "warnings": [
+        "sin mapa de ubicación"
+      ],
+      "raw": {
+        "sitemapType": "casa",
+        "title": "Casa en Venta, Dentro de Urb. en El Corazón de Cumbayá $255.874",
+        "price": "$ 255.874",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Cumbayá"
+        ],
+        "fields": {
+          "ruler-combined": "245 m²",
+          "tree": "53.08 m²",
+          "bed": "3 Hab.",
+          "bath": "4.5",
+          "car": "3 Parq."
+        },
+        "descriptionText": "Descubre esta amplia y elegante casa ubicada en una de las zonas más exclusivas y seguras de Cumbayá. Diseñada para brindar comodidad, privacidad y funcionalidad, esta propiedad es ideal para familias que buscan vivir cerca de todo, en un entorno residencial tranquilo y de alta plusvalía.\n\nLa casa cuenta con 3 amplios dormitorios, 4,5 baños, jardín privado, terraza y un acogedor porche perfecto para disfrutar en familia o con amigos. Además, dispone de bodega y 3 estacionamientos, ofreciendo practicidad y espacio para el día a día.\n\nUbicada dentro de una urbanización con guardianía, brinda seguridad y tranquilidad las 24 horas. Su excelente ubicación en Cumbayá permite fácil acceso a centros comerciales, colegios, restaurantes y vías principales.",
+        "features": [
+          "Electricidad",
+          "Bodega",
+          "Jardín",
+          "Terraza"
+        ],
+        "mapQuery": ""
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/casas/casas-independientes-de-lujo-exclusivas-en-urbanizacion-en-cumbaya/",
+      "wpId": 7088,
+      "publishedAt": null,
+      "modifiedAt": "2026-09-02T22:59:12+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2025/05/Livadi-2.png",
+        "https://g3i.ec/wp-content/uploads/2025/05/Las-Hyedras-8.png",
+        "https://g3i.ec/wp-content/uploads/2025/05/Las-Hyedras-7.png",
+        "https://g3i.ec/wp-content/uploads/2025/05/Las-Hyedras-6.png",
+        "https://g3i.ec/wp-content/uploads/2025/05/Las-Hyedras-2.png",
+        "https://g3i.ec/wp-content/uploads/2025/05/Las-Hyedras-3.png",
+        "https://g3i.ec/wp-content/uploads/2025/05/Las-Hyedras-4.png",
+        "https://g3i.ec/wp-content/uploads/2025/05/Las-Hyedras-5.png",
+        "https://g3i.ec/wp-content/uploads/2025/05/Las-Hyedras-9.png",
+        "https://g3i.ec/wp-content/uploads/2025/05/Las-Hyedras-10.png",
+        "https://g3i.ec/wp-content/uploads/2025/05/Las-Hyedras-11.png",
+        "https://g3i.ec/wp-content/uploads/2025/05/Las-Hyedras-12.png",
+        "https://g3i.ec/wp-content/uploads/2025/05/Las-Hyedras-13.png",
+        "https://g3i.ec/wp-content/uploads/2025/05/Las-Hyedras.png"
+      ],
+      "videos": [],
+      "type": "casa",
+      "title": "Casa independiente de lujo de 4 hab en urbanización en Cumbayá",
+      "originalTitle": "Casa independiente de lujo de 4 hab en urbanización en Cumbayá",
+      "price": 619900,
+      "sector": "cumbaya",
+      "sectorRaw": "Cumbayá",
+      "condition": "",
+      "totalM2": null,
+      "builtM2": 327,
+      "gardenM2": 264,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "halfBathrooms": 1,
+      "parking": 3,
+      "frontMeters": null,
+      "description": "🏡 Casa de lujo en Cumbayá – Sector Auquichico\n\nEspectacular casa independiente en una urbanización con doble filtro de seguridad, que lo tiene todo: diseño, exclusividad y una ubicación privilegiada.\n\nCasa disponible\n4 🛏️ | 4.5 🛁 | 327 m² de construcción + jardín de 264 m² 🌳\n3 🚗 | Dormitorio de servicio 🧺\n💰 Precio: $619.900\n\n✅Ascensor interno para la casa\n\n✅Doble seguridad 24/7\n\n✅ Sala comunal + área verde\n\n✅ 7 parqueaderos de visita\n\n✅ Cámaras de seguridad\n\n✅ Cableado subterráneo\n\n✅ ¡A minutos de todo! 🏥🏫🛍️⚽\n\n📍 La combinación perfecta entre vida urbana y tranquilidad residencial.\n\n📞 Agenda tu visita hoy.",
+      "features": [
+        "Luz",
+        "Agua",
+        "Teléfono",
+        "Electricidad",
+        "Parqueadero de visitas",
+        "Jardín",
+        "BBQ",
+        "Terraza",
+        "Seguridad Privada",
+        "Vista",
+        "Casa Comunal",
+        "Sistema de alarma",
+        "Conjunto Privado"
+      ],
+      "amenities": [
+        "urbanizacion-privada",
+        "sala-comunal",
+        "areas-verdes",
+        "guardiania",
+        "parqueadero-visitas",
+        "area-bbq",
+        "jardin",
+        "vista",
+        "ascensor",
+        "terraza"
+      ],
+      "unmatchedFeatures": [
+        "Luz",
+        "Agua",
+        "Teléfono",
+        "Electricidad"
+      ],
+      "location": {
+        "lat": -0.211972,
+        "lng": -78.440889
+      },
+      "address": "",
+      "warnings": [],
+      "raw": {
+        "sitemapType": "casa",
+        "title": "Casa independiente de lujo de 4 hab en urbanización en Cumbayá",
+        "price": "$ 619.900",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Cumbayá"
+        ],
+        "fields": {
+          "ruler-combined": "327 m²",
+          "tree": "264 m²",
+          "bed": "4 Hab.",
+          "bath": "3.5",
+          "car": "3 Parq."
+        },
+        "descriptionText": "🏡 Casa de lujo en Cumbayá – Sector Auquichico\n\nEspectacular casa independiente en una urbanización con doble filtro de seguridad, que lo tiene todo: diseño, exclusividad y una ubicación privilegiada.\n\nCasa disponible\n4 🛏️ | 4.5 🛁 | 327 m² de construcción + jardín de 264 m² 🌳\n3 🚗 | Dormitorio de servicio 🧺\n💰 Precio: $619.900\n\n✅Ascensor interno para la casa\n\n✅Doble seguridad 24/7\n\n✅ Sala comunal + área verde\n\n✅ 7 parqueaderos de visita\n\n✅ Cámaras de seguridad\n\n✅ Cableado subterráneo\n\n✅ ¡A minutos de todo! 🏥🏫🛍️⚽\n\n📍 La combinación perfecta entre vida urbana y tranquilidad residencial.\n\n📞 Agenda tu visita hoy.",
+        "features": [
+          "Luz",
+          "Agua",
+          "Teléfono",
+          "Electricidad",
+          "Parqueadero de visitas",
+          "Jardín",
+          "BBQ",
+          "Terraza",
+          "Seguridad Privada",
+          "Vista",
+          "Casa Comunal",
+          "Sistema de alarma",
+          "Conjunto Privado"
+        ],
+        "mapQuery": " 0°12'43.1\"S 78°26'27.2\"W"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/casas/casa-en-venta-cumbaya-sector-colegio-menor-casa-de-4-dorm-y-4-parqueaderos/",
+      "wpId": 7755,
+      "publishedAt": null,
+      "modifiedAt": null,
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2026/09/casa-via-lactea-1.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/casa-via-lactea-8.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/casa-via-lactea-2.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/casa-via-lactea.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/casa-via-lactea-3.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/casa-via-lactea-4.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/casa-via-lactea-5.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/casa-via-lactea-6.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/casa-via-lactea-7.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/casa-via-lactea-9.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/casa-via-lactea-10.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/casa-via-lactea-11.png"
+      ],
+      "videos": [],
+      "type": "casa",
+      "title": "Casa en venta Cumbayá – sector Colegio Menor, casa de 4 dormitorios y 4 parqueaderos",
+      "originalTitle": "Casa en Venta Cumbayá – Sector Colegio Menor | casa de 4 Dorm y 4 Parqueaderos",
+      "price": 440000,
+      "sector": "cumbaya",
+      "sectorRaw": "Cumbayá",
+      "condition": "",
+      "totalM2": null,
+      "builtM2": 447,
+      "gardenM2": null,
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "halfBathrooms": null,
+      "parking": 4,
+      "frontMeters": null,
+      "description": "Ubicación y potencial en una sola propiedad — en el corazón de Cumbayá.\n\nCasa con terreno con más de 900 m2, frente al Reservorio de Cumbayá y a pasos del Colegio Menor San Francisco, con la versatilidad de adaptarse tanto como vivienda familiar de lujo como espacio comercial de alto impacto. Una oportunidad real para vivir, invertir o emprender en uno de los sectores más dinámicos y cotizados del valle.\n\nLa propiedad:\n\n- 🛏️ 4 dormitorios amplios, luminosos y bien distribuidos\n- 🚿 4 baños completamente remodelados — listos para estrenar, con acabados modernos\n- 🛋️ Amplia área social — perfecta para recibir, para trabajar o para adaptar a cualquier uso\n- 🚗 4 parqueaderos con posibilidad de ampliación para ganar una zona de estacionamiento más extensa y de fácil acceso — una ventaja clave para uso comercial\n- 🏢 Apta para uso residencial o comercial — consultorios, oficinas, academias, clínicas o el negocio que tengas en mente\n\nUna ubicación que vale por sí sola:\nLa Vía Láctea es una de las arterias más reconocidas y transitadas de Cumbayá. Estar aquí significa tener visibilidad, accesibilidad y todo el ecosistema del valle a tu alrededor: centros comerciales como Paseo San Francisco, Scala Shopping y Ventura Mall, la USFQ, colegios de renombre y conexión directa a Quito por la Ruta Viva.\n\nPrecio: USD $440.000",
+      "features": [
+        "Luz",
+        "Agua",
+        "Electricidad",
+        "Parqueadero de visitas",
+        "Chimenea",
+        "Jardín"
+      ],
+      "amenities": [
+        "parqueadero-visitas",
+        "jardin"
+      ],
+      "unmatchedFeatures": [
+        "Luz",
+        "Agua",
+        "Electricidad",
+        "Chimenea"
+      ],
+      "location": {
+        "lat": -0.19648515310825843,
+        "lng": -78.42526046339249
+      },
+      "address": "",
+      "warnings": [],
+      "raw": {
+        "sitemapType": "casa",
+        "title": "Casa en Venta Cumbayá – Sector Colegio Menor | casa de 4 Dorm y 4 Parqueaderos",
+        "price": "$ 440.000",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Cumbayá"
+        ],
+        "fields": {
+          "ruler-combined": "447 m²",
+          "tree": "m²",
+          "bed": "4 Hab.",
+          "bath": "4",
+          "car": "4 Parq."
+        },
+        "descriptionText": "Ubicación y potencial en una sola propiedad — en el corazón de Cumbayá.\n\nCasa con terreno con más de 900 m2, frente al Reservorio de Cumbayá y a pasos del Colegio Menor San Francisco, con la versatilidad de adaptarse tanto como vivienda familiar de lujo como espacio comercial de alto impacto. Una oportunidad real para vivir, invertir o emprender en uno de los sectores más dinámicos y cotizados del valle.\n\nLa propiedad:\n\n- 🛏️ 4 dormitorios amplios, luminosos y bien distribuidos\n- 🚿 4 baños completamente remodelados — listos para estrenar, con acabados modernos\n- 🛋️ Amplia área social — perfecta para recibir, para trabajar o para adaptar a cualquier uso\n- 🚗 4 parqueaderos con posibilidad de ampliación para ganar una zona de estacionamiento más extensa y de fácil acceso — una ventaja clave para uso comercial\n- 🏢 Apta para uso residencial o comercial — consultorios, oficinas, academias, clínicas o el negocio que tengas en mente\n\nUna ubicación que vale por sí sola:\nLa Vía Láctea es una de las arterias más reconocidas y transitadas de Cumbayá. Estar aquí significa tener visibilidad, accesibilidad y todo el ecosistema del valle a tu alrededor: centros comerciales como Paseo San Francisco, Scala Shopping y Ventura Mall, la USFQ, colegios de renombre y conexión directa a Quito por la Ruta Viva.\n\nPrecio: USD $440.000",
+        "features": [
+          "Luz",
+          "Agua",
+          "Electricidad",
+          "Parqueadero de visitas",
+          "Chimenea",
+          "Jardín"
+        ],
+        "mapQuery": "-0.19648515310825843, -78.42526046339249"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/casas/casa-nueva-en-cumbaya-pachosalas-3-dormitorios-222-m%c2%b2-jardin-privado-en-urbanizacion-segura-entrega-nov-2026/",
+      "wpId": 7778,
+      "publishedAt": null,
+      "modifiedAt": null,
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2026/09/CASA-1-A-ONZE-1.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/casa-1-A-ONZE-4.png",
+        "https://g3i.ec/wp-content/uploads/2025/09/Onze-3.png",
+        "https://g3i.ec/wp-content/uploads/2025/09/Onze.png",
+        "https://g3i.ec/wp-content/uploads/2025/09/Onze-5.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/casa-1-A-ONZE-2.png",
+        "https://g3i.ec/wp-content/uploads/2025/09/Onze-2.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/casa-1-A-ONZE-3.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/casa-1-A-ONZE.png"
+      ],
+      "videos": [],
+      "type": "casa",
+      "title": "Casa nueva en Cumbayá – Pachosalas, 3 dormitorios, 222 m², jardín privado en urbanización segura, entrega nov. 2026",
+      "originalTitle": "Casa nueva en Cumbayá – Pachosalas | 3 Dormitorios, 222 m², Jardín Privado en Urbanización Segura | Entrega Nov. 2026",
+      "price": 328680,
+      "sector": "cumbaya",
+      "sectorRaw": "Cumbayá",
+      "condition": "en-construccion",
+      "totalM2": null,
+      "builtM2": 222.3,
+      "gardenM2": 78.7,
+      "bedrooms": 3,
+      "bathrooms": 4,
+      "halfBathrooms": null,
+      "parking": 1,
+      "frontMeters": null,
+      "description": "Una casa para estrenar con jardín privado en Cumbayá.\n\nEn el exclusivo sector de Pachosalas, Cumbayá, esta casa nueva te ofrece todo lo que una familia moderna necesita: amplitud real, jardín privado y la seguridad de vivir en una urbanización privada.\n\nLa casa:\n\n- 🏠 222,3 m² de construcción total\n- 🌿 78,7 m² de jardín privado\n- 🛏️ 3 dormitorios\n- 🚿 4 baños — 3 y 1 baño social\n- 🏛️ Doble altura\n- 🚗 1 parqueadero\n- ✨ Casa para estrenar\n- 📅 Entrega: Noviembre 2026\n\nEl conjunto:\n\n- 🔒 Urbanización privada y segura — tranquilidad para ti y tu familia las 24 horas\n- 🌳 Áreas comunales diseñadas para el disfrute de toda la familia\n\nVive en uno de los sectores más tranquilos, exclusivos y con mayor plusvalía del valle. A minutos de la Ruta Viva, de colegios como el Colegio Menor San Francisco, Colegio Alemán y SEK International School, de la USFQ y de centros comerciales como Paseo San Francisco, Scala Shopping y Ventura Mall.\n\nPrecio: USD $328.680\nUna casa nueva, con jardín privado, doble altura y urbanización segura en Cumbayá — a este precio es una oportunidad que no se va a repetir.",
+      "features": [
+        "Luz",
+        "Agua",
+        "Electricidad",
+        "Parqueadero de visitas",
+        "Jardín",
+        "BBQ",
+        "Pergola",
+        "Seguridad Privada",
+        "Casa Comunal",
+        "Áreas Infantiles",
+        "Sistema de alarma",
+        "Conjunto Privado",
+        "Video Seguridad",
+        "Gimnasio"
+      ],
+      "amenities": [
+        "urbanizacion-privada",
+        "sala-comunal",
+        "guardiania",
+        "parqueadero-visitas",
+        "gimnasio",
+        "areas-infantiles",
+        "area-bbq",
+        "jardin"
+      ],
+      "unmatchedFeatures": [
+        "Luz",
+        "Agua",
+        "Electricidad",
+        "Pergola"
+      ],
+      "location": {
+        "lat": -0.22071581220311137,
+        "lng": -78.41509737873497
+      },
+      "address": "",
+      "warnings": [],
+      "raw": {
+        "sitemapType": "casa",
+        "title": "Casa nueva en Cumbayá – Pachosalas | 3 Dormitorios, 222 m², Jardín Privado en Urbanización Segura | Entrega Nov. 2026",
+        "price": "$ 328.680",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Cumbayá"
+        ],
+        "fields": {
+          "ruler-combined": "222,3 m²",
+          "tree": "78,7 m²",
+          "bed": "3 Hab.",
+          "bath": "4",
+          "car": "1 Parq."
+        },
+        "descriptionText": "Una casa para estrenar con jardín privado en Cumbayá.\n\nEn el exclusivo sector de Pachosalas, Cumbayá, esta casa nueva te ofrece todo lo que una familia moderna necesita: amplitud real, jardín privado y la seguridad de vivir en una urbanización privada.\n\nLa casa:\n\n- 🏠 222,3 m² de construcción total\n- 🌿 78,7 m² de jardín privado\n- 🛏️ 3 dormitorios\n- 🚿 4 baños — 3 y 1 baño social\n- 🏛️ Doble altura\n- 🚗 1 parqueadero\n- ✨ Casa para estrenar\n- 📅 Entrega: Noviembre 2026\n\nEl conjunto:\n\n- 🔒 Urbanización privada y segura — tranquilidad para ti y tu familia las 24 horas\n- 🌳 Áreas comunales diseñadas para el disfrute de toda la familia\n\nVive en uno de los sectores más tranquilos, exclusivos y con mayor plusvalía del valle. A minutos de la Ruta Viva, de colegios como el Colegio Menor San Francisco, Colegio Alemán y SEK International School, de la USFQ y de centros comerciales como Paseo San Francisco, Scala Shopping y Ventura Mall.\n\nPrecio: USD $328.680\nUna casa nueva, con jardín privado, doble altura y urbanización segura en Cumbayá — a este precio es una oportunidad que no se va a repetir.",
+        "features": [
+          "Luz",
+          "Agua",
+          "Electricidad",
+          "Parqueadero de visitas",
+          "Jardín",
+          "BBQ",
+          "Pergola",
+          "Seguridad Privada",
+          "Casa Comunal",
+          "Áreas Infantiles",
+          "Sistema de alarma",
+          "Conjunto Privado",
+          "Video Seguridad",
+          "Gimnasio"
+        ],
+        "mapQuery": "-0.22071581220311137, -78.41509737873497"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/casas/casa-en-venta-en-cumbaya-pachosalas-3-dormitorios-199-m%c2%b2-jardin-privado-62-m%c2%b2-entrega-nov-2026/",
+      "wpId": 7784,
+      "publishedAt": null,
+      "modifiedAt": null,
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2025/09/FE-ONZE.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/CASA-1-A-ONZE-1.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/casa-1-A-ONZE-4.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/casa-1-A-ONZE-3.png",
+        "https://g3i.ec/wp-content/uploads/2025/09/Onze-5.png",
+        "https://g3i.ec/wp-content/uploads/2025/09/Onze-4.png",
+        "https://g3i.ec/wp-content/uploads/2025/09/Onze-3.png",
+        "https://g3i.ec/wp-content/uploads/2025/09/Onze-2.png"
+      ],
+      "videos": [],
+      "type": "casa",
+      "title": "Casa en venta en Cumbayá – Pachosalas, 3 dormitorios, 199 m², jardín privado 62 m², entrega nov. 2026",
+      "originalTitle": "Casa en Venta en Cumbayá – Pachosalas | 3 Dormitorios, 199 m², Jardín Privado 62 m² | Entrega Nov. 2026",
+      "price": 292500,
+      "sector": "cumbaya",
+      "sectorRaw": "Cumbayá",
+      "condition": "en-construccion",
+      "totalM2": null,
+      "builtM2": 199.71,
+      "gardenM2": 62.93,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "halfBathrooms": 1,
+      "parking": 1,
+      "frontMeters": null,
+      "description": "Una casa para estrenar con diseño único, jardín privado y todo el encanto de vivir en Cumbayá.\n\nEn el exclusivo sector de Pachosalas, Cumbayá, esta casa nueva te ofrece todo lo que una familia moderna necesita.\n\nLa casa:\n\n- 🏠 199,71 m² de construcción total\n- 🌿 62,93 m² de jardín privado\n- 🛏️ 3 dormitorios\n- 🚿 4 baños\n- 🏛️ Doble altura — un diseño arquitectónico único que aporta luminosidad, amplitud visual y un estilo que realmente impresiona\n- 🚗 1 parqueadero\n- ✨ Casa para estrenar\n- 📅 Entrega: Noviembre 2026\n\nEl conjunto:\n\n- 🔒 Urbanización privada y segura — tranquilidad para ti y tu familia las 24 horas\n- 🌳 Áreas comunales diseñadas para el disfrute de toda la familia\n- 🏡 Casas amplias con diseño único — un proyecto que rompe con lo convencional\n\n¿Por qué Pachosalas, Cumbayá?\nUno de los sectores más tranquilos, exclusivos y con mayor plusvalía del valle. A minutos de la Ruta Viva, de colegios como el Colegio Menor San Francisco, Colegio Alemán y SEK International School, de la USFQ y de centros comerciales como Paseo San Francisco, Scala Shopping y Ventura Mall.\n\nPrecio: USD $292.500",
+      "features": [
+        "Luz",
+        "Agua",
+        "Electricidad",
+        "Parqueadero de visitas",
+        "Jardín",
+        "BBQ",
+        "Pergola",
+        "Seguridad Privada",
+        "Casa Comunal",
+        "Áreas Infantiles",
+        "Sistema de alarma",
+        "Conjunto Privado",
+        "Video Seguridad",
+        "Gimnasio"
+      ],
+      "amenities": [
+        "urbanizacion-privada",
+        "sala-comunal",
+        "guardiania",
+        "parqueadero-visitas",
+        "gimnasio",
+        "areas-infantiles",
+        "area-bbq",
+        "jardin"
+      ],
+      "unmatchedFeatures": [
+        "Luz",
+        "Agua",
+        "Electricidad",
+        "Pergola"
+      ],
+      "location": {
+        "lat": -0.22050123707664568,
+        "lng": -78.41502227688538
+      },
+      "address": "",
+      "warnings": [],
+      "raw": {
+        "sitemapType": "casa",
+        "title": "Casa en Venta en Cumbayá – Pachosalas | 3 Dormitorios, 199 m², Jardín Privado 62 m² | Entrega Nov. 2026",
+        "price": "$ 292.500",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Cumbayá"
+        ],
+        "fields": {
+          "ruler-combined": "199,71 m²",
+          "tree": "62,93 m²",
+          "bed": "3 Hab.",
+          "bath": "3,5",
+          "car": "1 Parq."
+        },
+        "descriptionText": "Una casa para estrenar con diseño único, jardín privado y todo el encanto de vivir en Cumbayá.\n\nEn el exclusivo sector de Pachosalas, Cumbayá, esta casa nueva te ofrece todo lo que una familia moderna necesita.\n\nLa casa:\n\n- 🏠 199,71 m² de construcción total\n- 🌿 62,93 m² de jardín privado\n- 🛏️ 3 dormitorios\n- 🚿 4 baños\n- 🏛️ Doble altura — un diseño arquitectónico único que aporta luminosidad, amplitud visual y un estilo que realmente impresiona\n- 🚗 1 parqueadero\n- ✨ Casa para estrenar\n- 📅 Entrega: Noviembre 2026\n\nEl conjunto:\n\n- 🔒 Urbanización privada y segura — tranquilidad para ti y tu familia las 24 horas\n- 🌳 Áreas comunales diseñadas para el disfrute de toda la familia\n- 🏡 Casas amplias con diseño único — un proyecto que rompe con lo convencional\n\n¿Por qué Pachosalas, Cumbayá?\nUno de los sectores más tranquilos, exclusivos y con mayor plusvalía del valle. A minutos de la Ruta Viva, de colegios como el Colegio Menor San Francisco, Colegio Alemán y SEK International School, de la USFQ y de centros comerciales como Paseo San Francisco, Scala Shopping y Ventura Mall.\n\nPrecio: USD $292.500",
+        "features": [
+          "Luz",
+          "Agua",
+          "Electricidad",
+          "Parqueadero de visitas",
+          "Jardín",
+          "BBQ",
+          "Pergola",
+          "Seguridad Privada",
+          "Casa Comunal",
+          "Áreas Infantiles",
+          "Sistema de alarma",
+          "Conjunto Privado",
+          "Video Seguridad",
+          "Gimnasio"
+        ],
+        "mapQuery": "-0.22050123707664568, -78.41502227688538"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/casas/casa-por-estrenar-en-cumbaya-pachosalas-3-dormitorios-200-m%c2%b2-jardin-privado-entrega-nov-2026/",
+      "wpId": 7785,
+      "publishedAt": null,
+      "modifiedAt": null,
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2026/09/CASA-1-A-ONZE-1.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/casa-1-A-ONZE.png",
+        "https://g3i.ec/wp-content/uploads/2025/09/Onze-3.png",
+        "https://g3i.ec/wp-content/uploads/2025/09/Onze-5.png",
+        "https://g3i.ec/wp-content/uploads/2025/09/Onze-2.png",
+        "https://g3i.ec/wp-content/uploads/2025/09/Onze-8.png"
+      ],
+      "videos": [],
+      "type": "casa",
+      "title": "Casa por estrenar en Cumbayá – Pachosalas, 3 dormitorios, 200 m², jardín privado, entrega nov. 2026",
+      "originalTitle": "Casa por estrenar en Cumbayá – Pachosalas | 3 Dormitorios, 200 m², Jardín Privado, entrega Nov. 2026",
+      "price": 303900,
+      "sector": "cumbaya",
+      "sectorRaw": "Cumbayá",
+      "condition": "en-construccion",
+      "totalM2": null,
+      "builtM2": 200.74,
+      "gardenM2": 93.38,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "halfBathrooms": 1,
+      "parking": 1,
+      "frontMeters": null,
+      "description": "En el sector de Pachosalas, Cumbayá, esta casa para estrenar destaca por algo que muy pocas propiedades en su precio pueden ofrecer: un jardín privado de 93,38 m² que prácticamente duplica la experiencia de vivir al aire libre. Perfecta para familias que valoran el espacio, la naturaleza y la tranquilidad — sin salir de su propia casa.\n\nLa casa:\n\n- 🏠 200,74 m² de construcción total — amplitud real en cada ambiente\n- 🌿 93,38 m² de jardín privado — espacio verde propio ideal para niños, mascotas, asados o simplemente descansar bajo el sol de Cumbayá\n- 🛏️ 3 dormitorios amplios y luminosos\n- 🚿 4 baños — comodidad garantizada para toda la familia\n- 🏛️ Doble altura — arquitectura contemporánea que llena de luz y amplitud visual cada rincón\n- 🚗 1 parqueadero propio incluido\n- ✨ Casa para estrenar\n- 📅 Entrega: Noviembre 2026\n\nEl conjunto:\n\n- 🔒 Urbanización privada y segura — tranquilidad para ti y tu familia las 24 horas\n- 🌳 Áreas comunales diseñadas para el disfrute de toda la familia.\n\n¿Por qué Pachosalas, Cumbayá?\nUno de los sectores más tranquilos, exclusivos y con mayor plusvalía del valle. A minutos de la Ruta Viva, de colegios como el Colegio Menor San Francisco, Colegio Alemán y SEK International School, de la USFQ y de centros comerciales como Paseo San Francisco, Scala Shopping y Ventura Mall.\n\nPrecio: USD $303.900\nCasa nueva, con el jardín privado más amplio del proyecto y doble altura en una de las mejores ubicaciones de Cumbayá.",
+      "features": [
+        "Luz",
+        "Agua",
+        "Electricidad",
+        "Parqueadero de visitas",
+        "Jardín",
+        "BBQ",
+        "Pergola",
+        "Seguridad Privada",
+        "Vista",
+        "Casa Comunal",
+        "Áreas Infantiles",
+        "Sistema de alarma",
+        "Conjunto Privado",
+        "Video Seguridad",
+        "Gimnasio"
+      ],
+      "amenities": [
+        "urbanizacion-privada",
+        "sala-comunal",
+        "guardiania",
+        "parqueadero-visitas",
+        "gimnasio",
+        "areas-infantiles",
+        "area-bbq",
+        "jardin",
+        "vista"
+      ],
+      "unmatchedFeatures": [
+        "Luz",
+        "Agua",
+        "Electricidad",
+        "Pergola"
+      ],
+      "location": {
+        "lat": -0.22058706712760853,
+        "lng": -78.41503300572104
+      },
+      "address": "",
+      "warnings": [],
+      "raw": {
+        "sitemapType": "casa",
+        "title": "Casa por estrenar en Cumbayá – Pachosalas | 3 Dormitorios, 200 m², Jardín Privado, entrega Nov. 2026",
+        "price": "$ 303.900",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Cumbayá"
+        ],
+        "fields": {
+          "ruler-combined": "200,74 m²",
+          "tree": "93,38 m²",
+          "bed": "3 Hab.",
+          "bath": "3,5",
+          "car": "1 Parq."
+        },
+        "descriptionText": "En el sector de Pachosalas, Cumbayá, esta casa para estrenar destaca por algo que muy pocas propiedades en su precio pueden ofrecer: un jardín privado de 93,38 m² que prácticamente duplica la experiencia de vivir al aire libre. Perfecta para familias que valoran el espacio, la naturaleza y la tranquilidad — sin salir de su propia casa.\n\nLa casa:\n\n- 🏠 200,74 m² de construcción total — amplitud real en cada ambiente\n- 🌿 93,38 m² de jardín privado — espacio verde propio ideal para niños, mascotas, asados o simplemente descansar bajo el sol de Cumbayá\n- 🛏️ 3 dormitorios amplios y luminosos\n- 🚿 4 baños — comodidad garantizada para toda la familia\n- 🏛️ Doble altura — arquitectura contemporánea que llena de luz y amplitud visual cada rincón\n- 🚗 1 parqueadero propio incluido\n- ✨ Casa para estrenar\n- 📅 Entrega: Noviembre 2026\n\nEl conjunto:\n\n- 🔒 Urbanización privada y segura — tranquilidad para ti y tu familia las 24 horas\n- 🌳 Áreas comunales diseñadas para el disfrute de toda la familia.\n\n¿Por qué Pachosalas, Cumbayá?\nUno de los sectores más tranquilos, exclusivos y con mayor plusvalía del valle. A minutos de la Ruta Viva, de colegios como el Colegio Menor San Francisco, Colegio Alemán y SEK International School, de la USFQ y de centros comerciales como Paseo San Francisco, Scala Shopping y Ventura Mall.\n\nPrecio: USD $303.900\nCasa nueva, con el jardín privado más amplio del proyecto y doble altura en una de las mejores ubicaciones de Cumbayá.",
+        "features": [
+          "Luz",
+          "Agua",
+          "Electricidad",
+          "Parqueadero de visitas",
+          "Jardín",
+          "BBQ",
+          "Pergola",
+          "Seguridad Privada",
+          "Vista",
+          "Casa Comunal",
+          "Áreas Infantiles",
+          "Sistema de alarma",
+          "Conjunto Privado",
+          "Video Seguridad",
+          "Gimnasio"
+        ],
+        "mapQuery": "-0.22058706712760853, -78.41503300572104"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/departamentos/departamento-en-venta-en-proyecto-3-dormitorios-dentro-de-urbanizacion-cumbaya/",
+      "wpId": 5094,
+      "publishedAt": null,
+      "modifiedAt": "2025-11-11T17:37:21+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2023/12/Finisterra-2-2.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Finisterra-103-10.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Finisterra-103-2.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Finisterra-103.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Finisterra-103-9.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Finisterra-103-7.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Finisterra-103-3.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Finisterra-3-2.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Finisterra-103-4.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Finisterra-103-5.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Finisterra-103-8.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Finisterra-103-6.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Finisterra-9.png"
+      ],
+      "videos": [],
+      "type": "departamento",
+      "title": "Departamento en venta en proyecto, Cumbayá",
+      "originalTitle": "Departamento en venta en proyecto, Cumbayá.",
+      "price": 254900,
+      "sector": "cumbaya",
+      "sectorRaw": "Cumbayá",
+      "condition": "a-estrenar",
+      "totalM2": null,
+      "builtM2": 177.3,
+      "gardenM2": 103,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "halfBathrooms": 1,
+      "parking": 2,
+      "frontMeters": null,
+      "description": "2 últimos departamentos en venta en proyecto, 3 dormitorios dentro de Urbanización. Cumbayá.\n\nDepartamento 1 de 📏177,3m² $ 254.900\n\nJardin de 103 m²\n\nDepartamento 2 de 📏181,6 m² $ 274.900\n\nJardin de 105 m²\n\nMaravillosa vista e iluminación natural\n\n📍 Excelente ubicación\n\nModerno diseño constructivo\n\n🌄 Espacios amplios y cómodos\n\nUrbanización privada\n\n🛏️ 3 dormitorios c/u con baño\n\n💧 Baño social\n\n📺 Family room\n\n🛋️ Integración única de área social y exterior\n\n🚗 Amplios parqueaderos\n\n🔑✨Listo para entrega🔑✨\n\n¡Tu mejor inversión!",
+      "features": [
+        "Luz",
+        "Agua",
+        "Electricidad",
+        "Parqueadero de visitas",
+        "Bodega",
+        "Walking Closet",
+        "Jardín",
+        "BBQ",
+        "Seguridad Privada",
+        "Conjunto Privado"
+      ],
+      "amenities": [
+        "urbanizacion-privada",
+        "guardiania",
+        "parqueadero-visitas",
+        "area-bbq",
+        "jardin",
+        "vista",
+        "bodega"
+      ],
+      "unmatchedFeatures": [
+        "Luz",
+        "Agua",
+        "Electricidad",
+        "Walking Closet"
+      ],
+      "location": {
+        "lat": -0.20666,
+        "lng": -78.454078
+      },
+      "address": "",
+      "warnings": [
+        "la descripción menciona varios precios (¿varias unidades en una ficha?)"
+      ],
+      "raw": {
+        "sitemapType": "departamento",
+        "title": "Departamento en venta en proyecto, Cumbayá.",
+        "price": "$ 254.900",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Cumbayá"
+        ],
+        "fields": {
+          "ruler-combined": "177,3 m²",
+          "tree": "103 m²",
+          "bed": "3 Hab.",
+          "bath": "3.5",
+          "car": "2 Parq."
+        },
+        "descriptionText": "2 últimos departamentos en venta en proyecto, 3 dormitorios dentro de Urbanización. Cumbayá.\n\nDepartamento 1 de 📏177,3m² $ 254.900\n\nJardin de 103 m²\n\nDepartamento 2 de 📏181,6 m² $ 274.900\n\nJardin de 105 m²\n\nMaravillosa vista e iluminación natural\n\n📍 Excelente ubicación\n\nModerno diseño constructivo\n\n🌄 Espacios amplios y cómodos\n\nUrbanización privada\n\n🛏️ 3 dormitorios c/u con baño\n\n💧 Baño social\n\n📺 Family room\n\n🛋️ Integración única de área social y exterior\n\n🚗 Amplios parqueaderos\n\n🔑✨Listo para entrega🔑✨\n\n¡Tu mejor inversión!",
+        "features": [
+          "Luz",
+          "Agua",
+          "Electricidad",
+          "Parqueadero de visitas",
+          "Bodega",
+          "Walking Closet",
+          "Jardín",
+          "BBQ",
+          "Seguridad Privada",
+          "Conjunto Privado"
+        ],
+        "mapQuery": "-0.206660, -78.454078"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/departamentos/%f0%9f%8f%a1-suite-por-estrenar-con-vista-espectacular-cumbaya-quito/",
+      "wpId": 7272,
+      "publishedAt": null,
+      "modifiedAt": "2025-12-29T19:59:38+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2025/10/FE-Arriendo.png",
+        "https://g3i.ec/wp-content/uploads/2025/10/AGP-venta-6.png",
+        "https://g3i.ec/wp-content/uploads/2025/10/AGP-Arriendo-12.png",
+        "https://g3i.ec/wp-content/uploads/2025/10/AGP-venta-4.png",
+        "https://g3i.ec/wp-content/uploads/2025/10/AGP-venta-2.png",
+        "https://g3i.ec/wp-content/uploads/2025/10/AGP-venta-3.png",
+        "https://g3i.ec/wp-content/uploads/2025/10/AGP-venta-5.png",
+        "https://g3i.ec/wp-content/uploads/2025/10/AGP-Arriendo.png",
+        "https://g3i.ec/wp-content/uploads/2025/10/AGP-Arriendo-8.png",
+        "https://g3i.ec/wp-content/uploads/2025/10/AGP-Arriendo-5.png"
+      ],
+      "videos": [],
+      "type": "suite",
+      "title": "Suite por estrenar con vista espectacular – Cumbayá, Quito",
+      "originalTitle": "🏡 Suite por estrenar con vista espectacular – Cumbayá, Quito",
+      "price": 99900,
+      "sector": "cumbaya",
+      "sectorRaw": "Cumbayá",
+      "condition": "a-estrenar",
+      "totalM2": null,
+      "builtM2": 51,
+      "gardenM2": null,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "halfBathrooms": 1,
+      "parking": 1,
+      "frontMeters": null,
+      "description": "✨ Ubicación privilegiada: En el corazón de Cumbayá, a solo 5 minutos de la USFQ.\nPerfecta para vivir o invertir en una de las zonas con mayor plusvalía del valle.\n\n📏 51 m² de elegancia y confort\n💰 Precio: $99.900\n🏙️ Vista panorámica que te encantará\n🏗️ En moderno conjunto de tres torres por estrenar\n\n🌟 Amenidades que elevan tu estilo de vida:\n🐾 Área Pet Friendly\n🔥 BBQ y Teppanyaki\n🎾 Pádel / Pickleball\n🌇 Terraza panorámica\n💼 Cowork y salón comunal\n🏋️‍♀️ Gimnasio y área de yoga\n🧖‍♀️ Áreas húmedas (sauna, turco, jacuzzi)\n\nVive con comodidad, diseño y exclusividad en el mejor sector de Cumbayá 🌿\n📲 ¡Reserva tu visita hoy y conoce tu próxima inversión o nuevo hogar!",
+      "features": [
+        "Luz",
+        "Agua",
+        "Electricidad",
+        "Parqueadero de visitas",
+        "Bodega",
+        "Walking Closet",
+        "BBQ",
+        "Pergola",
+        "Seguridad Privada",
+        "Conjunto Privado",
+        "Ascensor"
+      ],
+      "amenities": [
+        "urbanizacion-privada",
+        "sala-comunal",
+        "sauna",
+        "turco",
+        "guardiania",
+        "parqueadero-visitas",
+        "gimnasio",
+        "area-bbq",
+        "jacuzzi",
+        "vista",
+        "ascensor",
+        "bodega"
+      ],
+      "unmatchedFeatures": [
+        "Luz",
+        "Agua",
+        "Electricidad",
+        "Walking Closet",
+        "Pergola"
+      ],
+      "location": {
+        "lat": -0.202398,
+        "lng": -78.432096
+      },
+      "address": "",
+      "warnings": [],
+      "raw": {
+        "sitemapType": "departamento",
+        "title": "🏡 Suite por estrenar con vista espectacular – Cumbayá, Quito",
+        "price": "$ 99.900",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Cumbayá"
+        ],
+        "fields": {
+          "ruler-combined": "51 m²",
+          "tree": "0 m²",
+          "bed": "1 Hab.",
+          "bath": "1,5",
+          "car": "1 Parq."
+        },
+        "descriptionText": "✨ Ubicación privilegiada: En el corazón de Cumbayá, a solo 5 minutos de la USFQ.\nPerfecta para vivir o invertir en una de las zonas con mayor plusvalía del valle.\n\n📏 51 m² de elegancia y confort\n💰 Precio: $99.900\n🏙️ Vista panorámica que te encantará\n🏗️ En moderno conjunto de tres torres por estrenar\n\n🌟 Amenidades que elevan tu estilo de vida:\n🐾 Área Pet Friendly\n🔥 BBQ y Teppanyaki\n🎾 Pádel / Pickleball\n🌇 Terraza panorámica\n💼 Cowork y salón comunal\n🏋️‍♀️ Gimnasio y área de yoga\n🧖‍♀️ Áreas húmedas (sauna, turco, jacuzzi)\n\nVive con comodidad, diseño y exclusividad en el mejor sector de Cumbayá 🌿\n📲 ¡Reserva tu visita hoy y conoce tu próxima inversión o nuevo hogar!",
+        "features": [
+          "Luz",
+          "Agua",
+          "Electricidad",
+          "Parqueadero de visitas",
+          "Bodega",
+          "Walking Closet",
+          "BBQ",
+          "Pergola",
+          "Seguridad Privada",
+          "Conjunto Privado",
+          "Ascensor"
+        ],
+        "mapQuery": "-0.202398, -78.432096"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/departamentos/departamento-en-venta-edificio-livadi-urbanizacion-real-alto/",
+      "wpId": 7397,
+      "publishedAt": null,
+      "modifiedAt": "2026-03-31T19:40:13+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2026/03/Livadi-1.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/LIVADI-7.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/LIVADI-6.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/LIVADI-2.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/LIVADI-3.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/LIVADI-4.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/LIVADI-5.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/LIVADI.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/LIVADI-9.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/LIVADI-8.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/LIVADI-10.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/LIVADI-11.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/LIVADI-12.png"
+      ],
+      "videos": [],
+      "type": "departamento",
+      "title": "Departamento en venta – edificio Livadi, urbanización Real Alto",
+      "originalTitle": "Departamento en Venta – Edificio Livadi, Urbanización Real Alto",
+      "price": 140000,
+      "sector": "cumbaya",
+      "sectorRaw": "Cumbayá",
+      "condition": "",
+      "totalM2": null,
+      "builtM2": 80,
+      "gardenM2": null,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "halfBathrooms": null,
+      "parking": 2,
+      "frontMeters": null,
+      "description": "Ubicación y Seguridad Ubicado en el Edificio Livadi dentro de la Urbanización Real Alto , uno de los sectores más seguros y consolidados de Cumbayá. La propiedad goza de una ubicación privilegiada con alta proyección de plusvalía debido al desarrollo de proyectos cercanos como San Patricio.\n\nCaracterísticas del Inmueble\n\nÁrea: Aproximadamente 80 m2 de construcción.\n\nDistribución: Cuenta con 2 dormitorios iluminados.\n\nEspacios Sociales: Amplia sala de estar y comedor con excelente distribución de espacio.\n\nBaños: El departamento dispone de 2 baños completos.\n\nComplementos: Incluye dos parqueaderos y una bodega privada.\n\nInfraestructura del Edificio\n\nAccesibilidad: Ascensor con acceso a todos los niveles, incluyendo la terraza.\n\nÁrea Social: Terraza comunal equipada con zona de BBQ.\n\nServicios: El edificio cuenta con cisterna.\n\nAmenidades de la Urbanización La urbanización Real Alto destaca por sus amplias áreas verdes y equipamiento:\n\nParque Privado: Más de una hectárea de áreas verdes.\n\nInstalaciones Deportivas: Canchas de fútbol, tenis y basket.\n\nEquipamiento: Gimnasio al aire libre (máquinas de ejercicio) y juegos infantiles.\n\nSalón de Eventos: Sala comunal disponible para reuniones y eventos sociales.",
+      "features": [
+        "Parqueadero de visitas",
+        "Jardín",
+        "BBQ",
+        "Terraza",
+        "Casa Comunal",
+        "Áreas Infantiles",
+        "Ascensor",
+        "Gimnasio"
+      ],
+      "amenities": [
+        "sala-estar",
+        "area-eventos",
+        "area-deportiva",
+        "sala-comunal",
+        "areas-verdes",
+        "parqueadero-visitas",
+        "cisterna",
+        "gimnasio",
+        "areas-infantiles",
+        "area-bbq",
+        "jardin",
+        "ascensor",
+        "terraza"
+      ],
+      "unmatchedFeatures": [],
+      "location": {
+        "lat": -0.219937,
+        "lng": -78.439312
+      },
+      "address": "",
+      "warnings": [],
+      "raw": {
+        "sitemapType": "departamento",
+        "title": "Departamento en Venta – Edificio Livadi, Urbanización Real Alto",
+        "price": "$ 140.000",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Cumbayá"
+        ],
+        "fields": {
+          "ruler-combined": "80 m²",
+          "tree": "m²",
+          "bed": "2 Hab.",
+          "bath": "2",
+          "car": "2 Parq."
+        },
+        "descriptionText": "Ubicación y Seguridad Ubicado en el Edificio Livadi dentro de la Urbanización Real Alto , uno de los sectores más seguros y consolidados de Cumbayá. La propiedad goza de una ubicación privilegiada con alta proyección de plusvalía debido al desarrollo de proyectos cercanos como San Patricio.\n\nCaracterísticas del Inmueble\n\nÁrea: Aproximadamente 80 m2 de construcción.\n\nDistribución: Cuenta con 2 dormitorios iluminados.\n\nEspacios Sociales: Amplia sala de estar y comedor con excelente distribución de espacio.\n\nBaños: El departamento dispone de 2 baños completos.\n\nComplementos: Incluye dos parqueaderos y una bodega privada.\n\nInfraestructura del Edificio\n\nAccesibilidad: Ascensor con acceso a todos los niveles, incluyendo la terraza.\n\nÁrea Social: Terraza comunal equipada con zona de BBQ.\n\nServicios: El edificio cuenta con cisterna.\n\nAmenidades de la Urbanización La urbanización Real Alto destaca por sus amplias áreas verdes y equipamiento:\n\nParque Privado: Más de una hectárea de áreas verdes.\n\nInstalaciones Deportivas: Canchas de fútbol, tenis y basket.\n\nEquipamiento: Gimnasio al aire libre (máquinas de ejercicio) y juegos infantiles.\n\nSalón de Eventos: Sala comunal disponible para reuniones y eventos sociales.",
+        "features": [
+          "Parqueadero de visitas",
+          "Jardín",
+          "BBQ",
+          "Terraza",
+          "Casa Comunal",
+          "Áreas Infantiles",
+          "Ascensor",
+          "Gimnasio"
+        ],
+        "mapQuery": "QHJ6+27 Quito"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/departamentos/suite-de-lujo-en-venta-en-puembo-147-70790/",
+      "wpId": 7634,
+      "publishedAt": null,
+      "modifiedAt": null,
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-PORTADA.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-2.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-8.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-4.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-5.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-6.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-3.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-7.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-9.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-10.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-11.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-12.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-13.png"
+      ],
+      "videos": [],
+      "type": "suite",
+      "title": "Suite de lujo en venta en Puembo",
+      "originalTitle": "Suite de Lujo en Venta en Puembo $147.707,90",
+      "price": 147707,
+      "sector": "puembo",
+      "sectorRaw": "Puembo",
+      "condition": "",
+      "totalM2": null,
+      "builtM2": 85,
+      "gardenM2": null,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "halfBathrooms": 1,
+      "parking": 1,
+      "frontMeters": null,
+      "description": "Descubre esta exclusiva suite de 1 dormitorio ubicada en Puembo, una zona residencial que combina tranquilidad, naturaleza y excelente conectividad.\n\nCon 67,40 m² de área interior y una amplia terraza de 18 m², este espacio ha sido diseñado para brindar comodidad, funcionalidad y una experiencia de vida única. Incluye 1 parqueadero y 1 bodega para mayor practicidad.\n\nPrecio: $147.707,90\n\nEl proyecto ofrece completas áreas comunales para disfrutar en familia y mejorar tu calidad de vida:\n\nPiscina\nGimnasio equipado\nJardines y áreas verdes\nZona BBQ\nSala de juegos para niños\n\nIdeal para quienes buscan vivir rodeados de naturaleza o realizar una inversión con alto potencial de valorización en una de las zonas de mayor crecimiento del valle.\n\nContáctanos para más información y agenda tu visita.",
+      "features": [
+        "Parqueadero de visitas",
+        "Bodega",
+        "Jardín",
+        "BBQ",
+        "Terraza",
+        "Piscina",
+        "Ascensor",
+        "Gimnasio"
+      ],
+      "amenities": [
+        "piscina",
+        "areas-verdes",
+        "parqueadero-visitas",
+        "gimnasio",
+        "area-bbq",
+        "jardin",
+        "ascensor",
+        "terraza",
+        "bodega"
+      ],
+      "unmatchedFeatures": [],
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "address": "",
+      "warnings": [
+        "sin mapa de ubicación"
+      ],
+      "raw": {
+        "sitemapType": "departamento",
+        "title": "Suite de Lujo en Venta en Puembo $147.707,90",
+        "price": "$ 147.707",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Puembo"
+        ],
+        "fields": {
+          "ruler-combined": "85 m²",
+          "tree": "m²",
+          "bed": "1 Hab.",
+          "bath": "1,5",
+          "car": "1 Parq."
+        },
+        "descriptionText": "Descubre esta exclusiva suite de 1 dormitorio ubicada en Puembo, una zona residencial que combina tranquilidad, naturaleza y excelente conectividad.\n\nCon 67,40 m² de área interior y una amplia terraza de 18 m², este espacio ha sido diseñado para brindar comodidad, funcionalidad y una experiencia de vida única. Incluye 1 parqueadero y 1 bodega para mayor practicidad.\n\nPrecio: $147.707,90\n\nEl proyecto ofrece completas áreas comunales para disfrutar en familia y mejorar tu calidad de vida:\n\nPiscina\nGimnasio equipado\nJardines y áreas verdes\nZona BBQ\nSala de juegos para niños\n\nIdeal para quienes buscan vivir rodeados de naturaleza o realizar una inversión con alto potencial de valorización en una de las zonas de mayor crecimiento del valle.\n\nContáctanos para más información y agenda tu visita.",
+        "features": [
+          "Parqueadero de visitas",
+          "Bodega",
+          "Jardín",
+          "BBQ",
+          "Terraza",
+          "Piscina",
+          "Ascensor",
+          "Gimnasio"
+        ],
+        "mapQuery": ""
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/departamentos/departamento-de-lujo-en-venta-en-puembo-3-dorm-319-31382/",
+      "wpId": 7649,
+      "publishedAt": null,
+      "modifiedAt": null,
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-PORTADA.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-13.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-12.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-11.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-10.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-9.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-8.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-7.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-6.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-5.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-4.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-3.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-2.png"
+      ],
+      "videos": [],
+      "type": "departamento",
+      "title": "Departamento de lujo en venta en Puembo, 3 dormitorios",
+      "originalTitle": "Departamento de Lujo en Venta en Puembo, 3 Dorm. $319.313,82",
+      "price": 319313,
+      "sector": "puembo",
+      "sectorRaw": "Puembo",
+      "condition": "",
+      "totalM2": null,
+      "builtM2": 183,
+      "gardenM2": null,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "halfBathrooms": 1,
+      "parking": 3,
+      "frontMeters": null,
+      "description": "Descubre este exclusivo departamento de 3 dormitorios ubicada en Puembo, una zona residencial que combina tranquilidad, naturaleza y excelente conectividad.\n\nCon 163,70 m² de área interior y una amplia terraza de 19,60 m², este espacio ha sido diseñado para brindar comodidad, funcionalidad y una experiencia de vida única. Incluye 3 parqueadero y 1 bodega para mayor practicidad.\n\nPrecio: $319.313,82\n\nEl proyecto ofrece completas áreas comunales para disfrutar en familia y mejorar tu calidad de vida:\n\nPiscina\nGimnasio equipado\nJardines y áreas verdes\nZona BBQ\nSala de juegos para niños\n\nIdeal para quienes buscan vivir rodeados de naturaleza o realizar una inversión con alto potencial de valorización en una de las zonas de mayor crecimiento del valle.\n\nContáctanos para más información y agenda tu visita.",
+      "features": [
+        "Parqueadero de visitas",
+        "Bodega",
+        "Jardín",
+        "BBQ",
+        "Piscina",
+        "Ascensor",
+        "Gimnasio"
+      ],
+      "amenities": [
+        "piscina",
+        "areas-verdes",
+        "parqueadero-visitas",
+        "gimnasio",
+        "area-bbq",
+        "jardin",
+        "ascensor",
+        "bodega"
+      ],
+      "unmatchedFeatures": [],
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "address": "",
+      "warnings": [
+        "sin mapa de ubicación"
+      ],
+      "raw": {
+        "sitemapType": "departamento",
+        "title": "Departamento de Lujo en Venta en Puembo, 3 Dorm. $319.313,82",
+        "price": "$ 319.313",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Puembo"
+        ],
+        "fields": {
+          "ruler-combined": "183 m²",
+          "tree": "m²",
+          "bed": "3 Hab.",
+          "bath": "3,5",
+          "car": "3 Parq."
+        },
+        "descriptionText": "Descubre este exclusivo departamento de 3 dormitorios ubicada en Puembo, una zona residencial que combina tranquilidad, naturaleza y excelente conectividad.\n\nCon 163,70 m² de área interior y una amplia terraza de 19,60 m², este espacio ha sido diseñado para brindar comodidad, funcionalidad y una experiencia de vida única. Incluye 3 parqueadero y 1 bodega para mayor practicidad.\n\nPrecio: $319.313,82\n\nEl proyecto ofrece completas áreas comunales para disfrutar en familia y mejorar tu calidad de vida:\n\nPiscina\nGimnasio equipado\nJardines y áreas verdes\nZona BBQ\nSala de juegos para niños\n\nIdeal para quienes buscan vivir rodeados de naturaleza o realizar una inversión con alto potencial de valorización en una de las zonas de mayor crecimiento del valle.\n\nContáctanos para más información y agenda tu visita.",
+        "features": [
+          "Parqueadero de visitas",
+          "Bodega",
+          "Jardín",
+          "BBQ",
+          "Piscina",
+          "Ascensor",
+          "Gimnasio"
+        ],
+        "mapQuery": ""
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/departamentos/departamento-de-lujo-en-venta-en-puembo-2-dorm-308-56280/",
+      "wpId": 7650,
+      "publishedAt": null,
+      "modifiedAt": "2026-06-05T16:45:03+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-PORTADA.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-13.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-12.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-11.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-10.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-9.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-8.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-7.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-6.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-5.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-4.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-3.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-2.png"
+      ],
+      "videos": [],
+      "type": "departamento",
+      "title": "Departamento de lujo en venta en Puembo, 2 dormitorios",
+      "originalTitle": "Departamento de Lujo en Venta en Puembo, 2 Dorm. $308.562,80",
+      "price": 308562,
+      "sector": "puembo",
+      "sectorRaw": "Puembo",
+      "condition": "",
+      "totalM2": null,
+      "builtM2": 184,
+      "gardenM2": null,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "halfBathrooms": 1,
+      "parking": 2,
+      "frontMeters": null,
+      "description": "Descubre este exclusivo departamento de 2 dormitorios ubicada en Puembo, una zona residencial que combina tranquilidad, naturaleza y excelente conectividad.\n\nCon 136 m² de área interior y una amplia terraza de 48 m², este espacio ha sido diseñado para brindar comodidad, funcionalidad y una experiencia de vida única. Incluye 2 parqueadero y 1 bodega para mayor practicidad.\n\nPrecio: $308.562,80\n\nEl proyecto ofrece completas áreas comunales para disfrutar en familia y mejorar tu calidad de vida:\n\nPiscina\nGimnasio equipado\nJardines y áreas verdes\nZona BBQ\nSala de juegos para niños\n\nIdeal para quienes buscan vivir rodeados de naturaleza o realizar una inversión con alto potencial de valorización en una de las zonas de mayor crecimiento del valle.\n\nContáctanos para más información y agenda tu visita.",
+      "features": [
+        "Parqueadero de visitas",
+        "Bodega",
+        "Jardín",
+        "BBQ",
+        "Piscina",
+        "Gimnasio"
+      ],
+      "amenities": [
+        "piscina",
+        "areas-verdes",
+        "parqueadero-visitas",
+        "gimnasio",
+        "area-bbq",
+        "jardin",
+        "bodega"
+      ],
+      "unmatchedFeatures": [],
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "address": "",
+      "warnings": [
+        "sin mapa de ubicación"
+      ],
+      "raw": {
+        "sitemapType": "departamento",
+        "title": "Departamento de Lujo en Venta en Puembo, 2 Dorm. $308.562,80",
+        "price": "$ 308.562",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Puembo"
+        ],
+        "fields": {
+          "ruler-combined": "184 m²",
+          "tree": "m²",
+          "bed": "2 Hab.",
+          "bath": "2,5",
+          "car": "2 Parq."
+        },
+        "descriptionText": "Descubre este exclusivo departamento de 2 dormitorios ubicada en Puembo, una zona residencial que combina tranquilidad, naturaleza y excelente conectividad.\n\nCon 136 m² de área interior y una amplia terraza de 48 m², este espacio ha sido diseñado para brindar comodidad, funcionalidad y una experiencia de vida única. Incluye 2 parqueadero y 1 bodega para mayor practicidad.\n\nPrecio: $308.562,80\n\nEl proyecto ofrece completas áreas comunales para disfrutar en familia y mejorar tu calidad de vida:\n\nPiscina\nGimnasio equipado\nJardines y áreas verdes\nZona BBQ\nSala de juegos para niños\n\nIdeal para quienes buscan vivir rodeados de naturaleza o realizar una inversión con alto potencial de valorización en una de las zonas de mayor crecimiento del valle.\n\nContáctanos para más información y agenda tu visita.",
+        "features": [
+          "Parqueadero de visitas",
+          "Bodega",
+          "Jardín",
+          "BBQ",
+          "Piscina",
+          "Gimnasio"
+        ],
+        "mapQuery": ""
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/departamentos/departamento-penthouse-de-lujo-en-venta-en-puembo-3dorm-salatv-430-220/",
+      "wpId": 7651,
+      "publishedAt": null,
+      "modifiedAt": null,
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-PORTADA.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-2.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-4.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-3.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-6.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-5.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-8.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-12.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-13.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-11.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-10.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-9.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-7.png"
+      ],
+      "videos": [],
+      "type": "departamento",
+      "title": "Departamento penthouse de lujo en venta en Puembo, 3 dormitorios + sala de TV",
+      "originalTitle": "Departamento Penthouse de Lujo en Venta en Puembo, 3dorm + Salatv. $430.220",
+      "price": 430220,
+      "sector": "puembo",
+      "sectorRaw": "Puembo",
+      "condition": "",
+      "totalM2": null,
+      "builtM2": 241,
+      "gardenM2": null,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "halfBathrooms": 1,
+      "parking": 3,
+      "frontMeters": null,
+      "description": "Descubre este exclusivo Penthouse de 3 dormitorios + Sala de TV. Ubicada en Puembo, una zona residencial que combina tranquilidad, naturaleza y excelente conectividad.\n\nCon 175m² de área interior y una amplia terraza de 66 m², este espacio ha sido diseñado para brindar comodidad, funcionalidad y una experiencia de vida única. Incluye 3 parqueadero y 1 bodega para mayor practicidad.\n\nPrecio: $430.220,00\n\nEl proyecto ofrece completas áreas comunales para disfrutar en familia y mejorar tu calidad de vida:\n\nPiscina\nGimnasio equipado\nJardines y áreas verdes\nZona BBQ\nSala de juegos para niños\n\nIdeal para quienes buscan vivir rodeados de naturaleza o realizar una inversión con alto potencial de valorización en una de las zonas de mayor crecimiento del valle.\n\nContáctanos para más información y agenda tu visita.\n\nPreguntas para la inmobiliaria",
+      "features": [
+        "Parqueadero de visitas",
+        "Bodega",
+        "Jardín",
+        "BBQ",
+        "Piscina",
+        "Gimnasio"
+      ],
+      "amenities": [
+        "piscina",
+        "areas-verdes",
+        "parqueadero-visitas",
+        "gimnasio",
+        "area-bbq",
+        "jardin",
+        "bodega"
+      ],
+      "unmatchedFeatures": [],
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "address": "",
+      "warnings": [
+        "sin mapa de ubicación"
+      ],
+      "raw": {
+        "sitemapType": "departamento",
+        "title": "Departamento Penthouse de Lujo en Venta en Puembo, 3dorm + Salatv. $430.220",
+        "price": "$ 430.220",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Puembo"
+        ],
+        "fields": {
+          "ruler-combined": "241 m²",
+          "tree": "m²",
+          "bed": "3 Hab.",
+          "bath": "3,5",
+          "car": "3 Parq."
+        },
+        "descriptionText": "Descubre este exclusivo Penthouse de 3 dormitorios + Sala de TV. Ubicada en Puembo, una zona residencial que combina tranquilidad, naturaleza y excelente conectividad.\n\nCon 175m² de área interior y una amplia terraza de 66 m², este espacio ha sido diseñado para brindar comodidad, funcionalidad y una experiencia de vida única. Incluye 3 parqueadero y 1 bodega para mayor practicidad.\n\nPrecio: $430.220,00\n\nEl proyecto ofrece completas áreas comunales para disfrutar en familia y mejorar tu calidad de vida:\n\nPiscina\nGimnasio equipado\nJardines y áreas verdes\nZona BBQ\nSala de juegos para niños\n\nIdeal para quienes buscan vivir rodeados de naturaleza o realizar una inversión con alto potencial de valorización en una de las zonas de mayor crecimiento del valle.\n\nContáctanos para más información y agenda tu visita.\n\nPreguntas para la inmobiliaria",
+        "features": [
+          "Parqueadero de visitas",
+          "Bodega",
+          "Jardín",
+          "BBQ",
+          "Piscina",
+          "Gimnasio"
+        ],
+        "mapQuery": ""
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/departamentos/suite-de-lujo-en-venta-en-puembo-144-61128/",
+      "wpId": 7652,
+      "publishedAt": null,
+      "modifiedAt": null,
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-PORTADA.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-13.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-12.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-11.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-10.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-9.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-8.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-7.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-6.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-5.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-4.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-3.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/TAYA-2.png"
+      ],
+      "videos": [],
+      "type": "suite",
+      "title": "Suite de lujo en venta en Puembo",
+      "originalTitle": "Suite de Lujo en Venta en Puembo $144.611,28",
+      "price": 144611,
+      "sector": "puembo",
+      "sectorRaw": "Puembo",
+      "condition": "",
+      "totalM2": null,
+      "builtM2": 89,
+      "gardenM2": null,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "halfBathrooms": 1,
+      "parking": 1,
+      "frontMeters": null,
+      "description": "Descubre esta exclusiva suite de 1 dormitorio ubicada en Puembo, una zona residencial que combina tranquilidad, naturaleza y excelente conectividad.\n\nCon 69 m² de área interior y una amplia terraza de 20 m², este espacio ha sido diseñado para brindar comodidad, funcionalidad y una experiencia de vida única. Incluye 1 parqueadero y 1 bodega para mayor practicidad.\n\nPrecio: $144.611,28\n\nEl proyecto ofrece completas áreas comunales para disfrutar en familia y mejorar tu calidad de vida:\n\nPiscina\nGimnasio equipado\nJardines y áreas verdes\nZona BBQ\nSala de juegos para niños\n\nIdeal para quienes buscan vivir rodeados de naturaleza o realizar una inversión con alto potencial de valorización en una de las zonas de mayor crecimiento del valle.\n\nContáctanos para más información y agenda tu visita.",
+      "features": [
+        "Parqueadero de visitas",
+        "Bodega",
+        "Jardín",
+        "BBQ",
+        "Piscina",
+        "Gimnasio"
+      ],
+      "amenities": [
+        "piscina",
+        "areas-verdes",
+        "parqueadero-visitas",
+        "gimnasio",
+        "area-bbq",
+        "jardin",
+        "bodega"
+      ],
+      "unmatchedFeatures": [],
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "address": "",
+      "warnings": [
+        "sin mapa de ubicación"
+      ],
+      "raw": {
+        "sitemapType": "departamento",
+        "title": "Suite de Lujo en Venta en Puembo $144.611,28",
+        "price": "$ 144.611",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Puembo"
+        ],
+        "fields": {
+          "ruler-combined": "89 m²",
+          "tree": "m²",
+          "bed": "1 Hab.",
+          "bath": "1,5",
+          "car": "1 Parq."
+        },
+        "descriptionText": "Descubre esta exclusiva suite de 1 dormitorio ubicada en Puembo, una zona residencial que combina tranquilidad, naturaleza y excelente conectividad.\n\nCon 69 m² de área interior y una amplia terraza de 20 m², este espacio ha sido diseñado para brindar comodidad, funcionalidad y una experiencia de vida única. Incluye 1 parqueadero y 1 bodega para mayor practicidad.\n\nPrecio: $144.611,28\n\nEl proyecto ofrece completas áreas comunales para disfrutar en familia y mejorar tu calidad de vida:\n\nPiscina\nGimnasio equipado\nJardines y áreas verdes\nZona BBQ\nSala de juegos para niños\n\nIdeal para quienes buscan vivir rodeados de naturaleza o realizar una inversión con alto potencial de valorización en una de las zonas de mayor crecimiento del valle.\n\nContáctanos para más información y agenda tu visita.",
+        "features": [
+          "Parqueadero de visitas",
+          "Bodega",
+          "Jardín",
+          "BBQ",
+          "Piscina",
+          "Gimnasio"
+        ],
+        "mapQuery": ""
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/departamentos/departamento-de-190-m%c2%b2-3-dormitorios-super-oportunidad-298-000/",
+      "wpId": 7737,
+      "publishedAt": null,
+      "modifiedAt": null,
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2026/08/Livadi-3.png",
+        "https://g3i.ec/wp-content/uploads/2026/08/syrah-residences-407-2.png",
+        "https://g3i.ec/wp-content/uploads/2026/08/syrah-residences-407-3.png",
+        "https://g3i.ec/wp-content/uploads/2026/08/syrah-residences-407-4.png",
+        "https://g3i.ec/wp-content/uploads/2026/08/syrah-residences-407-5.png",
+        "https://g3i.ec/wp-content/uploads/2026/08/syrah-residences-407-6.png",
+        "https://g3i.ec/wp-content/uploads/2026/08/syrah-residences-407-7.png",
+        "https://g3i.ec/wp-content/uploads/2026/08/syrah-residences-407-8.png",
+        "https://g3i.ec/wp-content/uploads/2026/08/syrah-residences-407-9.png",
+        "https://g3i.ec/wp-content/uploads/2026/08/syrah-residences-407-10.png",
+        "https://g3i.ec/wp-content/uploads/2026/08/syrah-residences-407-11.png",
+        "https://g3i.ec/wp-content/uploads/2026/08/syrah-residences-407-12.png",
+        "https://g3i.ec/wp-content/uploads/2026/08/syrah-residences-407-13.png",
+        "https://g3i.ec/wp-content/uploads/2026/08/syrah-residences-407.png"
+      ],
+      "videos": [],
+      "type": "departamento",
+      "title": "Departamento de 190 m², 3 dormitorios. Súper oportunidad",
+      "originalTitle": "Departamento de 190 m², 3 dormitorios. Súper oportunidad $298.000.",
+      "price": 298000,
+      "sector": "tumbaco",
+      "sectorRaw": "Tumbaco",
+      "condition": "",
+      "totalM2": null,
+      "builtM2": 190,
+      "gardenM2": null,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "halfBathrooms": null,
+      "parking": 3,
+      "frontMeters": null,
+      "description": "Una oportunidad excepcional. Un departamento que lo tiene todo.\n\nEl Departamento es una de esas unidades que rara vez aparecen en el mercado a este precio. Con 190,50 m² de área total, este departamento fue diseñado para quienes exigen lo mejor — sin renunciar a nada.\n\nEl departamento\n\nCaracterística Detalle Área total 190,50 m² Área interior 153,50 m² Dormitorios 3 (cada uno con baño privado) Baños 3 completos + área social Sala de TV Independiente Salas exteriores En área social y en dormitorios Parqueaderos 3 propios Bodega 1 privada Precio USD $298.000\n\nDiseñado para vivir diferente\n\nCada ambiente fue pensado para que la familia completa tenga su propio espacio. Los 3 dormitorios con baño garantizan privacidad total para cada integrante. La sala de TV independiente separa el entretenimiento de los espacios sociales. Y las salas exteriores, tanto en el área social como en los dormitorios, llevan la vida al aire libre a cada rincón del departamento.\n\nLos 3 parqueaderos propios y la bodega privada completan una propuesta que pocas unidades en este rango de precio pueden igualar.\n\n¿Por qué es una súper oportunidad?\n\nDepartamentos con esta distribución y metraje se comercializan habitualmente por encima de este precio. Esta unidad representa una oportunidad única de ingresar a un proyecto residencial premium — ya sea para vivir o para invertir con alta rentabilidad en el mercado inmobiliario.\n\n¿Te interesa conocerlo?\n\nNo esperes a que alguien más lo haga primero. Contáctanos y un asesor te acompañará en todo el proceso.",
+      "features": [
+        "Luz",
+        "Agua",
+        "Electricidad",
+        "Parqueadero de visitas",
+        "Bodega",
+        "Walking Closet",
+        "BBQ",
+        "Terraza",
+        "Vista",
+        "Áreas Infantiles",
+        "Sistema de alarma",
+        "Ascensor",
+        "Video Seguridad",
+        "Gimnasio",
+        "Hidromasaje"
+      ],
+      "amenities": [
+        "guardiania",
+        "parqueadero-visitas",
+        "gimnasio",
+        "areas-infantiles",
+        "area-bbq",
+        "jacuzzi",
+        "vista",
+        "ascensor",
+        "terraza",
+        "bodega"
+      ],
+      "unmatchedFeatures": [
+        "Luz",
+        "Agua",
+        "Electricidad",
+        "Walking Closet"
+      ],
+      "location": {
+        "lat": -0.210458623163004,
+        "lng": -78.41727437929386
+      },
+      "address": "",
+      "warnings": [],
+      "raw": {
+        "sitemapType": "departamento",
+        "title": "Departamento de 190 m², 3 dormitorios. Súper oportunidad $298.000.",
+        "price": "$ 298.000",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Tumbaco"
+        ],
+        "fields": {
+          "ruler-combined": "190 m²",
+          "tree": "m²",
+          "bed": "3 Hab.",
+          "bath": "3",
+          "car": "3 Parq."
+        },
+        "descriptionText": "Una oportunidad excepcional. Un departamento que lo tiene todo.\n\nEl Departamento es una de esas unidades que rara vez aparecen en el mercado a este precio. Con 190,50 m² de área total, este departamento fue diseñado para quienes exigen lo mejor — sin renunciar a nada.\n\nEl departamento\n\nCaracterística Detalle Área total 190,50 m² Área interior 153,50 m² Dormitorios 3 (cada uno con baño privado) Baños 3 completos + área social Sala de TV Independiente Salas exteriores En área social y en dormitorios Parqueaderos 3 propios Bodega 1 privada Precio USD $298.000\n\nDiseñado para vivir diferente\n\nCada ambiente fue pensado para que la familia completa tenga su propio espacio. Los 3 dormitorios con baño garantizan privacidad total para cada integrante. La sala de TV independiente separa el entretenimiento de los espacios sociales. Y las salas exteriores, tanto en el área social como en los dormitorios, llevan la vida al aire libre a cada rincón del departamento.\n\nLos 3 parqueaderos propios y la bodega privada completan una propuesta que pocas unidades en este rango de precio pueden igualar.\n\n¿Por qué es una súper oportunidad?\n\nDepartamentos con esta distribución y metraje se comercializan habitualmente por encima de este precio. Esta unidad representa una oportunidad única de ingresar a un proyecto residencial premium — ya sea para vivir o para invertir con alta rentabilidad en el mercado inmobiliario.\n\n¿Te interesa conocerlo?\n\nNo esperes a que alguien más lo haga primero. Contáctanos y un asesor te acompañará en todo el proceso.",
+        "features": [
+          "Luz",
+          "Agua",
+          "Electricidad",
+          "Parqueadero de visitas",
+          "Bodega",
+          "Walking Closet",
+          "BBQ",
+          "Terraza",
+          "Vista",
+          "Áreas Infantiles",
+          "Sistema de alarma",
+          "Ascensor",
+          "Video Seguridad",
+          "Gimnasio",
+          "Hidromasaje"
+        ],
+        "mapQuery": "-0.210458623163004, -78.41727437929386"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/departamentos/duplex-en-venta-en-tumbaco-2-dormitorios-126-m%c2%b2-jardin-privado-sector-auki-plaza/",
+      "wpId": 7787,
+      "publishedAt": null,
+      "modifiedAt": null,
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2026/09/feature-siray-II.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/siray-II-2.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/siray-II-4.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/siray-II-1-2.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/siray-II-3.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/siray-II-1.png"
+      ],
+      "videos": [],
+      "type": "departamento",
+      "title": "Dúplex en venta en Tumbaco, 2 dormitorios, 126 m², jardín privado, sector Auki Plaza",
+      "originalTitle": "Dúplex en Venta en Tumbaco | 2 Dormitorios, 126 m², Jardín Privado| Sector Auki Plaza",
+      "price": 189900,
+      "sector": "lumbisi",
+      "sectorRaw": "Cumbayá, Lumbisi",
+      "condition": "",
+      "totalM2": null,
+      "builtM2": 134,
+      "gardenM2": null,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "halfBathrooms": null,
+      "parking": 2,
+      "frontMeters": null,
+      "description": "Vive la modernidad de un dúplex en una de las ubicaciones más privilegiadas de Tumbaco.\n\nA pasos de Auki Plaza y con acceso directo hacia Ciudad San Patricio, este dúplex es una oportunidad única para quienes buscan vivir en el valle. Ideal para parejas, familias jóvenes o como inversión de alta rentabilidad en uno de los sectores de mayor crecimiento.\n\nEl dúplex:\n\n- 🏠 126 m² de construcción\n- 🌿 Jardín privado\n- 🛏️ 2 dormitorios, cada uno con su propio baño privado\n- 📚 Estudio\n- 🍳 Cocina estilo americano\n- 🛋️ Excelente integración del área social con sala exterior y jardín —\n- 🚗 2 parqueaderos propios\n- 📦 1 bodega privada\n\n📍 La ubicación lo es todo:\nUbicado estratégicamente junto a Auki Plaza y a pocos minutos de Ciudad San Patricio — uno de los desarrollos urbanísticos más exclusivos y consolidados del valle.\n\nPrecio: USD $189.900",
+      "features": [
+        "Luz",
+        "Agua",
+        "Electricidad",
+        "Parqueadero de visitas",
+        "Bodega",
+        "Walking Closet",
+        "Jardín",
+        "Seguridad Privada",
+        "Casa Comunal",
+        "Sistema de alarma",
+        "Ascensor",
+        "Video Seguridad"
+      ],
+      "amenities": [
+        "sala-comunal",
+        "guardiania",
+        "parqueadero-visitas",
+        "jardin",
+        "ascensor",
+        "bodega"
+      ],
+      "unmatchedFeatures": [
+        "Luz",
+        "Agua",
+        "Electricidad",
+        "Walking Closet"
+      ],
+      "location": {
+        "lat": -0.20975867249070293,
+        "lng": -78.44467204865643
+      },
+      "address": "",
+      "warnings": [
+        "varios sectores en WordPress (Cumbayá, Lumbisi); se eligió lumbisi"
+      ],
+      "raw": {
+        "sitemapType": "departamento",
+        "title": "Dúplex en Venta en Tumbaco | 2 Dormitorios, 126 m², Jardín Privado| Sector Auki Plaza",
+        "price": "$ 189.900",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Cumbayá",
+          "Lumbisi"
+        ],
+        "fields": {
+          "ruler-combined": "134 m²",
+          "tree": "m²",
+          "bed": "2 Hab.",
+          "bath": "2",
+          "car": "2 Parq."
+        },
+        "descriptionText": "Vive la modernidad de un dúplex en una de las ubicaciones más privilegiadas de Tumbaco.\n\nA pasos de Auki Plaza y con acceso directo hacia Ciudad San Patricio, este dúplex es una oportunidad única para quienes buscan vivir en el valle. Ideal para parejas, familias jóvenes o como inversión de alta rentabilidad en uno de los sectores de mayor crecimiento.\n\nEl dúplex:\n\n- 🏠 126 m² de construcción\n- 🌿 Jardín privado\n- 🛏️ 2 dormitorios, cada uno con su propio baño privado\n- 📚 Estudio\n- 🍳 Cocina estilo americano\n- 🛋️ Excelente integración del área social con sala exterior y jardín —\n- 🚗 2 parqueaderos propios\n- 📦 1 bodega privada\n\n📍 La ubicación lo es todo:\nUbicado estratégicamente junto a Auki Plaza y a pocos minutos de Ciudad San Patricio — uno de los desarrollos urbanísticos más exclusivos y consolidados del valle.\n\nPrecio: USD $189.900",
+        "features": [
+          "Luz",
+          "Agua",
+          "Electricidad",
+          "Parqueadero de visitas",
+          "Bodega",
+          "Walking Closet",
+          "Jardín",
+          "Seguridad Privada",
+          "Casa Comunal",
+          "Sistema de alarma",
+          "Ascensor",
+          "Video Seguridad"
+        ],
+        "mapQuery": "-0.20975867249070293, -78.44467204865643"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/terrenos/vendo-hermoso-terreno-en-urbanizacion-la-quinta-cumbaya/",
+      "wpId": 2633,
+      "publishedAt": null,
+      "modifiedAt": "2024-11-15T17:16:43+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2022/02/La-Quinta-featured.png",
+        "https://g3i.ec/wp-content/uploads/2022/02/La-Quinta-2.png",
+        "https://g3i.ec/wp-content/uploads/2022/02/La-Quinta-3.png",
+        "https://g3i.ec/wp-content/uploads/2022/02/La-Quinta-4.png",
+        "https://g3i.ec/wp-content/uploads/2022/02/La-Quinta-5.png",
+        "https://g3i.ec/wp-content/uploads/2022/02/La-Quinta-6.png",
+        "https://g3i.ec/wp-content/uploads/2022/02/La-Quinta-7.png",
+        "https://g3i.ec/wp-content/uploads/2022/02/La-Quinta-8.png",
+        "https://g3i.ec/wp-content/uploads/2022/02/La-Quinta-9.png",
+        "https://g3i.ec/wp-content/uploads/2022/02/La-Quinta.png"
+      ],
+      "videos": [],
+      "type": "terreno",
+      "title": "Venta de hermoso terreno en exclusiva urbanización, Cumbayá",
+      "originalTitle": "Venta de hermoso terreno en exclusiva urbanización, Cumbayá.",
+      "price": 414141,
+      "sector": "cumbaya",
+      "sectorRaw": "Cumbayá",
+      "condition": "",
+      "totalM2": 1183,
+      "builtM2": null,
+      "gardenM2": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "halfBathrooms": null,
+      "parking": null,
+      "frontMeters": 25,
+      "description": "Vendo hermoso terreno en Urbanización La Quinta, Cumbayá.\n\nTerreno de 📏 1183 m2\n\n🌱 ESPECTACULAR VISTA\nUbicación inigualable en zona céntrica de Cumbayá.\n\n💲 414.141\n\n💎 Urbanización de lujo\n\n👮 Guardianía Privada las 24 horas,\n\n🌱 hermosa vista y excelente ubicación con fácil acceso a todas las zonas comerciales del centro de Cumbayá",
+      "features": [
+        "Agua",
+        "Luz",
+        "Alcantarillado",
+        "Telefono",
+        "Seguridad"
+      ],
+      "amenities": [
+        "guardiania",
+        "vista"
+      ],
+      "unmatchedFeatures": [
+        "Agua",
+        "Luz",
+        "Alcantarillado",
+        "Telefono"
+      ],
+      "location": {
+        "lat": -0.188533,
+        "lng": -78.416421
+      },
+      "address": "",
+      "warnings": [],
+      "raw": {
+        "sitemapType": "terreno",
+        "title": "Venta de hermoso terreno en exclusiva urbanización, Cumbayá.",
+        "price": "$ 414.141",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Cumbayá"
+        ],
+        "fields": {
+          "ruler-combined": "1183 m²",
+          "ruler-horizontal": "25 m de frente"
+        },
+        "descriptionText": "Vendo hermoso terreno en Urbanización La Quinta, Cumbayá.\n\nTerreno de 📏 1183 m2\n\n🌱 ESPECTACULAR VISTA\nUbicación inigualable en zona céntrica de Cumbayá.\n\n💲 414.141\n\n💎 Urbanización de lujo\n\n👮 Guardianía Privada las 24 horas,\n\n🌱 hermosa vista y excelente ubicación con fácil acceso a todas las zonas comerciales del centro de Cumbayá",
+        "features": [
+          "Agua",
+          "Luz",
+          "Alcantarillado",
+          "Telefono",
+          "Seguridad"
+        ],
+        "mapQuery": "-0.188533, -78.416421"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/terrenos/vendo-terreno-en-hermosa-urbanizacion-de-lujo-en-cumbaya-espectacular-vista/",
+      "wpId": 2641,
+      "publishedAt": null,
+      "modifiedAt": "2024-11-15T17:18:45+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2022/02/La-Quinta-featured.png",
+        "https://g3i.ec/wp-content/uploads/2022/02/La-Quinta-9.png",
+        "https://g3i.ec/wp-content/uploads/2022/02/La-Quinta-6.png",
+        "https://g3i.ec/wp-content/uploads/2022/02/La-Quinta-3.png",
+        "https://g3i.ec/wp-content/uploads/2022/02/La-Quinta-5.png",
+        "https://g3i.ec/wp-content/uploads/2022/02/La-Quinta-4.png",
+        "https://g3i.ec/wp-content/uploads/2022/02/La-Quinta-7.png",
+        "https://g3i.ec/wp-content/uploads/2022/02/La-Quinta-8.png",
+        "https://g3i.ec/wp-content/uploads/2022/02/La-Quinta.png",
+        "https://g3i.ec/wp-content/uploads/2022/02/La-Quinta-2.png"
+      ],
+      "videos": [],
+      "type": "terreno",
+      "title": "Venta de terreno en hermosa urbanización de lujo en Cumbayá, espectacular vista",
+      "originalTitle": "Venta de terreno en hermosa urbanización de lujo en Cumbayá, espectacular vista.",
+      "price": 441182,
+      "sector": "cumbaya",
+      "sectorRaw": "Cumbayá",
+      "condition": "",
+      "totalM2": 1261,
+      "builtM2": null,
+      "gardenM2": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "halfBathrooms": null,
+      "parking": null,
+      "frontMeters": 28,
+      "description": "Vendo terreno en hermosa urbanización de lujo en Cumbayá, Espectacular vista\n\nTerreno dentro de Urbanización de lujo\n\n📏 1261 m2\n\n👮Guardianía las 24 horas.\n\nBien ubicado en zona central de Cumbayá.\n\n💲 441.182\n\nTerreno de 📏 1261 m2.\n\n💎 Urbanización de lujo\n\n👮 Guardianía Privada las 24 horas,\n\n🌱 hermosa vista y excelente ubicación con fácil acceso a todas las zonas comerciales del centro de Cumbayá",
+      "features": [
+        "Agua",
+        "Luz",
+        "Alcantarillado",
+        "Telefono",
+        "Seguridad"
+      ],
+      "amenities": [
+        "guardiania",
+        "vista"
+      ],
+      "unmatchedFeatures": [
+        "Agua",
+        "Luz",
+        "Alcantarillado",
+        "Telefono"
+      ],
+      "location": {
+        "lat": -0.188533,
+        "lng": -78.416421
+      },
+      "address": "",
+      "warnings": [],
+      "raw": {
+        "sitemapType": "terreno",
+        "title": "Venta de terreno en hermosa urbanización de lujo en Cumbayá, espectacular vista.",
+        "price": "$ 441.182",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Cumbayá"
+        ],
+        "fields": {
+          "ruler-combined": "1261 m²",
+          "ruler-horizontal": "28 m de frente"
+        },
+        "descriptionText": "Vendo terreno en hermosa urbanización de lujo en Cumbayá, Espectacular vista\n\nTerreno dentro de Urbanización de lujo\n\n📏 1261 m2\n\n👮Guardianía las 24 horas.\n\nBien ubicado en zona central de Cumbayá.\n\n💲 441.182\n\nTerreno de 📏 1261 m2.\n\n💎 Urbanización de lujo\n\n👮 Guardianía Privada las 24 horas,\n\n🌱 hermosa vista y excelente ubicación con fácil acceso a todas las zonas comerciales del centro de Cumbayá",
+        "features": [
+          "Agua",
+          "Luz",
+          "Alcantarillado",
+          "Telefono",
+          "Seguridad"
+        ],
+        "mapQuery": "-0.188533, -78.416421"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/terrenos/vendo-hermoso-terreno-con-estrategica-ubicacion-sector-cumbaya/",
+      "wpId": 5116,
+      "publishedAt": null,
+      "modifiedAt": "2024-11-25T17:37:07+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2023/12/Casa-de-campo_FE.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Casa-de-campo-8.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Casa-de-campo-4.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Casa-de-campo-6.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Casa-de-campo-5.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Casa-de-campo-2.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Casa-de-campo-3.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Casa-de-campo-7.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Casa-de-campo-9.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Casa-de-campo.png"
+      ],
+      "videos": [],
+      "type": "terreno",
+      "title": "Vendo hermoso terreno con estratégica ubicación, Pachosalas Cumbayá",
+      "originalTitle": "Vendo hermoso terreno con estratégica ubicación, Pachosalas Cumbayá",
+      "price": 395000,
+      "sector": "cumbaya",
+      "sectorRaw": "Cumbayá",
+      "condition": "",
+      "totalM2": 1326,
+      "builtM2": null,
+      "gardenM2": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "halfBathrooms": null,
+      "parking": null,
+      "frontMeters": 28,
+      "description": "Vendo hermoso terreno de 📏 1326 m2 Urbanización Casa de Campo, Pachosalas\n\nHermosa vista al valle! Urbanización de más de 30 hectáreas!\n\n📏 Frente de 28,50 metros.\n\n👙 Club con piscina\n\n🩳Jacuzzi\n\n🏋 Gimnasio\n\n🎾 Cancha de tenis y squash\n\n⚽ Fútbol en césped\n\n🥅 Canchas de uso múltiple\n\n🚸 Juegos infantiles\n\n📏 1.325,80 m²\n\n💲 395.000\n\n¡Listo para construir tus sueños!",
+      "features": [
+        "Agua",
+        "Alcantarillado",
+        "Seguridad"
+      ],
+      "amenities": [
+        "area-deportiva",
+        "piscina",
+        "guardiania",
+        "gimnasio",
+        "areas-infantiles",
+        "jacuzzi",
+        "vista"
+      ],
+      "unmatchedFeatures": [
+        "Agua",
+        "Alcantarillado"
+      ],
+      "location": {
+        "lat": -0.224246,
+        "lng": -78.413721
+      },
+      "address": "",
+      "warnings": [],
+      "raw": {
+        "sitemapType": "terreno",
+        "title": "Vendo hermoso terreno con estratégica ubicación, Pachosalas Cumbayá",
+        "price": "$ 395.000",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Cumbayá"
+        ],
+        "fields": {
+          "ruler-combined": "1326 m²",
+          "ruler-horizontal": "28 m de frente"
+        },
+        "descriptionText": "Vendo hermoso terreno de 📏 1326 m2 Urbanización Casa de Campo, Pachosalas\n\nHermosa vista al valle! Urbanización de más de 30 hectáreas!\n\n📏 Frente de 28,50 metros.\n\n👙 Club con piscina\n\n🩳Jacuzzi\n\n🏋 Gimnasio\n\n🎾 Cancha de tenis y squash\n\n⚽ Fútbol en césped\n\n🥅 Canchas de uso múltiple\n\n🚸 Juegos infantiles\n\n📏 1.325,80 m²\n\n💲 395.000\n\n¡Listo para construir tus sueños!",
+        "features": [
+          "Agua",
+          "Alcantarillado",
+          "Seguridad"
+        ],
+        "mapQuery": "-0.224246, -78.413721"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/terrenos/vendo-hermoso-terreno-en-urbanizacion-kentia-cumbaya/",
+      "wpId": 4936,
+      "publishedAt": null,
+      "modifiedAt": "2024-11-25T21:45:56+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2023/10/Kentia_FE-1.png",
+        "https://g3i.ec/wp-content/uploads/2023/10/Kentia-2.png",
+        "https://g3i.ec/wp-content/uploads/2023/10/Kentia-3.png",
+        "https://g3i.ec/wp-content/uploads/2023/10/Kentia-4.png",
+        "https://g3i.ec/wp-content/uploads/2023/10/Kentia-5.png",
+        "https://g3i.ec/wp-content/uploads/2023/10/Kentia-6.png",
+        "https://g3i.ec/wp-content/uploads/2023/10/Kentia-7.png",
+        "https://g3i.ec/wp-content/uploads/2023/10/Kentia.png"
+      ],
+      "videos": [],
+      "type": "terreno",
+      "title": "Vendo hermoso terreno en urbanización de lujo, Cumbayá",
+      "originalTitle": "Vendo hermoso terreno en Urbanización de lujo, Cumbayá.",
+      "price": 299000,
+      "sector": "cumbaya",
+      "sectorRaw": "Cumbayá",
+      "condition": "",
+      "totalM2": 695,
+      "builtM2": null,
+      "gardenM2": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "halfBathrooms": null,
+      "parking": null,
+      "frontMeters": null,
+      "description": "Vendo hermoso terreno dentro de Urbanización en Cumbayá.\n\nUrbanización de 27 lotes\n\n💲 299.000\n\n📏 695 m2\n\nExcelente ubicación con fácil acceso a la Ruta Viva\n\n👮🏻‍♀ Seguridad 24 horas\n\nCables Soterrado\n\n🍀 Topografía regular\n\n💎Acabados de lujo\n\nÁreas comunes:\n\n🍖 Área BBQ\n\n💃🏻 Salón comunal\n\n👙 Piscina\n\n🌱 Amplias zonas verdes\n\nExcelente oportunidad\n\n¡El lugar ideal para tu familia!",
+      "features": [
+        "Agua",
+        "Luz",
+        "Alcantarillado",
+        "Seguridad"
+      ],
+      "amenities": [
+        "sala-comunal",
+        "piscina",
+        "guardiania",
+        "area-bbq"
+      ],
+      "unmatchedFeatures": [
+        "Agua",
+        "Luz",
+        "Alcantarillado"
+      ],
+      "location": {
+        "lat": -0.20609,
+        "lng": -78.439787
+      },
+      "address": "",
+      "warnings": [],
+      "raw": {
+        "sitemapType": "terreno",
+        "title": "Vendo hermoso terreno en Urbanización de lujo, Cumbayá.",
+        "price": "$ 299.000",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Cumbayá"
+        ],
+        "fields": {
+          "ruler-combined": "695 m²",
+          "ruler-horizontal": "m de frente"
+        },
+        "descriptionText": "Vendo hermoso terreno dentro de Urbanización en Cumbayá.\n\nUrbanización de 27 lotes\n\n💲 299.000\n\n📏 695 m2\n\nExcelente ubicación con fácil acceso a la Ruta Viva\n\n👮🏻‍♀ Seguridad 24 horas\n\nCables Soterrado\n\n🍀 Topografía regular\n\n💎Acabados de lujo\n\nÁreas comunes:\n\n🍖 Área BBQ\n\n💃🏻 Salón comunal\n\n👙 Piscina\n\n🌱 Amplias zonas verdes\n\nExcelente oportunidad\n\n¡El lugar ideal para tu familia!",
+        "features": [
+          "Agua",
+          "Luz",
+          "Alcantarillado",
+          "Seguridad"
+        ],
+        "mapQuery": "-0.206090, -78.439787"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/terrenos/vendo-espectacular-terreno-en-urbanizacion-la-vina-alta/",
+      "wpId": 4938,
+      "publishedAt": null,
+      "modifiedAt": "2024-11-26T20:27:59+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2023/10/Chaupi_FE.png",
+        "https://g3i.ec/wp-content/uploads/2023/10/Chaupi-2.png",
+        "https://g3i.ec/wp-content/uploads/2023/10/Chaupi-3.png",
+        "https://g3i.ec/wp-content/uploads/2023/10/Chaupi-9.png",
+        "https://g3i.ec/wp-content/uploads/2023/10/Chaupi-4.png",
+        "https://g3i.ec/wp-content/uploads/2023/10/Chaupi-5.png",
+        "https://g3i.ec/wp-content/uploads/2023/10/Chaupi-6.png",
+        "https://g3i.ec/wp-content/uploads/2023/10/Chaupi-7.png",
+        "https://g3i.ec/wp-content/uploads/2023/10/Chaupi-8.png",
+        "https://g3i.ec/wp-content/uploads/2023/10/Chaupi-10.png",
+        "https://g3i.ec/wp-content/uploads/2023/10/Chaupi-11.png",
+        "https://g3i.ec/wp-content/uploads/2023/10/Chaupi.png"
+      ],
+      "videos": [],
+      "type": "terreno",
+      "title": "Vendo espectacular terreno en urbanización La Viña Alta",
+      "originalTitle": "Vendo espectacular terreno en urbanización La Viña Alta.",
+      "price": 276650,
+      "sector": "tumbaco",
+      "sectorRaw": "Tumbaco",
+      "condition": "",
+      "totalM2": 1006,
+      "builtM2": null,
+      "gardenM2": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "halfBathrooms": null,
+      "parking": null,
+      "frontMeters": null,
+      "description": "💲 276.650\n\n📏 1006 m2\n\n👮🏻‍♀ Conjunto privado.\n\n☀ Hermosa vista\n\nDiseño Londoño\n\n💃🏻 Salón comunal.\n\n💎 Acabados de lujo\n\n🌳 Amplias zonas verdes\n\nExcelente oportunidad\n\n¡El lugar donde construyes tus sueños!",
+      "features": [
+        "Agua",
+        "Luz",
+        "Alcantarillado",
+        "Seguridad"
+      ],
+      "amenities": [
+        "urbanizacion-privada",
+        "sala-comunal",
+        "guardiania",
+        "vista"
+      ],
+      "unmatchedFeatures": [
+        "Agua",
+        "Luz",
+        "Alcantarillado"
+      ],
+      "location": {
+        "lat": -0.204359,
+        "lng": -78.404447
+      },
+      "address": "",
+      "warnings": [],
+      "raw": {
+        "sitemapType": "terreno",
+        "title": "Vendo espectacular terreno en urbanización La Viña Alta.",
+        "price": "$ 276.650",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Tumbaco"
+        ],
+        "fields": {
+          "ruler-combined": "1006 m²",
+          "ruler-horizontal": "m de frente"
+        },
+        "descriptionText": "Vendo espectacular terreno en urbanización La Viña Alta.\n\n💲 276.650\n\n📏 1006 m2\n\n👮🏻‍♀ Conjunto privado.\n\n☀ Hermosa vista\n\nDiseño Londoño\n\n💃🏻 Salón comunal.\n\n💎 Acabados de lujo\n\n🌳 Amplias zonas verdes\n\nExcelente oportunidad\n\n¡El lugar donde construyes tus sueños!",
+        "features": [
+          "Agua",
+          "Luz",
+          "Alcantarillado",
+          "Seguridad"
+        ],
+        "mapQuery": "-0.204359, -78.404447"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/terrenos/vendo-un-hermoso-terreno-en-urbanizacion-kentia-cumbaya/",
+      "wpId": 4831,
+      "publishedAt": null,
+      "modifiedAt": "2025-10-27T16:44:34+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2023/10/Kentia_FE-1.png",
+        "https://g3i.ec/wp-content/uploads/2023/10/Kentia.png",
+        "https://g3i.ec/wp-content/uploads/2023/10/Kentia-7.png",
+        "https://g3i.ec/wp-content/uploads/2023/10/Kentia-6.png",
+        "https://g3i.ec/wp-content/uploads/2023/10/Kentia-5.png",
+        "https://g3i.ec/wp-content/uploads/2023/10/Kentia-4.png",
+        "https://g3i.ec/wp-content/uploads/2023/10/Kentia-3.png",
+        "https://g3i.ec/wp-content/uploads/2023/10/Kentia-2.png"
+      ],
+      "videos": [],
+      "type": "terreno",
+      "title": "Vendo un hermoso terreno en urbanización Kentia, Cumbayá",
+      "originalTitle": "Vendo un hermoso terreno en Urbanización Kentia, Cumbayá.",
+      "price": 320000,
+      "sector": "cumbaya",
+      "sectorRaw": "Cumbayá",
+      "condition": "",
+      "totalM2": 682,
+      "builtM2": null,
+      "gardenM2": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "halfBathrooms": null,
+      "parking": null,
+      "frontMeters": 19,
+      "description": "Terreno dentro de espectacular urbanización en Cumbaya\n\nUrbanización de 27 lotes\n\nUSD 320.000\n\n682 m2\n\nExcelente ubicación con fácil acceso a la Ruta Viva\n\nSeguridad 24 horas\n\nCircuito cerrado\n\nCables Soterrado\n\nAcabados de lujo\n\nÁreas comunes:\n\nÁrea BBQ\n\nSalón comunal\n\nPiscina\n\nAmplias zonas verdes\n\nExcelente oportunidad\n\n¡El lugar ideal para tu familia!",
+      "features": [
+        "Agua",
+        "Alcantarillado",
+        "Seguridad"
+      ],
+      "amenities": [
+        "sala-comunal",
+        "piscina",
+        "guardiania",
+        "area-bbq"
+      ],
+      "unmatchedFeatures": [
+        "Agua",
+        "Alcantarillado"
+      ],
+      "location": {
+        "lat": -0.206845,
+        "lng": -78.446095
+      },
+      "address": "",
+      "warnings": [],
+      "raw": {
+        "sitemapType": "terreno",
+        "title": "Vendo un hermoso terreno en Urbanización Kentia, Cumbayá.",
+        "price": "$ 320.000",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Cumbayá"
+        ],
+        "fields": {
+          "ruler-combined": "682 m²",
+          "ruler-horizontal": "19 m de frente"
+        },
+        "descriptionText": "Vendo un hermoso terreno en Urbanización Kentia, Cumbayá.\n\nTerreno dentro de espectacular urbanización en Cumbaya\n\nUrbanización de 27 lotes\n\nUSD 320.000\n\n682 m2\n\nExcelente ubicación con fácil acceso a la Ruta Viva\n\nSeguridad 24 horas\n\nCircuito cerrado\n\nCables Soterrado\n\nAcabados de lujo\n\nÁreas comunes:\n\nÁrea BBQ\n\nSalón comunal\n\nPiscina\n\nAmplias zonas verdes\n\nExcelente oportunidad\n\n¡El lugar ideal para tu familia!",
+        "features": [
+          "Agua",
+          "Alcantarillado",
+          "Seguridad"
+        ],
+        "mapQuery": "-0.206845, -78.446095"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/terrenos/vendo-espectacular-terreno-dentro-urbanizacion-en-desarrollo-en-puembo/",
+      "wpId": 4392,
+      "publishedAt": null,
+      "modifiedAt": "2025-10-27T16:46:04+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2023/12/Amany_featured.jpeg",
+        "https://g3i.ec/wp-content/uploads/2023/12/Amany_featured-1.jpeg",
+        "https://g3i.ec/wp-content/uploads/2023/12/Amany-1.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Amany-3.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Amany-4-1.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Amany-2-1.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Amany-4.png",
+        "https://g3i.ec/wp-content/uploads/2023/12/Amany-2.png"
+      ],
+      "videos": [],
+      "type": "terreno",
+      "title": "Vendo espectacular terreno dentro urbanización en desarrollo en Puembo",
+      "originalTitle": "Vendo espectacular terreno dentro urbanización en desarrollo en Puembo.",
+      "price": 187463,
+      "sector": "puembo",
+      "sectorRaw": "Puembo",
+      "condition": "",
+      "totalM2": 556,
+      "builtM2": null,
+      "gardenM2": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "halfBathrooms": null,
+      "parking": null,
+      "frontMeters": 20,
+      "description": "Lote de 556 m2\n\nUSD 187.463\n\nCerca de la ciudad y con la tranquilidad que te brinda la naturaleza.\n\nMindala te brinda un estilo de vida único en la mejor zona de Puembo.\n\nUrbanización de 60 exclusivos lotes\n\nDiseño de jardines y paisajismo\n\nA 1 minuto del Club Arrayanes\n\nEspectaculares áreas comunales:\n\nPiscinas temperadas\n\nGimnasio equipado\n\nCancha de padel\n\nÁrea de BBQ\n\nBillar\n\nPing Pong\n\nÁrea de juegos infantil\n\nListos para entrega\n\n¿Buscas invertir en tu futuro?\n\nMindala es tu mejor opción",
+      "features": [
+        "Agua",
+        "Luz",
+        "Alcantarillado",
+        "Telefono",
+        "Seguridad"
+      ],
+      "amenities": [
+        "guardiania",
+        "gimnasio",
+        "area-bbq"
+      ],
+      "unmatchedFeatures": [
+        "Agua",
+        "Luz",
+        "Alcantarillado",
+        "Telefono"
+      ],
+      "location": {
+        "lat": -0.153519,
+        "lng": -78.379845
+      },
+      "address": "",
+      "warnings": [],
+      "raw": {
+        "sitemapType": "terreno",
+        "title": "Vendo espectacular terreno dentro urbanización en desarrollo en Puembo.",
+        "price": "$ 187.463",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Puembo"
+        ],
+        "fields": {
+          "ruler-combined": "556 m²",
+          "ruler-horizontal": "20 m de frente"
+        },
+        "descriptionText": "Vendo espectacular terreno dentro urbanización en desarrollo en Puembo.\n\nLote de 556 m2\n\nUSD 187.463\n\nCerca de la ciudad y con la tranquilidad que te brinda la naturaleza.\n\nMindala te brinda un estilo de vida único en la mejor zona de Puembo.\n\nUrbanización de 60 exclusivos lotes\n\nDiseño de jardines y paisajismo\n\nA 1 minuto del Club Arrayanes\n\nEspectaculares áreas comunales:\n\nPiscinas temperadas\n\nGimnasio equipado\n\nCancha de padel\n\nÁrea de BBQ\n\nBillar\n\nPing Pong\n\nÁrea de juegos infantil\n\nListos para entrega\n\n¿Buscas invertir en tu futuro?\n\nMindala es tu mejor opción",
+        "features": [
+          "Agua",
+          "Luz",
+          "Alcantarillado",
+          "Telefono",
+          "Seguridad"
+        ],
+        "mapQuery": "-0.153519, -78.379845"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/terrenos/vendo-terreno-listos-para-construir-en-puembo/",
+      "wpId": 7364,
+      "publishedAt": null,
+      "modifiedAt": "2026-06-04T21:16:47+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2026/02/FE-San-Angel.png",
+        "https://g3i.ec/wp-content/uploads/2026/02/San-Angel-7.png",
+        "https://g3i.ec/wp-content/uploads/2026/02/San-Angel-8.png",
+        "https://g3i.ec/wp-content/uploads/2026/02/San-Angel-9.png",
+        "https://g3i.ec/wp-content/uploads/2026/02/San-Angel-6.png",
+        "https://g3i.ec/wp-content/uploads/2026/02/San-Angel-2.png",
+        "https://g3i.ec/wp-content/uploads/2026/02/San-Angel-3.png",
+        "https://g3i.ec/wp-content/uploads/2026/02/San-Angel-4.png",
+        "https://g3i.ec/wp-content/uploads/2026/02/San-Angel-5.png"
+      ],
+      "videos": [],
+      "type": "terreno",
+      "title": "Vendo terreno listos para construir en Puembo",
+      "originalTitle": "Vendo Terreno Listos Para Construir en Puembo",
+      "price": 160439,
+      "sector": "puembo",
+      "sectorRaw": "Puembo",
+      "condition": "",
+      "totalM2": 502,
+      "builtM2": null,
+      "gardenM2": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "halfBathrooms": null,
+      "parking": null,
+      "frontMeters": 21,
+      "description": "Urbanización 29 terrenos desarrollado en 2,5 hectáreas ubicado a los alrededores de uno de los mejores sectores de Puembo (Arrayanes) va a gozar de áreas comunales con varias amenities, acabados de lujo y hermosos jardines.\n\n5 últimos terrenos desde: 501 m2\nInversion desde: $160.439\n\nCARACTERISTICAS URBANIZACIÓN\nTerrenos con topografía regular\n\nAMENITIES\nPiscina\nGimnasio\nSalon comunal\nCancha de Padel\nArea BBQ\nGarita de seguridad",
+      "features": [
+        "Agua",
+        "Luz",
+        "Alcantarillado",
+        "Seguridad"
+      ],
+      "amenities": [
+        "sala-comunal",
+        "piscina",
+        "guardiania",
+        "gimnasio",
+        "area-bbq"
+      ],
+      "unmatchedFeatures": [
+        "Agua",
+        "Luz",
+        "Alcantarillado"
+      ],
+      "location": {
+        "lat": -0.162354,
+        "lng": -78.374129
+      },
+      "address": "",
+      "warnings": [],
+      "raw": {
+        "sitemapType": "terreno",
+        "title": "Vendo Terreno Listos Para Construir en Puembo",
+        "price": "$ 160.439",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Puembo"
+        ],
+        "fields": {
+          "ruler-combined": "502 m²",
+          "ruler-horizontal": "21 m de frente"
+        },
+        "descriptionText": "Urbanización 29 terrenos desarrollado en 2,5 hectáreas ubicado a los alrededores de uno de los mejores sectores de Puembo (Arrayanes) va a gozar de áreas comunales con varias amenities, acabados de lujo y hermosos jardines.\n\n5 últimos terrenos desde: 501 m2\nInversion desde: $160.439\n\nCARACTERISTICAS URBANIZACIÓN\nTerrenos con topografía regular\n\nAMENITIES\nPiscina\nGimnasio\nSalon comunal\nCancha de Padel\nArea BBQ\nGarita de seguridad",
+        "features": [
+          "Agua",
+          "Luz",
+          "Alcantarillado",
+          "Seguridad"
+        ],
+        "mapQuery": "-0.162354, -78.374129"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/terrenos/vendo-hermoso-terreno-en-estrategica-ubicacion-cumbay/",
+      "wpId": 7653,
+      "publishedAt": null,
+      "modifiedAt": null,
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2026/06/1448291815.jpg",
+        "https://g3i.ec/wp-content/uploads/2026/06/1448291816.jpg",
+        "https://g3i.ec/wp-content/uploads/2026/06/1448291817.jpg",
+        "https://g3i.ec/wp-content/uploads/2026/06/1448291818.jpg",
+        "https://g3i.ec/wp-content/uploads/2026/06/1448291837.jpg",
+        "https://g3i.ec/wp-content/uploads/2026/06/1448291838.jpg",
+        "https://g3i.ec/wp-content/uploads/2026/06/1448291839.jpg",
+        "https://g3i.ec/wp-content/uploads/2026/06/1448291840.jpg"
+      ],
+      "videos": [],
+      "type": "terreno",
+      "title": "Vendo hermoso terreno en estratégica ubicación, Cumbayá",
+      "originalTitle": "Vendo Hermoso Terreno en Estrategica Ubicación, Cumbay",
+      "price": 285000,
+      "sector": "cumbaya",
+      "sectorRaw": "Cumbayá",
+      "condition": "",
+      "totalM2": 611,
+      "builtM2": null,
+      "gardenM2": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "halfBathrooms": null,
+      "parking": null,
+      "frontMeters": null,
+      "description": "Urbanización de 27 lotes\nUSD 611 m2\nExcelente ubicación con fácil acceso a la Ruta Viva\n\nSeguridad 24 horas\nCircuito cerrado\nCables Soterrado\nTopografía regular\nAcabados de lujo\nÁreas comunes:\nÁrea BBQ\nSalón comunal\nPiscina\n\nAmplias zonas verdes\nExcelente oportunidad\n¡El lugar ideal para tu familia!",
+      "features": [
+        "Agua",
+        "Luz",
+        "Seguridad"
+      ],
+      "amenities": [
+        "sala-comunal",
+        "piscina",
+        "guardiania",
+        "area-bbq"
+      ],
+      "unmatchedFeatures": [
+        "Agua",
+        "Luz"
+      ],
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "address": "",
+      "warnings": [
+        "sin mapa de ubicación"
+      ],
+      "raw": {
+        "sitemapType": "terreno",
+        "title": "Vendo Hermoso Terreno en Estrategica Ubicación, Cumbay",
+        "price": "$ 285.000",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Cumbayá"
+        ],
+        "fields": {
+          "ruler-combined": "611 m²",
+          "ruler-horizontal": "m de frente"
+        },
+        "descriptionText": "Urbanización de 27 lotes\nUSD 611 m2\nExcelente ubicación con fácil acceso a la Ruta Viva\n\nSeguridad 24 horas\nCircuito cerrado\nCables Soterrado\nTopografía regular\nAcabados de lujo\nÁreas comunes:\nÁrea BBQ\nSalón comunal\nPiscina\n\nAmplias zonas verdes\nExcelente oportunidad\n¡El lugar ideal para tu familia!",
+        "features": [
+          "Agua",
+          "Luz",
+          "Seguridad"
+        ],
+        "mapQuery": ""
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/terrenos/terreno-comercial-en-zona-estrategica-de-alta-circulacion-ruta-viva-no-negociable/",
+      "wpId": 7756,
+      "publishedAt": null,
+      "modifiedAt": "2026-09-14T01:07:10+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2026/09/terreno-ruta-viva.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/terreno-ruta-viva-2.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/terreno-ruta-viva-1.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/terreno-ruta-viva-3.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/terreno-ruta-viva-6.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/terreno-ruta-viva-4.png",
+        "https://g3i.ec/wp-content/uploads/2026/09/terreno-ruta-viva-5.png"
+      ],
+      "videos": [],
+      "type": "terreno",
+      "title": "Terreno comercial en zona estratégica de alta circulación – Ruta Viva – no negociable",
+      "originalTitle": "Terreno Comercial en Zona Estratégica de Alta Circulación – Ruta Viva – No Negociable",
+      "price": 670000,
+      "sector": "cumbaya",
+      "sectorRaw": "Cumbayá",
+      "condition": "",
+      "totalM2": 2614,
+      "builtM2": null,
+      "gardenM2": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "halfBathrooms": null,
+      "parking": null,
+      "frontMeters": 88,
+      "description": "🏗️ Vendo Terreno Comercial en la Ruta Viva\n💰 Precio: $670.000 | 📐 Área: 2.614 m² | 📏 Frente: 88 metros\n\nUbicado en una de las zonas con mayor proyección comercial de Quito 🌆, este terreno sobre la Ruta Viva es ideal para desarrollar tu próximo proyecto 🚀. Su amplio frente de 88 metros le brinda gran visibilidad 👁️ y acceso directo desde la vía principal 🛣️. Perfecto para negocios, plazas comerciales o inversión a largo plazo 📈.\n\n- 🚗 Alta circulación vehicular — miles de vehículos diarios frente a tu proyecto\n- 🔗 Conectividad estratégica hacia Cumbayá, Tumbaco y Quito\n- 📍 Ubicación privilegiada en una de las vías de mayor crecimiento comercial del país\n- 💼 Ideal para: centros comerciales, plazas de comida, oficinas, hoteles o desarrollo mixto",
+      "features": [],
+      "amenities": [],
+      "unmatchedFeatures": [],
+      "location": {
+        "lat": -0.2210731534023558,
+        "lng": -78.41902700572096
+      },
+      "address": "",
+      "warnings": [],
+      "raw": {
+        "sitemapType": "terreno",
+        "title": "Terreno Comercial en Zona Estratégica de Alta Circulación – Ruta Viva – No Negociable",
+        "price": "$ 670.000",
+        "transaction": "Venta",
+        "sectorTerms": [
+          "Cumbayá"
+        ],
+        "fields": {
+          "ruler-combined": "2614 m²",
+          "ruler-horizontal": "88 m de frente"
+        },
+        "descriptionText": "🏗️ Vendo Terreno Comercial en la Ruta Viva\n💰 Precio: $670.000 | 📐 Área: 2.614 m² | 📏 Frente: 88 metros\n\nUbicado en una de las zonas con mayor proyección comercial de Quito 🌆, este terreno sobre la Ruta Viva es ideal para desarrollar tu próximo proyecto 🚀. Su amplio frente de 88 metros le brinda gran visibilidad 👁️ y acceso directo desde la vía principal 🛣️. Perfecto para negocios, plazas comerciales o inversión a largo plazo 📈.\n\n- 🚗 Alta circulación vehicular — miles de vehículos diarios frente a tu proyecto\n- 🔗 Conectividad estratégica hacia Cumbayá, Tumbaco y Quito\n- 📍 Ubicación privilegiada en una de las vías de mayor crecimiento comercial del país\n- 💼 Ideal para: centros comerciales, plazas de comida, oficinas, hoteles o desarrollo mixto",
+        "features": [],
+        "mapQuery": "-0.2210731534023558, -78.41902700572096"
+      }
+    }
+  ],
+  "projects": [
+    {
+      "wpUrl": "https://g3i.ec/proyect-g3i/venta-de-suites-y-departamentos-de-2-y-3-dormitorios-en-cumbaya-sector-intervalles-entrega-febrero-2025/",
+      "wpId": 5312,
+      "publishedAt": null,
+      "modifiedAt": "2025-04-15T22:50:47+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2024/01/Syrah_Palms-1.png",
+        "https://g3i.ec/wp-content/uploads/2024/01/Syrah_Palms-2.png",
+        "https://g3i.ec/wp-content/uploads/2024/01/Syrah_Palms-3.png",
+        "https://g3i.ec/wp-content/uploads/2024/01/Syrah_Palms-4.png",
+        "https://g3i.ec/wp-content/uploads/2024/01/Syrah_Palms-5.png",
+        "https://g3i.ec/wp-content/uploads/2024/01/Syrah_Palms-6.png",
+        "https://g3i.ec/wp-content/uploads/2024/01/Syrah_Palms-7.png",
+        "https://g3i.ec/wp-content/uploads/2024/01/Syrah_Palms-8.png",
+        "https://g3i.ec/wp-content/uploads/2024/01/Syrah_Palms-9.png"
+      ],
+      "videos": [],
+      "brochure": null,
+      "title": "Venta de departamentos de 2 dormitorios en Cumbayá",
+      "originalTitle": "Venta de departamentos de 2 dormitorios en Cumbayá",
+      "stage": "en-construccion",
+      "propertyTypes": [
+        "departamento",
+        "suite"
+      ],
+      "sector": "cumbaya",
+      "sectorRaw": "Cumbayá",
+      "priceFrom": 122285,
+      "deliveryDate": "Mayo 2025",
+      "deliveryDates": [
+        "Mayo 2025"
+      ],
+      "totalUnits": 30,
+      "description": "Venta de departamentos de 2 dormitorios en Cumbayá, sector Intervalles. Entrega Mayo 2025\n\nSuites y departamentos con diseño vanguardista.\n\n✌️ Departamentos de 2 dormitorios\n\nDesde 📏 108,90 m2\n\n💲 199.489\n\nDentro de Urbanización privada con guardianía.\n\nFácil acceso a la Ruta Viva\n\n🍖 Área BBQ\n\n💪 Gimnasio\n\n💧 Jacuzzi\n\n🌱 Áreas Verdes\n\n🍀 Jardines privados\n\nEntrega Mayo 2025\n\n¡Calidad de vida rodeado de naturaleza!\n\nUn moderno diseño arquitectónico con acabados de lujo.\n\n¡El sueño de vivir en Cumbayá!",
+      "features": [
+        "Luz",
+        "Agua",
+        "Electricidad",
+        "Parqueadero de visitas",
+        "Bodega",
+        "Walking Closet",
+        "Chimenea",
+        "Jardín",
+        "Pergola",
+        "Terraza",
+        "Seguridad Privada",
+        "Vista",
+        "Casa Comunal",
+        "Sistema de alarma",
+        "Conjunto Privado",
+        "Ascensor",
+        "Video Seguridad",
+        "Gimnasio",
+        "Sauna",
+        "Turco",
+        "Hidromasaje"
+      ],
+      "amenities": [
+        "urbanizacion-privada",
+        "sauna",
+        "turco",
+        "areas-verdes",
+        "guardiania",
+        "parqueadero-visitas",
+        "gimnasio",
+        "area-bbq",
+        "jacuzzi",
+        "vista",
+        "ascensor",
+        "salon-comunal"
+      ],
+      "unmatchedFeatures": [
+        "Luz",
+        "Agua",
+        "Electricidad",
+        "Walking Closet",
+        "Chimenea",
+        "Pergola"
+      ],
+      "location": {
+        "lat": -0.210673,
+        "lng": -78.419335
+      },
+      "address": "",
+      "units": [],
+      "warnings": [],
+      "raw": {
+        "title": "Venta de departamentos de 2 dormitorios en Cumbayá",
+        "priceFrom": "Desde $ 122.285",
+        "stageTerm": "en Obra",
+        "sectorTerms": [
+          "Cumbayá"
+        ],
+        "fields": {
+          "home": "30 unid",
+          "cubes": "Departamentos"
+        },
+        "descriptionText": "Venta de departamentos de 2 dormitorios en Cumbayá, sector Intervalles. Entrega Mayo 2025\n\nSuites y departamentos con diseño vanguardista.\n\n✌️ Departamentos de 2 dormitorios\n\nDesde 📏 108,90 m2\n\n💲 199.489\n\nDentro de Urbanización privada con guardianía.\n\nFácil acceso a la Ruta Viva\n\n🍖 Área BBQ\n\n💪 Gimnasio\n\n💧 Jacuzzi\n\n🌱 Áreas Verdes\n\n🍀 Jardines privados\n\nEntrega Mayo 2025\n\n¡Calidad de vida rodeado de naturaleza!\n\nUn moderno diseño arquitectónico con acabados de lujo.\n\n¡El sueño de vivir en Cumbayá!",
+        "features": [
+          "Luz",
+          "Agua",
+          "Electricidad",
+          "Parqueadero de visitas",
+          "Bodega",
+          "Walking Closet",
+          "Chimenea",
+          "Jardín",
+          "Pergola",
+          "Terraza",
+          "Seguridad Privada",
+          "Vista",
+          "Casa Comunal",
+          "Sistema de alarma",
+          "Conjunto Privado",
+          "Ascensor",
+          "Video Seguridad",
+          "Gimnasio",
+          "Sauna",
+          "Turco",
+          "Hidromasaje"
+        ],
+        "mapQuery": "-0.210673, -78.419335"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/proyect-g3i/casas-independientes-de-lujo-exclusivas-en-urbanizacion-en-cumbaya/",
+      "wpId": 7075,
+      "publishedAt": null,
+      "modifiedAt": "2025-05-15T00:27:29+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2025/05/Hyedras.png",
+        "https://g3i.ec/wp-content/uploads/2025/05/Hyedras-1.png",
+        "https://g3i.ec/wp-content/uploads/2025/05/Hyedras-2.png",
+        "https://g3i.ec/wp-content/uploads/2025/05/Hyedras-3.png",
+        "https://g3i.ec/wp-content/uploads/2025/05/Hyedras-4.png",
+        "https://g3i.ec/wp-content/uploads/2025/05/Hyedras-5.png",
+        "https://g3i.ec/wp-content/uploads/2025/05/Hyedras-6.png",
+        "https://g3i.ec/wp-content/uploads/2025/05/Hyedras-7.png",
+        "https://g3i.ec/wp-content/uploads/2025/05/Hyedras-8.png",
+        "https://g3i.ec/wp-content/uploads/2025/05/Hyedras-9.png",
+        "https://g3i.ec/wp-content/uploads/2025/05/Hyedras-10.png"
+      ],
+      "videos": [],
+      "brochure": null,
+      "title": "Casas independientes de lujo exclusivas en urbanización en Cumbayá",
+      "originalTitle": "Casas independientes de lujo exclusivas en urbanización en Cumbayá",
+      "stage": "en-construccion",
+      "propertyTypes": [
+        "casa"
+      ],
+      "sector": "cumbaya",
+      "sectorRaw": "Cumbayá",
+      "priceFrom": 558921,
+      "deliveryDate": "",
+      "deliveryDates": [],
+      "totalUnits": 2,
+      "description": "🏡 Casas de lujo en Cumbayá\n\nDos espectaculares casas independientes en un conjunto privado que lo tiene todo: diseño, seguridad y ubicación privilegiada.\n\n✨ Casa 1\n4 🛏️ | 3.5 🛁 | 201 m² + jardín 🌿\n3 🚗 | 1 🗄️ | Precio: $558.921\n\n✨ Casa 2\n5 🛏️ | 4.5 🛁 | 289 m² + jardín amplio 🌳\n3 🚗 | 1 🗄️ | Precio: $699.082\n\n✅ Seguridad 24/7\n✅ Sala comunal + área verde\n✅ 7 parqueaderos de visita\n✅ Cámaras de seguridad\n✅ Cableado subterráneo\n✅ ¡A minutos de todo! 🏥🏫🛍️⚽\n\n📍 La combinación perfecta entre vida urbana y tranquilidad residencial.\n\n📞 Agenda tu visita hoy.",
+      "features": [
+        "Luz",
+        "Agua",
+        "Teléfono",
+        "Electricidad",
+        "Parqueadero de visitas",
+        "Bodega",
+        "Walking Closet",
+        "Pergola",
+        "Video Seguridad"
+      ],
+      "amenities": [
+        "urbanizacion-privada",
+        "areas-verdes",
+        "guardiania",
+        "parqueadero-visitas",
+        "salon-comunal"
+      ],
+      "unmatchedFeatures": [
+        "Luz",
+        "Agua",
+        "Teléfono",
+        "Electricidad",
+        "Walking Closet",
+        "Pergola"
+      ],
+      "location": {
+        "lat": -0.210806,
+        "lng": -78.441611
+      },
+      "address": "",
+      "units": [
+        {
+          "name": "Casa 1",
+          "type": "casa",
+          "bedrooms": 4,
+          "bathrooms": 3.5,
+          "parking": 3,
+          "storageRooms": 1,
+          "builtM2": 201,
+          "price": 558921,
+          "description": "Incluye jardín."
+        },
+        {
+          "name": "Casa 2",
+          "type": "casa",
+          "bedrooms": 5,
+          "bathrooms": 4.5,
+          "parking": 3,
+          "storageRooms": 1,
+          "builtM2": 289,
+          "price": 699082,
+          "description": "Incluye jardín amplio."
+        }
+      ],
+      "warnings": [],
+      "raw": {
+        "title": "Casas independientes de lujo exclusivas en urbanización en Cumbayá",
+        "priceFrom": "Desde $ 558.921",
+        "stageTerm": "en Obra",
+        "sectorTerms": [
+          "Cumbayá"
+        ],
+        "fields": {
+          "home": "2 unid",
+          "cubes": "Casas"
+        },
+        "descriptionText": "🏡 Casas de lujo en Cumbayá\n\nDos espectaculares casas independientes en un conjunto privado que lo tiene todo: diseño, seguridad y ubicación privilegiada.\n\n✨ Casa 1\n4 🛏️ | 3.5 🛁 | 201 m² + jardín 🌿\n3 🚗 | 1 🗄️ | Precio: $558.921\n\n✨ Casa 2\n5 🛏️ | 4.5 🛁 | 289 m² + jardín amplio 🌳\n3 🚗 | 1 🗄️ | Precio: $699.082\n\n✅ Seguridad 24/7\n✅ Sala comunal + área verde\n✅ 7 parqueaderos de visita\n✅ Cámaras de seguridad\n✅ Cableado subterráneo\n✅ ¡A minutos de todo! 🏥🏫🛍️⚽\n\n📍 La combinación perfecta entre vida urbana y tranquilidad residencial.\n\n📞 Agenda tu visita hoy.",
+        "features": [
+          "Luz",
+          "Agua",
+          "Teléfono",
+          "Electricidad",
+          "Parqueadero de visitas",
+          "Bodega",
+          "Walking Closet",
+          "Pergola",
+          "Video Seguridad"
+        ],
+        "mapQuery": "0°12'38.9\"S 78°26'29.8\"W"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/proyect-g3i/casas-en-venta-sector-pacho-salas-tumbaco/",
+      "wpId": 7235,
+      "publishedAt": null,
+      "modifiedAt": "2025-09-22T17:29:11+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2025/09/FE-ONZE.png",
+        "https://g3i.ec/wp-content/uploads/2025/09/Onze.png",
+        "https://g3i.ec/wp-content/uploads/2025/09/Onze-7.png",
+        "https://g3i.ec/wp-content/uploads/2025/09/Onze-4.png",
+        "https://g3i.ec/wp-content/uploads/2025/09/Onze-3.png",
+        "https://g3i.ec/wp-content/uploads/2025/09/Onze-5.png",
+        "https://g3i.ec/wp-content/uploads/2025/09/Onze-2.png",
+        "https://g3i.ec/wp-content/uploads/2025/09/Onze-8.png",
+        "https://g3i.ec/wp-content/uploads/2025/09/Onze-6.png"
+      ],
+      "videos": [],
+      "brochure": null,
+      "title": "Casas en venta sector Pacho Salas, Tumbaco",
+      "originalTitle": "Casas en venta sector Pacho Salas, Tumbaco",
+      "stage": "en-construccion",
+      "propertyTypes": [
+        "casa"
+      ],
+      "sector": "tumbaco",
+      "sectorRaw": "Tumbaco",
+      "priceFrom": 292500,
+      "deliveryDate": "Noviembre 2026",
+      "deliveryDates": [
+        "Noviembre 2026"
+      ],
+      "totalUnits": 10,
+      "description": "✨ Vive en un lugar exclusivo y rodeado de naturaleza. Este nuevo conjunto habitacional ofrece casas modernas con diseño arquitectónico de vanguardia, amplias áreas verdes y todo lo que tu familia necesita.\n\n📐 Casas Tipo A, B y C desde 193 m² hasta 247 m²\n🌿 Jardines privados desde 62 m² hasta 223 m²\n🚗 Estacionamiento cubierto incluido en la mayoría de unidades\n💰 Precios desde $292,500 hasta $399,990\n📅 Entrega: noviembre 2026\n\n✅ Espacios sociales amplios y funcionales\n✅ Dormitorios cómodos y luminosos\n✅ Conjunto seguro con áreas verdes comunales\n\n📍 Ubicación estratégica en Pacho Salas\n📞 Agenda tu visita hoy y asegura tu casa ideal.",
+      "features": [
+        "Luz",
+        "Agua",
+        "Parqueadero de visitas",
+        "Walking Closet",
+        "Jardín"
+      ],
+      "amenities": [
+        "areas-verdes",
+        "parqueadero-visitas",
+        "ubicacion-estrategica"
+      ],
+      "unmatchedFeatures": [
+        "Luz",
+        "Agua",
+        "Walking Closet"
+      ],
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "address": "",
+      "units": [],
+      "warnings": [
+        "sin mapa de ubicación"
+      ],
+      "raw": {
+        "title": "Casas en venta sector Pacho Salas, Tumbaco",
+        "priceFrom": "Desde $ 292.500",
+        "stageTerm": "en Obra",
+        "sectorTerms": [
+          "Tumbaco"
+        ],
+        "fields": {
+          "home": "10 unid",
+          "cubes": "Casas"
+        },
+        "descriptionText": "✨ Vive en un lugar exclusivo y rodeado de naturaleza. Este nuevo conjunto habitacional ofrece casas modernas con diseño arquitectónico de vanguardia, amplias áreas verdes y todo lo que tu familia necesita.\n\n📐 Casas Tipo A, B y C desde 193 m² hasta 247 m²\n🌿 Jardines privados desde 62 m² hasta 223 m²\n🚗 Estacionamiento cubierto incluido en la mayoría de unidades\n💰 Precios desde $292,500 hasta $399,990\n📅 Entrega: noviembre 2026\n\n✅ Espacios sociales amplios y funcionales\n✅ Dormitorios cómodos y luminosos\n✅ Conjunto seguro con áreas verdes comunales\n\n📍 Ubicación estratégica en Pacho Salas\n📞 Agenda tu visita hoy y asegura tu casa ideal.",
+        "features": [
+          "Luz",
+          "Agua",
+          "Parqueadero de visitas",
+          "Walking Closet",
+          "Jardín"
+        ],
+        "mapQuery": ""
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/proyect-g3i/proyecto-en-tumbaco/",
+      "wpId": 7431,
+      "publishedAt": null,
+      "modifiedAt": "2026-04-13T20:21:35+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2026/03/Shyrah-Hills.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/Syrah-Hills-2.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/Syrah-Hills-3.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/Syrah-Hills.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/Syrah-Hills-6.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/Syrah-Hills-5.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/Syrah-Hills-7.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/SYRAH-7-3.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/SYRAH-4-3.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/SYRAH-3-3.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/SYRAH-2-3.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/SYRAH-6-3.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/Syrah-Hills-4.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/SYRAH-5-3.png",
+        "https://g3i.ec/wp-content/uploads/2026/03/SYRAH-7-2.png"
+      ],
+      "videos": [],
+      "brochure": null,
+      "title": "Proyecto en Tumbaco venta de departamentos",
+      "originalTitle": "Proyecto en Tumbaco Venta de Departamentos Desde $136646",
+      "stage": "en-planos",
+      "propertyTypes": [
+        "departamento"
+      ],
+      "sector": "tumbaco",
+      "sectorRaw": "Tumbaco",
+      "priceFrom": 136646,
+      "deliveryDate": "",
+      "deliveryDates": [],
+      "totalUnits": 44,
+      "description": "Invierte en una de las zonas con mayor crecimiento de Tumbaco con precios exclusivos de prelanzamiento.\n\nActualmente, el proyecto cuenta con 8 unidades en descuento, solo quedan 4 departamentos a este precio preferencial.\n\nCaracterísticas del proyecto:\nProyecto moderno con alto potencial de valorización\nIdeal para vivienda o inversión\nUbicación estratégica en Tumbaco\nEntorno residencial con excelente proyección\nAmenidades exclusivas:\nPiscina temperada\nHidromasaje\nCoworking\nSala de reuniones\nKid’s club\nJuegos infantiles\nJardines comunales con caminerías\nSala comunal equipada\nZona BBQ\nGimnasio completamente equipado\nPet zone\nParqueaderos de visitas cubiertos\n\nContáctanos para más información, disponibilidad y precios actualizados.\nAsegura tu unidad antes de que se agoten los cupos de prelanzamiento.",
+      "features": [
+        "Parqueadero de visitas",
+        "Bodega",
+        "Jardín",
+        "BBQ",
+        "Áreas Infantiles",
+        "Ascensor",
+        "Gimnasio"
+      ],
+      "amenities": [
+        "piscina",
+        "parqueadero-visitas",
+        "gimnasio",
+        "areas-infantiles",
+        "area-bbq",
+        "jacuzzi",
+        "ascensor",
+        "coworking",
+        "pet-friendly",
+        "ubicacion-estrategica",
+        "salon-comunal"
+      ],
+      "unmatchedFeatures": [],
+      "location": {
+        "lat": -0.210117,
+        "lng": -78.418964
+      },
+      "address": "",
+      "units": [],
+      "warnings": [],
+      "raw": {
+        "title": "Proyecto en Tumbaco Venta de Departamentos Desde $136646",
+        "priceFrom": "Desde $ 136.646",
+        "stageTerm": "Planos",
+        "sectorTerms": [
+          "Tumbaco"
+        ],
+        "fields": {
+          "home": "44 unid",
+          "cubes": "Departamentos"
+        },
+        "descriptionText": "Invierte en una de las zonas con mayor crecimiento de Tumbaco con precios exclusivos de prelanzamiento.\n\nActualmente, el proyecto cuenta con 8 unidades en descuento, solo quedan 4 departamentos a este precio preferencial.\n\nCaracterísticas del proyecto:\nProyecto moderno con alto potencial de valorización\nIdeal para vivienda o inversión\nUbicación estratégica en Tumbaco\nEntorno residencial con excelente proyección\nAmenidades exclusivas:\nPiscina temperada\nHidromasaje\nCoworking\nSala de reuniones\nKid’s club\nJuegos infantiles\nJardines comunales con caminerías\nSala comunal equipada\nZona BBQ\nGimnasio completamente equipado\nPet zone\nParqueaderos de visitas cubiertos\n\nContáctanos para más información, disponibilidad y precios actualizados.\nAsegura tu unidad antes de que se agoten los cupos de prelanzamiento.",
+        "features": [
+          "Parqueadero de visitas",
+          "Bodega",
+          "Jardín",
+          "BBQ",
+          "Áreas Infantiles",
+          "Ascensor",
+          "Gimnasio"
+        ],
+        "mapQuery": "-0.210117, -78.418964"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/proyect-g3i/depto-2-dormitorios-en-venta-en-cumbaya-con-balcon-2-parqueaderos-y-bodega/",
+      "wpId": 7690,
+      "publishedAt": null,
+      "modifiedAt": "2026-07-02T00:00:49+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2026/06/feature-st-thomas.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/st-thomas-2.jpg",
+        "https://g3i.ec/wp-content/uploads/2026/06/st-thomas-3.jpg",
+        "https://g3i.ec/wp-content/uploads/2026/06/st-thomas-4.jpg",
+        "https://g3i.ec/wp-content/uploads/2026/06/st-thomas-5.jpg",
+        "https://g3i.ec/wp-content/uploads/2026/06/st-thomas-6.jpg",
+        "https://g3i.ec/wp-content/uploads/2026/06/st-thomas.jpg"
+      ],
+      "videos": [],
+      "brochure": null,
+      "title": "Depto 2 dormitorios en venta en Cumbayá con balcón + 2 parqueaderos y bodega",
+      "originalTitle": "Depto 2 dormitorios en venta en Cumbayá con balcón + 2 parqueaderos y bodega",
+      "stage": "por-estrenar",
+      "propertyTypes": [
+        "departamento"
+      ],
+      "sector": "cumbaya",
+      "sectorRaw": "Cumbayá",
+      "priceFrom": 169000,
+      "deliveryDate": "",
+      "deliveryDates": [],
+      "totalUnits": 18,
+      "description": "Este departamento de 2 dormitorios 🛏️🛏️en venta en Cumbayá combina amplitud, diseño moderno y una distribución funcional, convirtiéndose en una excelente opción para quienes buscan una propiedad con alta demanda y gran potencial de valorización.\n\nLa propiedad cuenta con 93 m² de área útil, diseñados para ofrecer confort y aprovechar al máximo cada espacio. Su amplia área social se integra con una cocina abierta de estilo contemporáneo, creando un ambiente ideal para compartir con familiares y amigos 🙌🏻. Además, dispone de un balcón privado, que aporta iluminación natural y un espacio perfecto para disfrutar del entorno.\n\nEl dormitorio principal 🛏️incluye un amplio walk-in closet, brindando mayor comodidad y capacidad de almacenamiento. El departamento también cuenta con baño social y un práctico cuarto de máquinas.\n\nComo valor agregado, la propiedad incluye 2 parqueaderos privados (27 m² en total) y una bodega de 3 m².\n\nCaracterísticas de la propiedad:\n\n- Departamento en venta en Cumbayá\n- 2 dormitorios\n- 93 m² de área útil\n- Amplia área social\n- Cocina abierta integrada\n- Balcón privado\n- Amplio walk-in closet\n- Baño social\n- Cuarto de máquinas\n- 2 parqueaderos privados (27 m²)\n- Bodega de 3 m²\n- Ideal para vivienda o inversión\n\nPrecio de venta: USD 169.000\n\nSi buscas un departamento de 2 dormitorios en Cumbayá con excelente distribución, acabados modernos y una ubicación estratégica en una de las zonas con mayor demanda inmobiliaria de Quito, esta es una oportunidad que no puedes dejar pasar. Su combinación de espacios amplios, funcionalidad y potencial de valorización lo convierten en una inversión inteligente para el presente y el futuro. 🙌🏻",
+      "features": [
+        "Luz",
+        "Agua",
+        "Electricidad",
+        "Parqueadero de visitas",
+        "Bodega",
+        "Walking Closet",
+        "Terraza",
+        "Seguridad Privada",
+        "Vista",
+        "Conjunto Privado"
+      ],
+      "amenities": [
+        "urbanizacion-privada",
+        "guardiania",
+        "parqueadero-visitas",
+        "vista",
+        "ubicacion-estrategica"
+      ],
+      "unmatchedFeatures": [
+        "Luz",
+        "Agua",
+        "Electricidad",
+        "Walking Closet"
+      ],
+      "location": {
+        "lat": -0.21431135936645646,
+        "lng": -78.45565805409612
+      },
+      "address": "",
+      "units": [],
+      "warnings": [],
+      "raw": {
+        "title": "Depto 2 dormitorios en venta en Cumbayá con balcón + 2 parqueaderos y bodega",
+        "priceFrom": "Desde $ 169.000",
+        "stageTerm": "Por Estrenar",
+        "sectorTerms": [
+          "Cumbayá"
+        ],
+        "fields": {
+          "home": "18 unid",
+          "cubes": "Departamentos"
+        },
+        "descriptionText": "Este departamento de 2 dormitorios 🛏️🛏️en venta en Cumbayá combina amplitud, diseño moderno y una distribución funcional, convirtiéndose en una excelente opción para quienes buscan una propiedad con alta demanda y gran potencial de valorización.\n\nLa propiedad cuenta con 93 m² de área útil, diseñados para ofrecer confort y aprovechar al máximo cada espacio. Su amplia área social se integra con una cocina abierta de estilo contemporáneo, creando un ambiente ideal para compartir con familiares y amigos 🙌🏻. Además, dispone de un balcón privado, que aporta iluminación natural y un espacio perfecto para disfrutar del entorno.\n\nEl dormitorio principal 🛏️incluye un amplio walk-in closet, brindando mayor comodidad y capacidad de almacenamiento. El departamento también cuenta con baño social y un práctico cuarto de máquinas.\n\nComo valor agregado, la propiedad incluye 2 parqueaderos privados (27 m² en total) y una bodega de 3 m².\n\nCaracterísticas de la propiedad:\n\n- Departamento en venta en Cumbayá\n- 2 dormitorios\n- 93 m² de área útil\n- Amplia área social\n- Cocina abierta integrada\n- Balcón privado\n- Amplio walk-in closet\n- Baño social\n- Cuarto de máquinas\n- 2 parqueaderos privados (27 m²)\n- Bodega de 3 m²\n- Ideal para vivienda o inversión\n\nPrecio de venta: USD 169.000\n\nSi buscas un departamento de 2 dormitorios en Cumbayá con excelente distribución, acabados modernos y una ubicación estratégica en una de las zonas con mayor demanda inmobiliaria de Quito, esta es una oportunidad que no puedes dejar pasar. Su combinación de espacios amplios, funcionalidad y potencial de valorización lo convierten en una inversión inteligente para el presente y el futuro. 🙌🏻",
+        "features": [
+          "Luz",
+          "Agua",
+          "Electricidad",
+          "Parqueadero de visitas",
+          "Bodega",
+          "Walking Closet",
+          "Terraza",
+          "Seguridad Privada",
+          "Vista",
+          "Conjunto Privado"
+        ],
+        "mapQuery": "-0.21431135936645646, -78.45565805409612"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/proyect-g3i/departamentos-en-venta-en-cumbaya-estudios-suites-y-2-dormitorios-desde-usd-69307/",
+      "wpId": 7665,
+      "publishedAt": null,
+      "modifiedAt": "2026-07-03T02:18:05+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2026/06/ALBA-VIEW-FEATURE.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/Alba-View-5.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/Alba-View-12.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/Alba-View-3.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/Alba-View-2.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/Alba-View-4.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/Alba-View-10.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/Alba-View-6.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/Alba-View-13.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/Alba-View-7.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/Alba-View-8.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/Alba-View-9.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/Alba-View-11.png",
+        "https://g3i.ec/wp-content/uploads/2026/06/Alba-View.png"
+      ],
+      "videos": [],
+      "brochure": null,
+      "title": "Departamentos en venta en Cumbayá, estudios, suites y 2 dormitorios",
+      "originalTitle": "Departamentos en venta en Cumbayá | Estudios, suites y 2 dormitorios. Desde USD 75,262",
+      "stage": "en-planos",
+      "propertyTypes": [
+        "departamento",
+        "suite"
+      ],
+      "sector": "cumbaya",
+      "sectorRaw": "Cumbayá",
+      "priceFrom": 75262,
+      "deliveryDate": "Diciembre 2027",
+      "deliveryDates": [
+        "Diciembre 2027",
+        "Diciembre 2028"
+      ],
+      "totalUnits": 54,
+      "description": "Departamentos en venta en Cumbayá | Estudios, suites y 2 dormitorios con amenidades exclusivas. Desde USD 75,262\n\nExclusivo proyecto residencial de arquitectura contemporánea en el corazón de Cumbayá, a pasos de centros comerciales, universidades y parques. Dos etapas con amenidades premium: gimnasio, coworking, sala de conferencias, piscina, jacuzzi, yoga, BBQ y más.\n\n🏠 Estudios desde 28.62 m² | Desde USD $75,262\n\n🏠 Suites desde 43,74 m² | Desde USD $78,732\n\n🏠 2 Dormitorios desde 73.97 m² | Desde USD $175.065\n\nEtapa A: entrega dic. 2027\n\nEtapa B: entrega dic. 2028\n\nAlta plusvalía · Diseño de autor · Ubicación privilegiada",
+      "features": [
+        "Luz",
+        "Agua",
+        "Parqueadero de visitas",
+        "Bodega",
+        "BBQ",
+        "Terraza",
+        "Piscina",
+        "Áreas Infantiles"
+      ],
+      "amenities": [
+        "piscina",
+        "parqueadero-visitas",
+        "gimnasio",
+        "areas-infantiles",
+        "area-bbq",
+        "jacuzzi",
+        "coworking"
+      ],
+      "unmatchedFeatures": [
+        "Luz",
+        "Agua"
+      ],
+      "location": {
+        "lat": -0.202843,
+        "lng": -78.433437
+      },
+      "address": "",
+      "units": [],
+      "warnings": [
+        "el campo \"tipo\" dice \"Casas\" pero el título dice otra cosa; se usó departamento, suite",
+        "varias fechas de entrega (Diciembre 2027, Diciembre 2028); se tomó la primera"
+      ],
+      "raw": {
+        "title": "Departamentos en venta en Cumbayá | Estudios, suites y 2 dormitorios. Desde USD 75,262",
+        "priceFrom": "Desde $ 75.262",
+        "stageTerm": "Planos",
+        "sectorTerms": [
+          "Cumbayá"
+        ],
+        "fields": {
+          "home": "54 unid",
+          "cubes": "Casas"
+        },
+        "descriptionText": "Departamentos en venta en Cumbayá | Estudios, suites y 2 dormitorios con amenidades exclusivas. Desde USD 75,262\n\nExclusivo proyecto residencial de arquitectura contemporánea en el corazón de Cumbayá, a pasos de centros comerciales, universidades y parques. Dos etapas con amenidades premium: gimnasio, coworking, sala de conferencias, piscina, jacuzzi, yoga, BBQ y más.\n\n🏠 Estudios desde 28.62 m² | Desde USD $75,262\n\n🏠 Suites desde 43,74 m² | Desde USD $78,732\n\n🏠 2 Dormitorios desde 73.97 m² | Desde USD $175.065\n\nEtapa A: entrega dic. 2027\n\nEtapa B: entrega dic. 2028\n\nAlta plusvalía · Diseño de autor · Ubicación privilegiada",
+        "features": [
+          "Luz",
+          "Agua",
+          "Parqueadero de visitas",
+          "Bodega",
+          "BBQ",
+          "Terraza",
+          "Piscina",
+          "Áreas Infantiles"
+        ],
+        "mapQuery": "-0.202843, -78.433437"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/proyect-g3i/departamentos-y-suites-en-venta-en-ciudad-san-patricio-cumbaya-desde-119-016-con-triple-seguridad/",
+      "wpId": 7709,
+      "publishedAt": null,
+      "modifiedAt": "2026-08-17T00:20:17+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2026/07/Livadi-1.png",
+        "https://g3i.ec/wp-content/uploads/2026/07/forena-Gardens-2.png",
+        "https://g3i.ec/wp-content/uploads/2026/07/forena-Gardens-3.png",
+        "https://g3i.ec/wp-content/uploads/2026/07/forena-Gardens-4.png",
+        "https://g3i.ec/wp-content/uploads/2026/07/forena-Gardens-5.png",
+        "https://g3i.ec/wp-content/uploads/2026/07/forena-Gardens-6.png",
+        "https://g3i.ec/wp-content/uploads/2026/07/forena-Gardens.png"
+      ],
+      "videos": [],
+      "brochure": null,
+      "title": "Departamentos y suites en venta en Ciudad San Patricio Cumbayá, con triple seguridad",
+      "originalTitle": "Departamentos y Suites en Venta en Ciudad San Patricio Cumbayá | Desde $119.016 con Triple Seguridad",
+      "stage": "en-planos",
+      "propertyTypes": [
+        "departamento",
+        "suite"
+      ],
+      "sector": "cumbaya",
+      "sectorRaw": "Cumbayá",
+      "priceFrom": 119016,
+      "deliveryDate": "",
+      "deliveryDates": [],
+      "totalUnits": 19,
+      "description": "No es solo un departamento. Es un estilo de vida con acceso exclusivo.\n\nEste proyecto residencial en Ciudad San Patricio - Cumbayá redefine lo que significa vivir con comodidad, seguridad y exclusividad en el valle. Dos torres residenciales con opciones para cada etapa de vida: suites de 1 dormitorio, departamentos de 2 y 3 dormitorios, varios de ellos con jardín privado, sala exterior y acabados contemporáneos de primer nivel.\n\n¿Qué lo hace diferente?\n\nAquí no entras simplemente a un conjunto residencial — accedes a una urbanización privada dentro de Ciudad San Patricio, lo que te garantiza un nivel de privacidad y exclusividad que muy pocos proyectos en todo Cumbayá pueden ofrecer.\n\nTriple filtro de seguridad:\n🔒 Primer filtro: control de acceso a Ciudad San Patricio\n🔒 Segundo filtro: ingreso al conjunto residencial\n🔒 Tercer filtro: acceso independiente a cada torre\n\nTres capas de protección para que vivas con la tranquilidad que tú y tu familia merecen.\n\nLas unidades:\n\n- 🏠 Suites de 1 dormitorio desde 59 m² hasta 86 m² — ideales como primera vivienda o inversión de renta\n- 🛏️ Departamentos de 2 dormitorios desde 94 m² hasta 107 m²\n- 🏡 Departamentos de 3 dormitorios hasta 149 m² para familias que necesitan espacio real\n- 🌿 Varias unidades en planta baja con jardín privado de hasta 101 m²\n\nLas amenidades del conjunto:\n\n- 💪 GYM — entrena sin salir de tu urbanización\n- 🍖 Área BBQ — para los mejores momentos en buena compañía\n- 💻 Coworking — tu oficina profesional a pasos de tu puerta\n- 🐾 Zona PET — porque tu mascota también vive aquí\n\nPrecios desde USD $119.016\nOpciones para todos los perfiles — desde el inversionista que busca rentabilidad hasta la familia que quiere su hogar definitivo en Cumbayá.\n\nUbicado con acceso directo a la Ruta Viva, a minutos de centros comerciales como Paseo San Francisco, Scala Shopping y Ventura Mall, universidades como la USFQ y colegios de renombre como el Colegio Alemán, Colegio Menor San Francisco y SEK International School.\n\nPlusvalía garantizada. Exclusividad comprobada. Disponibilidad limitada.\n\n📲 Contáctanos hoy, agenda tu visita.",
+      "features": [
+        "Luz",
+        "Agua",
+        "Electricidad",
+        "Parqueadero de visitas",
+        "Jardín",
+        "BBQ",
+        "Pergola",
+        "Seguridad Privada",
+        "Vista",
+        "Sistema de alarma",
+        "Conjunto Privado",
+        "Video Seguridad",
+        "Gimnasio"
+      ],
+      "amenities": [
+        "urbanizacion-privada",
+        "guardiania",
+        "parqueadero-visitas",
+        "gimnasio",
+        "area-bbq",
+        "vista",
+        "coworking",
+        "pet-friendly"
+      ],
+      "unmatchedFeatures": [
+        "Luz",
+        "Agua",
+        "Electricidad",
+        "Pergola"
+      ],
+      "location": {
+        "lat": -0.21693051186528747,
+        "lng": -78.44827596098295
+      },
+      "address": "",
+      "units": [],
+      "warnings": [],
+      "raw": {
+        "title": "Departamentos y Suites en Venta en Ciudad San Patricio Cumbayá | Desde $119.016 con Triple Seguridad",
+        "priceFrom": "Desde $ 119.016",
+        "stageTerm": "Planos",
+        "sectorTerms": [
+          "Cumbayá"
+        ],
+        "fields": {
+          "home": "19 unid",
+          "cubes": "Departamentos"
+        },
+        "descriptionText": "No es solo un departamento. Es un estilo de vida con acceso exclusivo.\n\nEste proyecto residencial en Ciudad San Patricio - Cumbayá redefine lo que significa vivir con comodidad, seguridad y exclusividad en el valle. Dos torres residenciales con opciones para cada etapa de vida: suites de 1 dormitorio, departamentos de 2 y 3 dormitorios, varios de ellos con jardín privado, sala exterior y acabados contemporáneos de primer nivel.\n\n¿Qué lo hace diferente?\n\nAquí no entras simplemente a un conjunto residencial — accedes a una urbanización privada dentro de Ciudad San Patricio, lo que te garantiza un nivel de privacidad y exclusividad que muy pocos proyectos en todo Cumbayá pueden ofrecer.\n\nTriple filtro de seguridad:\n🔒 Primer filtro: control de acceso a Ciudad San Patricio\n🔒 Segundo filtro: ingreso al conjunto residencial\n🔒 Tercer filtro: acceso independiente a cada torre\n\nTres capas de protección para que vivas con la tranquilidad que tú y tu familia merecen.\n\nLas unidades:\n\n- 🏠 Suites de 1 dormitorio desde 59 m² hasta 86 m² — ideales como primera vivienda o inversión de renta\n- 🛏️ Departamentos de 2 dormitorios desde 94 m² hasta 107 m²\n- 🏡 Departamentos de 3 dormitorios hasta 149 m² para familias que necesitan espacio real\n- 🌿 Varias unidades en planta baja con jardín privado de hasta 101 m²\n\nLas amenidades del conjunto:\n\n- 💪 GYM — entrena sin salir de tu urbanización\n- 🍖 Área BBQ — para los mejores momentos en buena compañía\n- 💻 Coworking — tu oficina profesional a pasos de tu puerta\n- 🐾 Zona PET — porque tu mascota también vive aquí\n\nPrecios desde USD $119.016\nOpciones para todos los perfiles — desde el inversionista que busca rentabilidad hasta la familia que quiere su hogar definitivo en Cumbayá.\n\nUbicado con acceso directo a la Ruta Viva, a minutos de centros comerciales como Paseo San Francisco, Scala Shopping y Ventura Mall, universidades como la USFQ y colegios de renombre como el Colegio Alemán, Colegio Menor San Francisco y SEK International School.\n\nPlusvalía garantizada. Exclusividad comprobada. Disponibilidad limitada.\n\n📲 Contáctanos hoy, agenda tu visita.",
+        "features": [
+          "Luz",
+          "Agua",
+          "Electricidad",
+          "Parqueadero de visitas",
+          "Jardín",
+          "BBQ",
+          "Pergola",
+          "Seguridad Privada",
+          "Vista",
+          "Sistema de alarma",
+          "Conjunto Privado",
+          "Video Seguridad",
+          "Gimnasio"
+        ],
+        "mapQuery": "-0.21693051186528747, -78.44827596098295"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/proyect-g3i/%f0%9f%8c%b1-nuevo-proyecto-en-desarrollo-en-el-corazon-de-cumbaya/",
+      "wpId": 5655,
+      "publishedAt": null,
+      "modifiedAt": "2026-09-01T02:07:36+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2024/05/Livadi.png",
+        "https://g3i.ec/wp-content/uploads/2024/05/parkside-2-1.png",
+        "https://g3i.ec/wp-content/uploads/2024/05/parkside-4-1.png",
+        "https://g3i.ec/wp-content/uploads/2024/05/parkside-5-1.png",
+        "https://g3i.ec/wp-content/uploads/2024/05/parkside-6-1.png",
+        "https://g3i.ec/wp-content/uploads/2024/05/parkside-7-1.png",
+        "https://g3i.ec/wp-content/uploads/2024/05/parkside-8-1.png",
+        "https://g3i.ec/wp-content/uploads/2024/05/parkside-9-1.png",
+        "https://g3i.ec/wp-content/uploads/2024/05/parkside3.png",
+        "https://g3i.ec/wp-content/uploads/2024/05/parkside-1.png"
+      ],
+      "videos": [],
+      "brochure": null,
+      "title": "Nuevo proyecto en desarrollo en el corazón de Cumbayá",
+      "originalTitle": "🌱 Nuevo proyecto en desarrollo en el corazón de Cumbayá",
+      "stage": "en-planos",
+      "propertyTypes": [
+        "departamento"
+      ],
+      "sector": "cumbaya",
+      "sectorRaw": "Cumbayá",
+      "priceFrom": 149900,
+      "deliveryDate": "Diciembre 2026",
+      "deliveryDates": [
+        "Diciembre 2026",
+        "Diciembre 2027"
+      ],
+      "totalUnits": 48,
+      "description": "🏢 2 magnificas torres con entrega Diciembre 2026 y Diciembre 2027\n\n🛏️ Departamentos de 2 habitaciones.\n\nDpto 2 dorm desde 💲149.900\n\n📏60 m2 + 20 m2 de terraza\n\nEspectaculares amenities:\n\n👙Piscina e Hidromasaje\n\n💪 Gimnasio\n\n🤓 Co working\n\n🍃 Rooftop y Sendero ecológico\n\n🐶 Pet zone\n\n🧩 Juegos infantiles\n\n¡Aprovecha esta oportunidad de vivir en la zona más central de Cumbayá!",
+      "features": [
+        "Luz",
+        "Agua",
+        "Teléfono",
+        "Electricidad",
+        "Parqueadero de visitas",
+        "Bodega",
+        "Walking Closet",
+        "Chimenea",
+        "Jardín",
+        "BBQ",
+        "Pergola",
+        "Terraza",
+        "Piscina",
+        "Seguridad Privada",
+        "Vista",
+        "Áreas Infantiles",
+        "Ascensor",
+        "Gimnasio",
+        "Hidromasaje"
+      ],
+      "amenities": [
+        "piscina",
+        "guardiania",
+        "parqueadero-visitas",
+        "gimnasio",
+        "areas-infantiles",
+        "area-bbq",
+        "jacuzzi",
+        "vista",
+        "ascensor",
+        "pet-friendly",
+        "rooftop"
+      ],
+      "unmatchedFeatures": [
+        "Luz",
+        "Agua",
+        "Teléfono",
+        "Electricidad",
+        "Walking Closet",
+        "Chimenea",
+        "Pergola"
+      ],
+      "location": {
+        "lat": -0.21989,
+        "lng": -78.432259
+      },
+      "address": "",
+      "units": [],
+      "warnings": [
+        "varias fechas de entrega (Diciembre 2026, Diciembre 2027); se tomó la primera"
+      ],
+      "raw": {
+        "title": "🌱 Nuevo proyecto en desarrollo en el corazón de Cumbayá",
+        "priceFrom": "Desde $ 149.900",
+        "stageTerm": "Planos",
+        "sectorTerms": [
+          "Cumbayá"
+        ],
+        "fields": {
+          "home": "48 unid",
+          "cubes": "Departamentos"
+        },
+        "descriptionText": "🌱 Nuevo proyecto en desarrollo en el corazón de Cumbayá 🌱\n\n🏢 2 magnificas torres con entrega Diciembre 2026 y Diciembre 2027\n\n🛏️ Departamentos de 2 habitaciones.\n\nDpto 2 dorm desde 💲149.900\n\n📏60 m2 + 20 m2 de terraza\n\nEspectaculares amenities:\n\n👙Piscina e Hidromasaje\n\n💪 Gimnasio\n\n🤓 Co working\n\n🍃 Rooftop y Sendero ecológico\n\n🐶 Pet zone\n\n🧩 Juegos infantiles\n\n¡Aprovecha esta oportunidad de vivir en la zona más central de Cumbayá!",
+        "features": [
+          "Luz",
+          "Agua",
+          "Teléfono",
+          "Electricidad",
+          "Parqueadero de visitas",
+          "Bodega",
+          "Walking Closet",
+          "Chimenea",
+          "Jardín",
+          "BBQ",
+          "Pergola",
+          "Terraza",
+          "Piscina",
+          "Seguridad Privada",
+          "Vista",
+          "Áreas Infantiles",
+          "Ascensor",
+          "Gimnasio",
+          "Hidromasaje"
+        ],
+        "mapQuery": "-0.219890, -78.432259"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/proyect-g3i/nuevo-proyecto-en-el-corazon-de-cumbaya-suites-y-dptos-de-2-dorm/",
+      "wpId": 5685,
+      "publishedAt": null,
+      "modifiedAt": "2026-09-01T02:19:31+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2024/06/Vitae-_FE.png",
+        "https://g3i.ec/wp-content/uploads/2024/06/Vitae.png",
+        "https://g3i.ec/wp-content/uploads/2024/06/Vitae-5.png",
+        "https://g3i.ec/wp-content/uploads/2024/06/Vitae-3.png",
+        "https://g3i.ec/wp-content/uploads/2024/06/Vitae-2.png",
+        "https://g3i.ec/wp-content/uploads/2024/06/Vitae-4.png",
+        "https://g3i.ec/wp-content/uploads/2024/06/Vitae-6.png",
+        "https://g3i.ec/wp-content/uploads/2024/06/Vitae-7.png",
+        "https://g3i.ec/wp-content/uploads/2024/06/Vitae-8.png",
+        "https://g3i.ec/wp-content/uploads/2024/06/Vitae-9.png",
+        "https://g3i.ec/wp-content/uploads/2024/06/Vitae-10.png",
+        "https://g3i.ec/wp-content/uploads/2024/06/Vitae-11.png",
+        "https://g3i.ec/wp-content/uploads/2024/06/Vitae-12.png",
+        "https://g3i.ec/wp-content/uploads/2024/06/Vitae-13.png",
+        "https://g3i.ec/wp-content/uploads/2024/06/Vitae-14.png",
+        "https://g3i.ec/wp-content/uploads/2024/06/Vitae-15.png"
+      ],
+      "videos": [],
+      "brochure": null,
+      "title": "Proyecto nuevo en Cumbayá: suites y departamentos en venta",
+      "originalTitle": "Proyecto Nuevo en Cumbayá: Suites y Departamentos en venta",
+      "stage": "en-planos",
+      "propertyTypes": [
+        "departamento",
+        "suite"
+      ],
+      "sector": "cumbaya",
+      "sectorRaw": "Cumbayá",
+      "priceFrom": 102700,
+      "deliveryDate": "Enero 2027",
+      "deliveryDates": [
+        "Enero 2027"
+      ],
+      "totalUnits": 52,
+      "description": "¡Nuevo proyecto en Cumbayá! Suites y departamentos de 2 dormitorios\n\nEntrega Enero 2027\n\n✌️ Suite\nDesde 📏 47,78 m²\n💲 102.700\n\n✌️ Departamento 2 Dormitorios + Sala de TV\nDesde 📏 120,46 m²\n💲 215.600\n\nExcelente ubicación en Cumbayá\n\n🍖 Área BBQ\n\n💪 Gimnasio\n\n💧 Jacuzzi\n\n🌱 Áreas Verdes y Fire Pit\n\n📺 Sala TV\n\n🍀 Área de yoga\n\n🎭 Kids zone\n\n¡Calidad de vida en Cumbayá, cerca de lo que más te importa!",
+      "features": [
+        "Luz",
+        "Agua",
+        "Teléfono",
+        "Electricidad",
+        "Parqueadero de visitas",
+        "Bodega",
+        "Walking Closet",
+        "Chimenea",
+        "Jardín",
+        "BBQ",
+        "Pergola",
+        "Terraza",
+        "Seguridad Privada",
+        "Vista",
+        "Casa Comunal",
+        "Áreas Infantiles",
+        "Ascensor",
+        "Gimnasio",
+        "Hidromasaje"
+      ],
+      "amenities": [
+        "areas-verdes",
+        "guardiania",
+        "parqueadero-visitas",
+        "gimnasio",
+        "areas-infantiles",
+        "area-bbq",
+        "jacuzzi",
+        "vista",
+        "ascensor",
+        "salon-comunal"
+      ],
+      "unmatchedFeatures": [
+        "Luz",
+        "Agua",
+        "Teléfono",
+        "Electricidad",
+        "Walking Closet",
+        "Chimenea",
+        "Pergola"
+      ],
+      "location": {
+        "lat": -0.199917,
+        "lng": -78.445899
+      },
+      "address": "",
+      "units": [],
+      "warnings": [],
+      "raw": {
+        "title": "Proyecto Nuevo en Cumbayá: Suites y Departamentos en venta",
+        "priceFrom": "Desde $ 102.700",
+        "stageTerm": "Planos",
+        "sectorTerms": [
+          "Cumbayá"
+        ],
+        "fields": {
+          "home": "52 unid",
+          "cubes": "Departamentos"
+        },
+        "descriptionText": "¡Nuevo proyecto en Cumbayá! Suites y departamentos de 2 dormitorios\n\nEntrega Enero 2027\n\n✌️ Suite\nDesde 📏 47,78 m²\n💲 102.700\n\n✌️ Departamento 2 Dormitorios + Sala de TV\nDesde 📏 120,46 m²\n💲 215.600\n\nExcelente ubicación en Cumbayá\n\n🍖 Área BBQ\n\n💪 Gimnasio\n\n💧 Jacuzzi\n\n🌱 Áreas Verdes y Fire Pit\n\n📺 Sala TV\n\n🍀 Área de yoga\n\n🎭 Kids zone\n\n¡Calidad de vida en Cumbayá, cerca de lo que más te importa!",
+        "features": [
+          "Luz",
+          "Agua",
+          "Teléfono",
+          "Electricidad",
+          "Parqueadero de visitas",
+          "Bodega",
+          "Walking Closet",
+          "Chimenea",
+          "Jardín",
+          "BBQ",
+          "Pergola",
+          "Terraza",
+          "Seguridad Privada",
+          "Vista",
+          "Casa Comunal",
+          "Áreas Infantiles",
+          "Ascensor",
+          "Gimnasio",
+          "Hidromasaje"
+        ],
+        "mapQuery": "-0.199917, -78.445899"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/proyect-g3i/proyecto-de-departamentos-estilo-resort-living-por-el-sector-pachosalas/",
+      "wpId": 7047,
+      "publishedAt": null,
+      "modifiedAt": "2026-09-02T01:04:32+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2025/04/Akua.png",
+        "https://g3i.ec/wp-content/uploads/2025/04/Vitae-1.png",
+        "https://g3i.ec/wp-content/uploads/2025/04/Vitae-2.png",
+        "https://g3i.ec/wp-content/uploads/2025/04/Vitae-3.png",
+        "https://g3i.ec/wp-content/uploads/2025/04/Vitae-4.png",
+        "https://g3i.ec/wp-content/uploads/2025/04/Vitae-5.png",
+        "https://g3i.ec/wp-content/uploads/2025/04/Vitae-6.png",
+        "https://g3i.ec/wp-content/uploads/2025/04/Vitae-7.png",
+        "https://g3i.ec/wp-content/uploads/2025/04/Vitae-8.png",
+        "https://g3i.ec/wp-content/uploads/2025/04/Vitae-9.png",
+        "https://g3i.ec/wp-content/uploads/2025/04/Vitae-10.png",
+        "https://g3i.ec/wp-content/uploads/2025/04/Vitae-11.png",
+        "https://g3i.ec/wp-content/uploads/2025/04/Akua-4.png",
+        "https://g3i.ec/wp-content/uploads/2025/04/Vitae-12.png",
+        "https://g3i.ec/wp-content/uploads/2025/04/Akua-2.png",
+        "https://g3i.ec/wp-content/uploads/2025/04/Akua-3.png",
+        "https://g3i.ec/wp-content/uploads/2025/04/Akua-5.png",
+        "https://g3i.ec/wp-content/uploads/2025/04/Akua-6.png",
+        "https://g3i.ec/wp-content/uploads/2025/04/Akua-7.png",
+        "https://g3i.ec/wp-content/uploads/2025/04/Akua-8.png",
+        "https://g3i.ec/wp-content/uploads/2025/04/Akua-9.png",
+        "https://g3i.ec/wp-content/uploads/2025/04/Akua-10.png",
+        "https://g3i.ec/wp-content/uploads/2025/04/Akua-1.png"
+      ],
+      "videos": [],
+      "brochure": null,
+      "title": "Departamentos en venta cerca de la Ruta Viva – vive entre naturaleza y confort",
+      "originalTitle": "🌿 Departamentos en venta cerca de la Ruta Viva – Vive entre naturaleza y confort",
+      "stage": "en-planos",
+      "propertyTypes": [
+        "departamento",
+        "suite"
+      ],
+      "sector": "cumbaya",
+      "sectorRaw": "Cumbayá",
+      "priceFrom": 126658,
+      "deliveryDate": "Octubre 2027",
+      "deliveryDates": [
+        "Octubre 2027",
+        "Diciembre 2028"
+      ],
+      "totalUnits": 10,
+      "description": "A solo 1 minuto de la Ruta Viva, por el sector de Pachosalas, presentamos un proyecto residencial diseñado para quienes buscan un equilibrio perfecto entre lujo, naturaleza y confort\n\n1er Etapa - Entrega Octubre 2027\n2da Etapa - Entrega Dic 2028\n\nSuites desde $126.658 | 7.90 m²\nDepartamentos de 2 dormitorios desde $224.919 | 102.60 m²\nDepartamentos de 3 dormitorios desde $306.196 | 143.90m²\n\nAmenidades pensadas para todos:\n- Piscina\n- Jacuzzi\n- Turco\n- Lobby de entrada\n- 2 Salas de TV\n- Espacio de Yoga\n- Gimnasio equipado\n- Business center\n- Mini Chaquiñan\n- Pizza Bar\n- Kids Club\n- Fire Pit\n- Cocina equipada\n- BBQ\n- Pizza Bar\n- Pet Station\n- Cocina equipada\n- Rooftop\n- Jardín de lectura\n- Amplias Áreas Verdes\n\n¡Bienvenido a un resort experience, a tu propio oasis en la ciudad!\nConsulta disponibilidad y empieza la inversión de tu vida",
+      "features": [
+        "Luz",
+        "Agua",
+        "Parqueadero de visitas",
+        "Bodega",
+        "Walking Closet",
+        "Jardín",
+        "BBQ",
+        "Terraza",
+        "Piscina",
+        "Seguridad Privada",
+        "Vista",
+        "Áreas Infantiles",
+        "Sistema de alarma",
+        "Ascensor",
+        "Gimnasio",
+        "Hidromasaje"
+      ],
+      "amenities": [
+        "turco",
+        "piscina",
+        "areas-verdes",
+        "guardiania",
+        "parqueadero-visitas",
+        "gimnasio",
+        "areas-infantiles",
+        "area-bbq",
+        "jacuzzi",
+        "vista",
+        "ascensor",
+        "pet-friendly",
+        "rooftop",
+        "lobby"
+      ],
+      "unmatchedFeatures": [
+        "Luz",
+        "Agua",
+        "Walking Closet"
+      ],
+      "location": {
+        "lat": -0.22304959267639787,
+        "lng": -78.40739936958106
+      },
+      "address": "",
+      "units": [],
+      "warnings": [
+        "varias fechas de entrega (Octubre 2027, Diciembre 2028); se tomó la primera"
+      ],
+      "raw": {
+        "title": "🌿 Departamentos en venta cerca de la Ruta Viva – Vive entre naturaleza y confort",
+        "priceFrom": "Desde $ 126.658",
+        "stageTerm": "Planos",
+        "sectorTerms": [
+          "Cumbayá"
+        ],
+        "fields": {
+          "home": "10 unid",
+          "cubes": "Departamentos"
+        },
+        "descriptionText": "🌿 Departamentos en venta cerca de la Ruta Viva – Vive entre naturaleza y confort\n\nA solo 1 minuto de la Ruta Viva, por el sector de Pachosalas, presentamos un proyecto residencial diseñado para quienes buscan un equilibrio perfecto entre lujo, naturaleza y confort\n\n1er Etapa - Entrega Octubre 2027\n2da Etapa - Entrega Dic 2028\n\nSuites desde $126.658 | 7.90 m²\nDepartamentos de 2 dormitorios desde $224.919 | 102.60 m²\nDepartamentos de 3 dormitorios desde $306.196 | 143.90m²\n\nAmenidades pensadas para todos:\n- Piscina\n- Jacuzzi\n- Turco\n- Lobby de entrada\n- 2 Salas de TV\n- Espacio de Yoga\n- Gimnasio equipado\n- Business center\n- Mini Chaquiñan\n- Pizza Bar\n- Kids Club\n- Fire Pit\n- Cocina equipada\n- BBQ\n- Pizza Bar\n- Pet Station\n- Cocina equipada\n- Rooftop\n- Jardín de lectura\n- Amplias Áreas Verdes\n\n¡Bienvenido a un resort experience, a tu propio oasis en la ciudad!\nConsulta disponibilidad y empieza la inversión de tu vida",
+        "features": [
+          "Luz",
+          "Agua",
+          "Parqueadero de visitas",
+          "Bodega",
+          "Walking Closet",
+          "Jardín",
+          "BBQ",
+          "Terraza",
+          "Piscina",
+          "Seguridad Privada",
+          "Vista",
+          "Áreas Infantiles",
+          "Sistema de alarma",
+          "Ascensor",
+          "Gimnasio",
+          "Hidromasaje"
+        ],
+        "mapQuery": "-0.22304959267639787, -78.40739936958106"
+      }
+    },
+    {
+      "wpUrl": "https://g3i.ec/proyect-g3i/eclat-proyecto-inmobiliario-ideal-para-invertir-en-cumbaya-%e2%9c%a8/",
+      "wpId": 7336,
+      "publishedAt": null,
+      "modifiedAt": "2026-09-14T00:43:47+00:00",
+      "images": [
+        "https://g3i.ec/wp-content/uploads/2026/01/8.png",
+        "https://g3i.ec/wp-content/uploads/2026/01/7-scaled.png",
+        "https://g3i.ec/wp-content/uploads/2026/01/12-scaled.png",
+        "https://g3i.ec/wp-content/uploads/2026/01/6-scaled.png",
+        "https://g3i.ec/wp-content/uploads/2026/01/1-scaled.png",
+        "https://g3i.ec/wp-content/uploads/2026/01/2-scaled.png",
+        "https://g3i.ec/wp-content/uploads/2026/01/3-scaled.png",
+        "https://g3i.ec/wp-content/uploads/2026/01/4-scaled.png",
+        "https://g3i.ec/wp-content/uploads/2026/01/5-scaled.png",
+        "https://g3i.ec/wp-content/uploads/2026/01/9-scaled.png",
+        "https://g3i.ec/wp-content/uploads/2026/01/10-scaled.png",
+        "https://g3i.ec/wp-content/uploads/2026/01/11-scaled.png"
+      ],
+      "videos": [],
+      "brochure": null,
+      "title": "Éclat – estudios y suites ideal para invertir en Cumbayá",
+      "originalTitle": "ÉCLAT – estudios y suites ideal para invertir en Cumbayá ✨",
+      "stage": "en-construccion",
+      "propertyTypes": [
+        "departamento",
+        "suite"
+      ],
+      "sector": "cumbaya",
+      "sectorRaw": "Cumbayá",
+      "priceFrom": 99946,
+      "deliveryDate": "Noviembre 2026",
+      "deliveryDates": [
+        "Noviembre 2026"
+      ],
+      "totalUnits": 12,
+      "description": "ÉCLAT es un proyecto inmobiliario pensado para inversión en Cumbayá, ubicado en La Primavera, una de las zonas con mayor 📈 plusvalía, alta demanda de arriendo y crecimiento sostenido del valle.\n\n📍 Ubicación estratégica cerca de Ruta Viva, Hospital de los Valles, Scala Shopping y zonas corporativas, lo que lo convierte en una excelente opción para invertir en bienes raíces con alta proyección.\n\n🏢 Estudios y suites en venta en Cumbayá:\n\n🔹Estudio desde 56 m²\n💰 Desde USD 85.900\n🔹 Suites desde 61 m²\n💰 Desde USD 99.946\n\n🚗📦 Todas las unidades incluyen parqueadero y bodega, atributos clave para maximizar el valor de arriendo y reventa.\n\n🌇 Amenities que potencian la rentabilidad:\n✔ Rooftop lounge\n✔ Área BBQ\n✔ Coworking\n\n🔐 Equipamiento y seguridad:\n🔹 Accesos inteligentes\n🔹 Ascensor de última generación\n🔹 Generador eléctrico\n\n📅 Entrega: noviembre 2026\n\nInvertir en ÉCLAT es asegurar 💼 rentabilidad, 📊 plusvalía y 📍 ubicación.\n📲 Solicita información y asegura tu unidad en una de las zonas más cotizadas de Cumbayá.",
+      "features": [
+        "Luz",
+        "Agua",
+        "Electricidad",
+        "Parqueadero de visitas",
+        "Bodega",
+        "Jardín",
+        "BBQ",
+        "Pergola",
+        "Seguridad Privada",
+        "Ascensor",
+        "Video Seguridad"
+      ],
+      "amenities": [
+        "guardiania",
+        "parqueadero-visitas",
+        "generador-electrico",
+        "area-bbq",
+        "ascensor",
+        "coworking",
+        "rooftop",
+        "ubicacion-estrategica"
+      ],
+      "unmatchedFeatures": [
+        "Luz",
+        "Agua",
+        "Electricidad",
+        "Pergola"
+      ],
+      "location": {
+        "lat": -0.212703,
+        "lng": -78.432393
+      },
+      "address": "",
+      "units": [],
+      "warnings": [],
+      "raw": {
+        "title": "ÉCLAT – estudios y suites ideal para invertir en Cumbayá ✨",
+        "priceFrom": "Desde $ 99.946",
+        "stageTerm": "en Obra",
+        "sectorTerms": [
+          "Cumbayá"
+        ],
+        "fields": {
+          "home": "12 unid",
+          "cubes": "Departamentos"
+        },
+        "descriptionText": "ÉCLAT es un proyecto inmobiliario pensado para inversión en Cumbayá, ubicado en La Primavera, una de las zonas con mayor 📈 plusvalía, alta demanda de arriendo y crecimiento sostenido del valle.\n\n📍 Ubicación estratégica cerca de Ruta Viva, Hospital de los Valles, Scala Shopping y zonas corporativas, lo que lo convierte en una excelente opción para invertir en bienes raíces con alta proyección.\n\n🏢 Estudios y suites en venta en Cumbayá:\n\n🔹Estudio desde 56 m²\n💰 Desde USD 85.900\n🔹 Suites desde 61 m²\n💰 Desde USD 99.946\n\n🚗📦 Todas las unidades incluyen parqueadero y bodega, atributos clave para maximizar el valor de arriendo y reventa.\n\n🌇 Amenities que potencian la rentabilidad:\n✔ Rooftop lounge\n✔ Área BBQ\n✔ Coworking\n\n🔐 Equipamiento y seguridad:\n🔹 Accesos inteligentes\n🔹 Ascensor de última generación\n🔹 Generador eléctrico\n\n📅 Entrega: noviembre 2026\n\nInvertir en ÉCLAT es asegurar 💼 rentabilidad, 📊 plusvalía y 📍 ubicación.\n📲 Solicita información y asegura tu unidad en una de las zonas más cotizadas de Cumbayá.",
+        "features": [
+          "Luz",
+          "Agua",
+          "Electricidad",
+          "Parqueadero de visitas",
+          "Bodega",
+          "Jardín",
+          "BBQ",
+          "Pergola",
+          "Seguridad Privada",
+          "Ascensor",
+          "Video Seguridad"
+        ],
+        "mapQuery": "-0.212703, -78.432393"
+      }
+    }
+  ],
+  "testimonials": [
+    {
+      "wpUrl": "https://g3i.ec/testimonios/ana-cristina-y-leon/",
+      "wpId": 531,
+      "text": "¡Excelente servicio y atención al cliente! G3i conoce perfectamente Cumbayá y facilitó nuestra búsqueda adaptada a nuestras necesidades. Gracias.",
+      "name": "Ana Cristina y León",
+      "context": "Cliente Satisfecho",
+      "photo": null
+    },
+    {
+      "wpUrl": "https://g3i.ec/testimonios/julian/",
+      "wpId": 532,
+      "text": "Es un gusto trabajar con una empresa tan cercana y profesional como es G3i. Definitivamente facilitaron mi vida al apoyarme con la venta mi propiedad.",
+      "name": "Julian Maya",
+      "context": "Cliente Satisfecho",
+      "photo": null
+    },
+    {
+      "wpUrl": "https://g3i.ec/testimonios/mario/",
+      "wpId": 530,
+      "text": "Es realmente una ventaja que G3i conozca tantos y tan bien los proyectos en el sector de los valles. Hizo que mi búsqueda sea rápida y muy bien adaptada a mi gusto. No dudaría en usar sus servicios de nuevo.",
+      "name": "Mario Celi",
+      "context": "Cliente Satisfecho",
+      "photo": null
+    },
+    {
+      "wpUrl": "https://g3i.ec/testimonios/borrador-automatico/",
+      "wpId": 529,
+      "text": "El trabajo de G3i, y en especial de David Gonzalez, acompañándonos en la comercialización, asesoría y ventas, ha sido fundamental para poder concluir de la mejor manera nuestro proyecto.",
+      "name": "Daniel Ramirez",
+      "context": "Constructor",
+      "photo": null
+    }
+  ],
+  "advisors": [
+    {
+      "wpUrl": "https://g3i.ec/vendedores_g3i/david-gonzalez/",
+      "wpId": 715,
+      "name": "David Gonzalez",
+      "photo": null,
+      "bio": ""
+    }
+  ],
+  "posts": [
+    {
+      "wpUrl": "https://g3i.ec/9-razones-para-vivir-en-cumbaya-2/",
+      "wpId": 4382,
+      "title": "9 razones para vivir en Cumbayá",
+      "originalTitle": "9 razones para vivir en Cumbayá",
+      "excerpt": "Cumbayá es una de las zonas dentro Quito considerada la perla geográfica a la orilla de la ciudad capital. Se formó a base de un estilo de vida compartido por sus habitantes; la ciudad de Quito, a veces fría, ruidosa y congestionada,…",
+      "content": "Cumbayá es una de las zonas dentro Quito considerada la perla geográfica a la orilla de la ciudad capital. Se formó a base de un estilo de vida compartido por sus habitantes; la ciudad de Quito, a veces fría, ruidosa y congestionada, fue intercambiada por el entorno familiar, seguro y natural del valle. Así que ¿por qué vivir en Cumbayá?:\n\n1. El clima es muy agradable, no vas a querer salir del valle y siempre querrás disfrutar de su privilegiado clima, mayor tranquilidad, menos contaminación y con un tipo de sonido ambiental, diferente al ruido de la ciudad.\n2. Espacios para pasear, hacer deporte, comer, tomar algo ¡encuentras de todo!\n3. Es súper natural, con la grandiosa combinación, puedes disfrutar de la naturaleza y del deporte al mismo tiempo.\n4. Tiene ferias artesanales y eventos todas las semanas.\n5. Está solo a 20 minutos de la zona central de Quito.\n6. Es hermoso para vivir con los niños ¡se divierten un montón! Hay muchas escuelas y colegios de calidad única.\n7. ¿Quieres salir de Quito? Cumbayá tiene acceso a la Simón Bolívar y Ruta Viva, salidas de la ciudad por todas las zonas, sin entrar al tráfico de la capital.\n8. Todo está a la mano y todo queda cerca.\n9. El parque, el reservorio, la Pampite, Supermaxi ¡todo en un solo lugar!\n\nAprovecha esta oportunidad que te brinda Cumbayá de vivir con tranquilidad y seguridad. Los mejores proyectos de Cumbayá los tiene G3i.",
+      "cover": null,
+      "publishedAt": "2023-03-06T17:13:33+00:00"
+    }
+  ],
+  "report": {
+    "unmatchedSectors": [
+      {
+        "wpUrl": "https://g3i.ec/casas/vendo-casa-de-dos-dormitorios-en-pakakuna-gardens-checa/",
+        "sector": "Checa"
+      }
+    ],
+    "unmatchedFeatures": {
+      "Luz": 27,
+      "Agua": 29,
+      "Teléfono": 5,
+      "Electricidad": 18,
+      "Chimenea": 5,
+      "Pergola": 10,
+      "Walking Closet": 11,
+      "Alcantarillado": 8,
+      "Telefono": 3
+    },
+    "missingCoordinates": [
+      "https://g3i.ec/casas/casa-en-venta-dentro-de-urb-en-el-corazon-de-cumbaya-255-874/",
+      "https://g3i.ec/departamentos/suite-de-lujo-en-venta-en-puembo-147-70790/",
+      "https://g3i.ec/departamentos/departamento-de-lujo-en-venta-en-puembo-3-dorm-319-31382/",
+      "https://g3i.ec/departamentos/departamento-de-lujo-en-venta-en-puembo-2-dorm-308-56280/",
+      "https://g3i.ec/departamentos/departamento-penthouse-de-lujo-en-venta-en-puembo-3dorm-salatv-430-220/",
+      "https://g3i.ec/departamentos/suite-de-lujo-en-venta-en-puembo-144-61128/",
+      "https://g3i.ec/terrenos/vendo-hermoso-terreno-en-estrategica-ubicacion-cumbay/",
+      "https://g3i.ec/proyect-g3i/casas-en-venta-sector-pacho-salas-tumbaco/"
+    ],
+    "brokenImages": [
+      "https://g3i.ec/wp-content/uploads/2021/09/18.jpg",
+      "https://g3i.ec/wp-content/uploads/2024/01/Finisterra_featured.png"
+    ],
+    "warnings": [
+      {
+        "wpUrl": "https://g3i.ec/casas/vendo-casa-de-dos-dormitorios-en-pakakuna-gardens-checa/",
+        "warning": "sector sin equivalencia en el catálogo: \"Checa\""
+      },
+      {
+        "wpUrl": "https://g3i.ec/casas/vendo-casa-de-dos-dormitorios-en-pakakuna-gardens-checa/",
+        "warning": "sin imágenes"
+      },
+      {
+        "wpUrl": "https://g3i.ec/casas/casa-en-venta-dentro-de-urb-en-el-corazon-de-cumbaya-255-874/",
+        "warning": "sin mapa de ubicación"
+      },
+      {
+        "wpUrl": "https://g3i.ec/departamentos/departamento-en-venta-en-proyecto-3-dormitorios-dentro-de-urbanizacion-cumbaya/",
+        "warning": "la descripción menciona varios precios (¿varias unidades en una ficha?)"
+      },
+      {
+        "wpUrl": "https://g3i.ec/departamentos/suite-de-lujo-en-venta-en-puembo-147-70790/",
+        "warning": "sin mapa de ubicación"
+      },
+      {
+        "wpUrl": "https://g3i.ec/departamentos/departamento-de-lujo-en-venta-en-puembo-3-dorm-319-31382/",
+        "warning": "sin mapa de ubicación"
+      },
+      {
+        "wpUrl": "https://g3i.ec/departamentos/departamento-de-lujo-en-venta-en-puembo-2-dorm-308-56280/",
+        "warning": "sin mapa de ubicación"
+      },
+      {
+        "wpUrl": "https://g3i.ec/departamentos/departamento-penthouse-de-lujo-en-venta-en-puembo-3dorm-salatv-430-220/",
+        "warning": "sin mapa de ubicación"
+      },
+      {
+        "wpUrl": "https://g3i.ec/departamentos/suite-de-lujo-en-venta-en-puembo-144-61128/",
+        "warning": "sin mapa de ubicación"
+      },
+      {
+        "wpUrl": "https://g3i.ec/departamentos/duplex-en-venta-en-tumbaco-2-dormitorios-126-m%c2%b2-jardin-privado-sector-auki-plaza/",
+        "warning": "varios sectores en WordPress (Cumbayá, Lumbisi); se eligió lumbisi"
+      },
+      {
+        "wpUrl": "https://g3i.ec/terrenos/vendo-hermoso-terreno-en-estrategica-ubicacion-cumbay/",
+        "warning": "sin mapa de ubicación"
+      },
+      {
+        "wpUrl": "https://g3i.ec/proyect-g3i/casas-en-venta-sector-pacho-salas-tumbaco/",
+        "warning": "sin mapa de ubicación"
+      },
+      {
+        "wpUrl": "https://g3i.ec/proyect-g3i/departamentos-en-venta-en-cumbaya-estudios-suites-y-2-dormitorios-desde-usd-69307/",
+        "warning": "el campo \"tipo\" dice \"Casas\" pero el título dice otra cosa; se usó departamento, suite"
+      },
+      {
+        "wpUrl": "https://g3i.ec/proyect-g3i/departamentos-en-venta-en-cumbaya-estudios-suites-y-2-dormitorios-desde-usd-69307/",
+        "warning": "varias fechas de entrega (Diciembre 2027, Diciembre 2028); se tomó la primera"
+      },
+      {
+        "wpUrl": "https://g3i.ec/proyect-g3i/%f0%9f%8c%b1-nuevo-proyecto-en-desarrollo-en-el-corazon-de-cumbaya/",
+        "warning": "varias fechas de entrega (Diciembre 2026, Diciembre 2027); se tomó la primera"
+      },
+      {
+        "wpUrl": "https://g3i.ec/proyect-g3i/proyecto-de-departamentos-estilo-resort-living-por-el-sector-pachosalas/",
+        "warning": "varias fechas de entrega (Octubre 2027, Diciembre 2028); se tomó la primera"
+      }
+    ]
+  }
+}
