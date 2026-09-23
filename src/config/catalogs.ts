@@ -41,6 +41,7 @@ export const SECTORS = [
   { key: "nayon", label: "Nayón" },
   { key: "miravalle", label: "Miravalle" },
   { key: "puembo", label: "Puembo" },
+  { key: "checa", label: "Checa" },
   { key: "pifo", label: "Pifo" },
   { key: "san-patricio", label: "San Patricio" },
   { key: "lumbisi", label: "Lumbisí" },
