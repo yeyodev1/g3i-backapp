@@ -182,6 +182,8 @@ function publicFilter(query: Record<string, any>): Record<string, unknown> {
 function sortFor(sort: unknown, featured: boolean): Record<string, 1 | -1> {
   if (sort === "price-asc") return { price: 1, createdAt: -1 };
   if (sort === "price-desc") return { price: -1, createdAt: -1 };
+  // «Más buscadas»: primero las que la inmobiliaria destaca (en su orden) y luego las más visitadas.
+  if (sort === "popular") return { isFeatured: -1, featuredOrder: 1, views: -1, createdAt: -1 };
   if (featured) return { featuredOrder: 1, createdAt: -1 };
   return { createdAt: -1 };
 }
@@ -263,7 +265,8 @@ export async function adminList(query: Record<string, any>) {
   const [docs, total] = await Promise.all([
     Property.find(filter)
       .select(PROPERTY_CARD_FIELDS + " status views createdAt updatedAt")
-      .sort({ updatedAt: -1 })
+      // En el portal se puede ordenar por visitas para ver qué es lo más buscado.
+      .sort(query.sort === "views" ? { views: -1, updatedAt: -1 } : { updatedAt: -1 })
       .skip(params.skip)
       .limit(params.limit)
       .lean(),
