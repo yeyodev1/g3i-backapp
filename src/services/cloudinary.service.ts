@@ -23,18 +23,28 @@ function ensureConfig() {
 
 const DEFAULT_FOLDER = "g3i-backapp";
 
-/** Sube un buffer (multer memoryStorage). */
+export type ResourceType = "image" | "video" | "raw";
+
+/**
+ * Sube un buffer (multer memoryStorage). Las imágenes se optimizan al vuelo;
+ * video y raw (PDF) se suben tal cual porque la transformación los rompería.
+ */
 export function uploadBuffer(
   buffer: Buffer,
   folder = DEFAULT_FOLDER,
-): Promise<{ url: string; publicId: string }> {
+  resourceType: ResourceType = "image",
+): Promise<{ url: string; publicId: string; resourceType: ResourceType }> {
   ensureConfig();
+  const options: Record<string, unknown> = { folder, resource_type: resourceType };
+  if (resourceType === "image") {
+    options.transformation = [{ quality: "auto", fetch_format: "auto" }];
+  }
   return new Promise((resolve, reject) => {
     const stream = cloudinary.uploader.upload_stream(
-      { folder, resource_type: "image", transformation: [{ quality: "auto", fetch_format: "auto" }] },
+      options,
       (error, result?: UploadApiResponse) => {
         if (error || !result) return reject(error || new Error("Cloudinary sin respuesta"));
-        resolve({ url: result.secure_url, publicId: result.public_id });
+        resolve({ url: result.secure_url, publicId: result.public_id, resourceType });
       },
     );
     stream.end(buffer);
@@ -58,4 +68,12 @@ export async function uploadImage(
 export async function deleteImage(publicId: string): Promise<void> {
   ensureConfig();
   await cloudinary.uploader.destroy(publicId);
+}
+
+export async function deleteAsset(
+  publicId: string,
+  resourceType: ResourceType = "image",
+): Promise<void> {
+  ensureConfig();
+  await cloudinary.uploader.destroy(publicId, { resource_type: resourceType, invalidate: true });
 }
