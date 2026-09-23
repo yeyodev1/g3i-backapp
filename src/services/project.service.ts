@@ -41,7 +41,7 @@ const CODE_REGEX = /^[A-Za-z0-9_-]{1,30}$/;
 const PUBLIC_UNIT_STATUSES: UnitStatus[] = ["available", "reserved"];
 
 export const PROJECT_CARD_FIELDS =
-  "code title slug summary stage propertyTypes sector priceFrom deliveryDate images";
+  "code title slug summary stage propertyTypes sector locality priceFrom deliveryDate images";
 
 export function toProjectCard(p: any, unitsAvailable = 0) {
   return {
@@ -53,6 +53,7 @@ export function toProjectCard(p: any, unitsAvailable = 0) {
     stage: p.stage || "",
     propertyTypes: p.propertyTypes || [],
     sector: p.sector || "",
+    locality: p.locality || "",
     priceFrom: p.priceFrom ?? null,
     deliveryDate: p.deliveryDate || "",
     cover: p.images?.[0]?.url || "",
@@ -90,6 +91,7 @@ function buildData(body: Record<string, any>): Record<string, unknown> {
     data.sector = body.sector ? oneOf(body.sector, SECTOR_KEYS, "sector") : "";
   if (has(body, "city")) data.city = str(body.city, 80) || "Quito";
   if (has(body, "address")) data.address = str(body.address, 300);
+  if (has(body, "locality")) data.locality = str(body.locality, 60);
   if (has(body, "location")) data.location = location(body.location);
   if (has(body, "priceFrom")) data.priceFrom = priceOrNull(body.priceFrom);
   if (has(body, "deliveryDate")) data.deliveryDate = str(body.deliveryDate, 60);
