@@ -175,3 +175,12 @@ export function listParam(value: unknown): string[] {
     .map((v) => v.trim())
     .filter(Boolean);
 }
+
+/**
+ * Posición entre las destacadas (1 = primera). Sin número va al final (999):
+ * así las que la inmobiliaria ordena salen antes que las que solo marcó.
+ */
+export function featuredOrder(value: unknown): number {
+  const n = Math.floor(Number(value));
+  return Number.isFinite(n) && n > 0 ? Math.min(n, 999) : 999;
+}

@@ -7,7 +7,10 @@ export interface ISettings {
   hero: { title: string; subtitle: string; image: Image | null; ctaLabel: string; ctaLink: string };
   popularSearches: { label: string; query: Record<string, string> }[];
   about: { title: string; text: string; image: Image | null };
-  stats: { label: string; value: string }[];
+  // Cifras de la banda bajo el buscador de Inicio. icon es una clave de STAT_ICONS.
+  stats: { icon: string; label: string; value: string }[];
+  // Usos de terreno que ofrece el buscador (los administra la clienta).
+  landUses: string[];
   contact: {
     whatsapp: string;
     phone: string;
@@ -38,6 +41,7 @@ export const SETTINGS_DEFAULTS = {
     image: null,
   },
   stats: [],
+  landUses: ["Residencial", "Comercial", "Para proyecto"],
   contact: {
     whatsapp: "593995806119",
     phone: "0995806119",
@@ -83,12 +87,17 @@ const settingsSchema = new Schema<ISettings>(
     stats: {
       type: [
         new Schema(
-          { label: { type: String, default: "" }, value: { type: String, default: "" } },
+          {
+            icon: { type: String, default: "" },
+            label: { type: String, default: "" },
+            value: { type: String, default: "" },
+          },
           { _id: false },
         ),
       ],
       default: [],
     },
+    landUses: { type: [String], default: SETTINGS_DEFAULTS.landUses },
     contact: {
       whatsapp: { type: String, default: SETTINGS_DEFAULTS.contact.whatsapp },
       phone: { type: String, default: SETTINGS_DEFAULTS.contact.phone },

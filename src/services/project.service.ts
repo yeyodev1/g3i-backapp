@@ -11,12 +11,14 @@ import {
   UnitStatus,
 } from "../config/catalogs";
 import { Project } from "../models/project.model";
+import { listingPipeline } from "../utils/featured";
 import { Property } from "../models/property.model";
 import { Unit } from "../models/unit.model";
 import { publicLocation } from "../utils/geo";
 import { pageParams, paginated } from "../utils/pagination";
 import { uniqueSlug } from "../utils/uniqueSlug";
 import {
+  featuredOrder,
   assertObjectId,
   bool,
   catalogArray,
@@ -110,7 +112,7 @@ function buildData(body: Record<string, any>): Record<string, unknown> {
   }
   if (has(body, "status")) data.status = oneOf(body.status, PROJECT_STATUSES, "estado");
   if (has(body, "isFeatured")) data.isFeatured = bool(body.isFeatured);
-  if (has(body, "featuredOrder")) data.featuredOrder = num(body.featuredOrder);
+  if (has(body, "featuredOrder")) data.featuredOrder = featuredOrder(body.featuredOrder);
   return data;
 }
 
@@ -163,12 +165,16 @@ export async function listPublic(query: Record<string, any>) {
   if (search) Object.assign(filter, search);
 
   const [docs, total] = await Promise.all([
-    Project.find(filter)
-      .select(PROJECT_CARD_FIELDS)
-      .sort(featured ? { featuredOrder: 1, createdAt: -1 } : { isFeatured: -1, createdAt: -1 })
-      .skip(params.skip)
-      .limit(params.limit)
-      .lean(),
+    Project.aggregate(
+      listingPipeline(
+        filter,
+        featured
+          ? { featuredRank: 1, createdAt: -1 }
+          : { isFeatured: -1, featuredRank: 1, createdAt: -1 },
+        PROJECT_CARD_FIELDS,
+        params,
+      ),
+    ),
     Project.countDocuments(filter),
   ]);
   return paginated(await toProjectCards(docs), total, params);
@@ -344,7 +350,7 @@ export async function setStatus(id: string, status: unknown) {
 export async function setFeatured(id: string, body: Record<string, any>) {
   assertObjectId(id, "Identificador de proyecto inválido");
   const set: Record<string, unknown> = { isFeatured: bool(body?.isFeatured) };
-  if (has(body ?? {}, "featuredOrder")) set.featuredOrder = num(body.featuredOrder);
+  if (has(body ?? {}, "featuredOrder")) set.featuredOrder = featuredOrder(body.featuredOrder);
   const doc = await Project.findByIdAndUpdate(id, { $set: set }, { new: true }).lean();
   if (!doc) throw new CustomError("Proyecto no encontrado", 404);
   return doc;

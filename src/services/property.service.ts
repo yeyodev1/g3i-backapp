@@ -8,11 +8,13 @@ import {
   SECTOR_KEYS,
 } from "../config/catalogs";
 import { Property } from "../models/property.model";
+import { listingPipeline } from "../utils/featured";
 import { Project } from "../models/project.model";
 import { publicLocation } from "../utils/geo";
 import { pageParams, paginated } from "../utils/pagination";
 import { uniqueSlug } from "../utils/uniqueSlug";
 import {
+  featuredOrder,
   assertObjectId,
   bool,
   catalogArray,
@@ -35,7 +37,7 @@ const MAX_IMAGES = 25;
 const CODE_REGEX = /^[A-Za-z0-9_-]{1,30}$/;
 
 export const PROPERTY_CARD_FIELDS =
-  "code title slug summary type condition sector locality badge price images bedrooms bathrooms parking builtM2 totalM2 frontMeters isFeatured";
+  "code title slug summary type condition sector locality badge price images bedrooms bathrooms parking builtM2 totalM2 frontMeters landUse isFeatured";
 
 export function toPropertyCard(p: any) {
   return {
@@ -58,6 +60,7 @@ export function toPropertyCard(p: any) {
     builtM2: p.builtM2 ?? null,
     totalM2: p.totalM2 ?? null,
     frontMeters: p.frontMeters ?? null,
+    landUse: p.landUse || "",
     isFeatured: !!p.isFeatured,
   };
 }
@@ -90,6 +93,7 @@ function buildData(body: Record<string, any>): Record<string, unknown> {
   if (has(body, "address")) data.address = str(body.address, 300);
   if (has(body, "locality")) data.locality = str(body.locality, 60);
   if (has(body, "badge")) data.badge = str(body.badge, 24);
+  if (has(body, "landUse")) data.landUse = str(body.landUse, 40);
   if (has(body, "city")) data.city = str(body.city, 80) || "Quito";
   if (has(body, "type")) data.type = oneOf(body.type, PROPERTY_TYPE_KEYS, "tipo");
   if (has(body, "condition")) {
@@ -111,7 +115,7 @@ function buildData(body: Record<string, any>): Record<string, unknown> {
   }
   if (has(body, "serviceBathroom")) data.serviceBathroom = bool(body.serviceBathroom);
   if (has(body, "isFeatured")) data.isFeatured = bool(body.isFeatured);
-  if (has(body, "featuredOrder")) data.featuredOrder = num(body.featuredOrder);
+  if (has(body, "featuredOrder")) data.featuredOrder = featuredOrder(body.featuredOrder);
   if (has(body, "amenities")) data.amenities = catalogArray(body.amenities, AMENITY_KEYS);
   if (has(body, "images")) {
     if (Array.isArray(body.images) && body.images.length > MAX_IMAGES) {
@@ -170,6 +174,16 @@ function publicFilter(query: Record<string, any>): Record<string, unknown> {
     if (minPrice !== null) filter.price.$gte = minPrice;
     if (maxPrice !== null) filter.price.$lte = maxPrice;
   }
+  // Terrenos: rango de metraje y uso del suelo.
+  const minM2 = numOrNull(query.minM2);
+  const maxM2 = numOrNull(query.maxM2);
+  if (minM2 !== null || maxM2 !== null) {
+    filter.totalM2 = {};
+    if (minM2 !== null) filter.totalM2.$gte = minM2;
+    if (maxM2 !== null) filter.totalM2.$lte = maxM2;
+  }
+  const landUses = listParam(query.landUse);
+  if (landUses.length) filter.landUse = { $in: landUses };
   const bedrooms = numOrNull(query.bedrooms);
   if (bedrooms !== null && bedrooms > 0) filter.bedrooms = { $gte: bedrooms };
   if (bool(query.featured)) filter.isFeatured = true;
@@ -183,8 +197,8 @@ function sortFor(sort: unknown, featured: boolean): Record<string, 1 | -1> {
   if (sort === "price-asc") return { price: 1, createdAt: -1 };
   if (sort === "price-desc") return { price: -1, createdAt: -1 };
   // «Más buscadas»: primero las que la inmobiliaria destaca (en su orden) y luego las más visitadas.
-  if (sort === "popular") return { isFeatured: -1, featuredOrder: 1, views: -1, createdAt: -1 };
-  if (featured) return { featuredOrder: 1, createdAt: -1 };
+  if (sort === "popular") return { isFeatured: -1, featuredRank: 1, views: -1, createdAt: -1 };
+  if (featured) return { featuredRank: 1, createdAt: -1 };
   return { createdAt: -1 };
 }
 
@@ -192,12 +206,14 @@ export async function listPublic(query: Record<string, any>) {
   const params = pageParams(query);
   const filter = publicFilter(query);
   const [docs, total] = await Promise.all([
-    Property.find(filter)
-      .select(PROPERTY_CARD_FIELDS)
-      .sort(sortFor(query.sort, bool(query.featured)))
-      .skip(params.skip)
-      .limit(params.limit)
-      .lean(),
+    Property.aggregate(
+      listingPipeline(
+        filter,
+        sortFor(query.sort, bool(query.featured)),
+        PROPERTY_CARD_FIELDS,
+        params,
+      ),
+    ),
     Property.countDocuments(filter),
   ]);
   return paginated(docs.map(toPropertyCard), total, params);
@@ -344,7 +360,7 @@ export async function setStatus(id: string, status: unknown) {
 export async function setFeatured(id: string, body: Record<string, any>) {
   assertObjectId(id, "Identificador de propiedad inválido");
   const set: Record<string, unknown> = { isFeatured: bool(body?.isFeatured) };
-  if (has(body ?? {}, "featuredOrder")) set.featuredOrder = num(body.featuredOrder);
+  if (has(body ?? {}, "featuredOrder")) set.featuredOrder = featuredOrder(body.featuredOrder);
   const doc = await Property.findByIdAndUpdate(id, { $set: set }, { new: true }).lean();
   if (!doc) throw new CustomError("Propiedad no encontrada", 404);
   return doc;

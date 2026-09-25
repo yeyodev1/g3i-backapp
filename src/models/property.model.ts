@@ -31,6 +31,8 @@ export interface IProperty {
   location: Location;
   price: number;
   hoa: { enabled: boolean; amount: number };
+  // Solo terrenos: uso del suelo (Residencial, Comercial…), de la lista en Settings.landUses.
+  landUse: string;
   totalM2: number | null;
   builtM2: number | null;
   gardenM2: number | null;
@@ -84,6 +86,7 @@ const propertySchema = new Schema<IProperty>(
       enabled: { type: Boolean, default: false },
       amount: { type: Number, default: 0 },
     },
+    landUse: { type: String, default: "", trim: true, maxlength: 40 },
     totalM2: nullableNumber,
     builtM2: nullableNumber,
     gardenM2: nullableNumber,

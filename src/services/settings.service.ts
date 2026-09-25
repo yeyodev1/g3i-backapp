@@ -8,6 +8,8 @@ export async function getSettings() {
     { $setOnInsert: { key: SETTINGS_KEY } },
     { new: true, upsert: true, setDefaultsOnInsert: true },
   ).lean();
+  // Documentos creados antes de los usos de terreno: .lean() no aplica defaults.
+  if (doc && !Array.isArray(doc.landUses)) doc.landUses = [...SETTINGS_DEFAULTS.landUses];
   return doc;
 }
 
@@ -36,12 +38,41 @@ function popularSearches(value: unknown) {
     .slice(0, 20);
 }
 
+// Íconos permitidos en las cifras de Inicio (el front tiene el mismo catálogo).
+const STAT_ICONS = [
+  "casa",
+  "departamento",
+  "terreno",
+  "propiedades",
+  "proyectos",
+  "llave",
+  "premio",
+  "clientes",
+];
+
 function stats(value: unknown) {
   if (!Array.isArray(value)) return [];
   return value
-    .map((item) => ({ label: str(section(item).label, 60), value: str(section(item).value, 30) }))
+    .map((item) => {
+      const v = section(item);
+      const icon = str(v.icon, 20);
+      return {
+        icon: STAT_ICONS.includes(icon) ? icon : "propiedades",
+        label: str(v.label, 60),
+        value: str(v.value, 30),
+      };
+    })
     .filter((s) => s.label && s.value)
     .slice(0, 8);
+}
+
+function landUses(value: unknown) {
+  if (!Array.isArray(value)) return [];
+  const seen = new Set<string>();
+  return value
+    .map((v) => str(v, 40))
+    .filter((v) => v && !seen.has(v.toLowerCase()) && seen.add(v.toLowerCase()))
+    .slice(0, 12);
 }
 
 /** Actualiza por secciones: lo que no viene en el body queda como estaba. */
@@ -64,6 +95,7 @@ export async function updateSettings(body: Record<string, any>) {
     if (has(a, "image")) set["about.image"] = image(a.image);
   }
   if (has(body, "stats")) set.stats = stats(body.stats);
+  if (has(body, "landUses")) set.landUses = landUses(body.landUses);
   if (has(body, "contact")) {
     const c = section(body.contact);
     for (const k of Object.keys(SETTINGS_DEFAULTS.contact)) {

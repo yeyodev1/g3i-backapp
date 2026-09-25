@@ -37,7 +37,7 @@ export async function getPins(query: Record<string, any>) {
     kind === "project"
       ? []
       : Property.find(propertyFilter)
-          .select("slug title type price sector images location bedrooms builtM2 totalM2")
+          .select("slug title type price sector images location bedrooms builtM2 totalM2 landUse")
           .lean(),
     kind === "property"
       ? []
@@ -65,6 +65,7 @@ export async function getPins(query: Record<string, any>) {
         bedrooms: p.bedrooms ?? null,
         builtM2: p.builtM2 ?? null,
         totalM2: p.totalM2 ?? null,
+        landUse: p.landUse || "",
       };
     }),
     projects: projects.map((p) => {
@@ -85,6 +86,7 @@ export async function getPins(query: Record<string, any>) {
         bedrooms: null,
         builtM2: null,
         totalM2: null,
+        landUse: "",
       };
     }),
   };
