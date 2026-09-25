@@ -19,11 +19,13 @@ async function countByStatus(
 
 export async function getDashboard() {
   const weekAgo = new Date(Date.now() - 7 * 24 * 60 * 60 * 1000);
-  const [properties, projects, units, newLeads, totalLeads, last7d, recentLeads] =
+  const [properties, projects, units, unitProjects, newLeads, totalLeads, last7d, recentLeads] =
     await Promise.all([
       countByStatus(Property, ["published", "draft", "sold", "hidden"]),
       countByStatus(Project, ["published", "draft", "sold-out", "hidden"]),
       countByStatus(Unit, ["available", "reserved", "sold"]),
+      // Cuántos proyectos ya tienen su inventario cargado (el resto aún no tiene unidades).
+      Unit.distinct("project").then((ids) => ids.length),
       Lead.countDocuments({ status: "new" }),
       Lead.countDocuments(),
       Lead.countDocuments({ createdAt: { $gte: weekAgo } }),
@@ -33,6 +35,7 @@ export async function getDashboard() {
     properties,
     projects,
     units,
+    unitProjects,
     leads: { new: newLeads, total: totalLeads, last7d },
     recentLeads,
   };
