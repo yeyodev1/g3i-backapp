@@ -10,6 +10,9 @@ export async function getSettings() {
   ).lean();
   // Documentos creados antes de los usos de terreno: .lean() no aplica defaults.
   if (doc && !Array.isArray(doc.landUses)) doc.landUses = [...SETTINGS_DEFAULTS.landUses];
+  if (doc && !Array.isArray(doc.priceRanges)) {
+    doc.priceRanges = SETTINGS_DEFAULTS.priceRanges.map((r) => ({ ...r }));
+  }
   return doc;
 }
 
@@ -75,6 +78,23 @@ function landUses(value: unknown) {
     .slice(0, 12);
 }
 
+function priceRanges(value: unknown) {
+  if (!Array.isArray(value)) return [];
+  const bound = (v: unknown) => {
+    if (v === null || v === undefined || v === "") return null;
+    const n = Math.round(Number(v));
+    return Number.isFinite(n) && n > 0 ? n : null;
+  };
+  return value
+    .map((item) => ({ min: bound(section(item).min), max: bound(section(item).max) }))
+    .filter(
+      (r) =>
+        (r.min !== null || r.max !== null) && (r.min === null || r.max === null || r.min < r.max),
+    )
+    .sort((a, b) => (a.min ?? 0) - (b.min ?? 0))
+    .slice(0, 8);
+}
+
 /** Actualiza por secciones: lo que no viene en el body queda como estaba. */
 export async function updateSettings(body: Record<string, any>) {
   await getSettings();
@@ -96,6 +116,7 @@ export async function updateSettings(body: Record<string, any>) {
   }
   if (has(body, "stats")) set.stats = stats(body.stats);
   if (has(body, "landUses")) set.landUses = landUses(body.landUses);
+  if (has(body, "priceRanges")) set.priceRanges = priceRanges(body.priceRanges);
   if (has(body, "contact")) {
     const c = section(body.contact);
     for (const k of Object.keys(SETTINGS_DEFAULTS.contact)) {

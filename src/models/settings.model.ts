@@ -11,6 +11,8 @@ export interface ISettings {
   stats: { icon: string; label: string; value: string }[];
   // Usos de terreno que ofrece el buscador (los administra la clienta).
   landUses: string[];
+  // Rangos del filtro de precio (Inicio y mapa). null = sin límite por ese lado.
+  priceRanges: { min: number | null; max: number | null }[];
   contact: {
     whatsapp: string;
     phone: string;
@@ -42,6 +44,11 @@ export const SETTINGS_DEFAULTS = {
   },
   stats: [],
   landUses: ["Residencial", "Comercial", "Para proyecto"],
+  priceRanges: [
+    { min: null, max: 150000 },
+    { min: 150000, max: 300000 },
+    { min: 300000, max: null },
+  ],
   contact: {
     whatsapp: "593995806119",
     phone: "0995806119",
@@ -98,6 +105,15 @@ const settingsSchema = new Schema<ISettings>(
       default: [],
     },
     landUses: { type: [String], default: SETTINGS_DEFAULTS.landUses },
+    priceRanges: {
+      type: [
+        new Schema(
+          { min: { type: Number, default: null }, max: { type: Number, default: null } },
+          { _id: false },
+        ),
+      ],
+      default: SETTINGS_DEFAULTS.priceRanges,
+    },
     contact: {
       whatsapp: { type: String, default: SETTINGS_DEFAULTS.contact.whatsapp },
       phone: { type: String, default: SETTINGS_DEFAULTS.contact.phone },
