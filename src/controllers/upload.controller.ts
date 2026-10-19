@@ -11,6 +11,15 @@ export async function upload(req: Request, res: Response, next: NextFunction) {
   }
 }
 
+/** POST /api/admin/uploads/signature — body: { folder, kind }. El archivo va directo a Cloudinary. */
+export async function sign(req: Request, res: Response, next: NextFunction) {
+  try {
+    res.status(201).json(uploadService.sign(req.body?.folder, req.body?.kind));
+  } catch (error) {
+    next(error);
+  }
+}
+
 /** DELETE /api/admin/uploads — body: { publicId, resourceType } */
 export async function remove(req: Request, res: Response, next: NextFunction) {
   try {

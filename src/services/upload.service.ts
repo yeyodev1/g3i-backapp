@@ -1,8 +1,10 @@
 import { CustomError } from "../errors/customError.error";
 import {
   deleteAsset,
+  DirectUploadTicket,
   isCloudinaryConfigured,
   ResourceType,
+  signDirectUpload,
   uploadBuffer,
 } from "./cloudinary.service";
 
@@ -81,6 +83,12 @@ export async function upload(
     console.error("[upload] Cloudinary rechazó el archivo:", error?.message || error);
     throw new CustomError("No se pudo subir el archivo, intenta de nuevo", 502);
   }
+}
+
+/** Firma la subida directa a Cloudinary; el tamaño lo valida el navegador y el plan de Cloudinary. */
+export function sign(folder: unknown, kind: unknown): DirectUploadTicket {
+  requireCloudinary();
+  return signDirectUpload(safeFolder(folder), parseResourceType(kind));
 }
 
 export async function remove(publicId: unknown, kind: unknown): Promise<void> {

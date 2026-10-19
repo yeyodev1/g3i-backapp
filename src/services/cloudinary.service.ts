@@ -51,6 +51,37 @@ export function uploadBuffer(
   });
 }
 
+export interface DirectUploadTicket {
+  uploadUrl: string;
+  resourceType: ResourceType;
+  fields: Record<string, string>;
+}
+
+/**
+ * Firma una subida directa navegador → Cloudinary. Vercel corta los cuerpos
+ * sobre ~4.5 MB, así que el archivo no puede pasar por el backend: acá solo
+ * se firman los parámetros y el navegador sube con ellos.
+ */
+export function signDirectUpload(folder: string, resourceType: ResourceType): DirectUploadTicket {
+  ensureConfig();
+  const params: Record<string, string | number> = {
+    folder,
+    timestamp: Math.floor(Date.now() / 1000),
+  };
+  if (resourceType === "image") {
+    // Mismo tratamiento que uploadBuffer: optimizar la imagen al entrar.
+    params.transformation = "f_auto,q_auto";
+  }
+  const signature = cloudinary.utils.api_sign_request(params, env.CLOUDINARY_API_SECRET);
+  const fields: Record<string, string> = { api_key: env.CLOUDINARY_API_KEY, signature };
+  for (const [key, value] of Object.entries(params)) fields[key] = String(value);
+  return {
+    uploadUrl: `https://api.cloudinary.com/v1_1/${env.CLOUDINARY_CLOUD_NAME}/${resourceType}/upload`,
+    resourceType,
+    fields,
+  };
+}
+
 /** Sube un data URI base64 o una URL remota. */
 export async function uploadImage(
   source: string,
